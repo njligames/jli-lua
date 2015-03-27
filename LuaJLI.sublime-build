@@ -1,0 +1,27 @@
+{
+	"file_regex": "^(?:(?:\t)|(?:.+: ))(.+):([0-9]+): (.*)$",
+	"selector": "source.lua",
+	"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli", "$file"],
+
+	"variants": [
+		{	"name": "Run",
+			"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli", "$file"]
+		},
+		{	"name": "JLILua",
+			"shell": true,
+			"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli", "$project_path"],
+			"osx":
+			{
+				"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli $project_path"]
+			}
+		},
+		{   "name": "ldoc: File",
+			"shell": true,
+			"cmd": ["ldoc -d $project_path/doc/$file_base_name -f markdown -t $file_base_name $file"]
+		},
+		{   "name": "ldoc: Project",
+			"shell": true,
+			"cmd": ["ldoc -d $project_path/doc -f markdown -t $project_base_name $project_path/src/"]
+		}
+	]
+}

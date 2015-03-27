@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"mat4"
+			],
+			[
+				"labelH",
+				"LabelHUD.setText"
+			],
+			[
+				"func",
+				"funcl	anonymous function"
+			],
+			[
+				"function",
+				"function	function"
+			],
+			[
+				"_",
+				"_VERSION	_VERSION"
+			],
+			[
+				"bit",
+				"bit.tobit	(x)"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"fu",
+				"funcl	anonymous function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/main.lua",
+			"settings":
+			{
+				"buffer_size": 2541,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Lua JLI/LuaJLI.sublime-build",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL/function-(local).sublime-snippet",
+		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL/function-(lambda).sublime-snippet",
+		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL/function-(function).sublime-snippet",
+		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL/function-(fun).sublime-snippet",
+		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL/function-(def).sublime-snippet",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/shaders/objectShader.fsh",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/main.lua",
+		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/ParseLua.py",
+		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/LuaJLI.tmLanguage",
+		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL.tmLanguage.cache",
+		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/LuaJLI/Main.sublime-menu",
+		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/LuaJLI/LuaLove.sublime-build",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testAction.lua",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/cubicTexture.lua",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testLabelHUD.lua",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testSound.lua",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/nanovg.lua",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testSpriteTextCoords.lua",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testButtonHUD.lua",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testTextboxHUD.lua",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testSliderHUD.lua",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testCheckboxHUD.lua",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/game.sublime-project",
+		"/Applications/TexturePacker.app/Contents/Resources/exporters/corona-imagesheet/corona-imagesheet.lua",
+		"/Applications/TexturePacker.app/Contents/Resources/exporters/uikit/uikit.plist",
+		"/Applications/TexturePacker.app/Contents/Resources/exporters/uikit/exporter.xml",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/testSpriteTextCoords.lua",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/testLabelHUD.lua",
+		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua/LuaJLI.sublime-completions",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/src/Lua/Lua.i"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"glsl",
+			"sublime",
+			"sublime-glsl",
+			"glsl",
+			"tabTrigger",
+			"uniform",
+			"Love",
+			"LuaLove",
+			"Love",
+			"project_path",
+			"LuaLove",
+			"Lua Love",
+			"love",
+			"Love2D",
+			"origin",
+			"setOrigin",
+			"imageWidth",
+			"createCameraNode",
+			"createParticleEmitterNode",
+			"particleEmitter",
+			"spriteFiles",
+			"spriteAtlas",
+			"scene",
+			"sound",
+			"childNode",
+			"cubeNode",
+			"sound",
+			"particleEmitter",
+			"scene",
+			"MyNodeMyNodeStateEnter",
+			"current_frame",
+			"spriteAtlas",
+			"setSpriteAtlasFrame",
+			"current_frame",
+			"bash",
+			"current_frame",
+			"setSpriteAtlasFrame",
+			"numberOfFrames",
+			"testBirdFront",
+			"i",
+			"scene",
+			"getGeometry",
+			"labelHUD",
+			"play",
+			"drawEditBox",
+			"japanese",
+			"label",
+			"origin",
+			"spriteAtlas",
+			"scene",
+			"Xml",
+			"Action"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"JLI",
+			"LuaJLI",
+			"Lua JLI",
+			"JLIEngine",
+			"$1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/main.lua",
+					"settings":
+					{
+						"buffer_size": 2541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1642,
+								1642
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true
+}
