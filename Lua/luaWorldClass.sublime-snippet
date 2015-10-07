@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-
 local addUserData = function(self, key, value)
     self.userdata[key] = value
 end
@@ -40,7 +39,8 @@ local update = function(self, timeStep)
         self.loadingFunctions[self.currentFunctionIndex](self)
         self.currentFunctionIndex = self.currentFunctionIndex + 1
     else
-        --update menu.
+        --update world state.
+        -- print("update (" .. self.worldState:getName() .. ")")
     end
 
     return self.sceneStates
@@ -54,15 +54,15 @@ local renderHUD = function(self)
 end
 
 local exit = function(self)
-
-    print("exit (" .. self.worldState:getName() .. ")")
+    local stateName = self.worldState:getName()
 
     for k,v in pairs(self.sceneStates) do
-        self.sceneStates[k]:exit(JLI.World.getInstance():getScene())
         self.sceneStates[k]:__gc()
     end
 
     self.sceneStates = {}
+
+    print("exit (" .. stateName .. ")")
 
     return self.sceneStates
 end
@@ -103,12 +103,12 @@ local touchCancelled = function(self, touches)
 end
 
 local delete = function(self)
-    print("delete (" .. self.worldState:getName() .. ")")
+    local stateName = self.worldState:getName()
 
-    self.sceneStates = self:exit()
-
-    JLI.World.getInstance():getWorldFactory():destroy(self.worldState)
+    JLI.WorldState.destroy(self.worldState)
     self.worldState = nil
+
+    print("delete (" .. stateName .. ")")
 end
 
 local methods = 
@@ -132,24 +132,23 @@ local methods =
 }
 
 local new = function(name)
+    print("new (" .. name .. ")")
 
     local worldState = JLI.WorldState.create()
     worldState:setName(name)
 
-    print("new (" .. worldState:getName() .. ")")
-
     local loadingFunctions =
     {
         function(self)
-            --local testScene_Basic = require "testScene_Basic"
+            local testScene_Basic = require "testScene_Basic"
 
-            --local key = _testsSceneStateNames.basic
-            --self.sceneStates[key] = testScene_Basic.new(key)
+            local key = _testsSceneStateNames.basic
+            self.sceneStates[key] = testScene_Basic.new(key)
 
-            --self.startSceneName = _testsSceneStateNames.basic
+            self.startSceneName = _testsSceneStateNames.basic
         end,
         function(self)
-            --self.sceneStates[self.startSceneName]:push()
+            self.sceneStates[self.startSceneName]:push()
         end,
     }
 

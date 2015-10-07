@@ -11,12 +11,21 @@ local hide = function(self, camera)
 end
 
 local enter = function(self)
+
+    print("enter (" .. self.node:getName() .. "->" .. self.node:getStateMachine():getState():getName() .. ")")
+
 end
 
 local update = function(self, timeStep)
+    
+    -- print("update (" .. self.node:getStateMachine():getState():getName() .. ")")
+
 end
 
 local exit = function(self)
+
+    print("exit (" .. self.node:getName() .. "->" .. self.node:getStateMachine():getState():getName() .. ")")
+
 end
 
 local onMessage = function(self, message)
@@ -41,20 +50,24 @@ local touchCancelled = function(self, rayContact)
 end
 
 local delete = function(self)
+    local nodeName = self.node:getName()
 
-    JLI.World.getInstance():getWorldFactory():destroy(self.physicsShape)
+    JLI.PhysicsShape.destroy(self.physicsShape)
     self.physicsShape = nil
-    JLI.World.getInstance():getWorldFactory():destroy(self.physicsBody)
+
+    JLI.PhysicsBody.destroy(self.physicsBody)
     self.physicsBody = nil
 
+    JLI.Node.destroy(self.node)
+    self.node = nil
+
     for k,v in pairs(self.nodeStates) do
-        JLI.World.getInstance():getWorldFactory():destroy(self.nodeStates[k])
+        JLI.NodeState.destroy(self.nodeStates[k])
         self.nodeStates[k] = nil
     end
     self.nodeStates = nil
 
-    JLI.World.getInstance():getWorldFactory():destroy(self.node)
-    self.node = nil
+    print("delete (" .. nodeName .. ")")
 end
 
 local methods = 
@@ -76,6 +89,8 @@ local methods =
 }
 
 local new = function(name, geometry)
+    print("new (" .. name .. ")")
+
     local node = JLI.Node.create()
     node:setName(name)
 

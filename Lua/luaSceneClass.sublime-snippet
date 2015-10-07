@@ -1,7 +1,5 @@
 <snippet>
 	<content><![CDATA[
-local arg={...}
-
 local addUserData = function(self, key, value)
     self.userdata[key] = value
 end
@@ -21,28 +19,38 @@ local enter = function(self, scene)
 
     print("enter (" .. self.sceneState:getName() .. ")")
 
-    --local testNode = require "testNode"
-    --self.nodes["test"] = testNode.new("test", self.geometry)
+    self.currentFunctionIndex = 1
 
-	return self.nodes
+    return self.nodes
 end
 
 local update = function(self, scene, timeStep)
 
-    -- print("update (" .. self.sceneState:getName() .. ")")
+    if self.currentFunctionIndex <= #self.loadingFunctions then
+        self.loadingFunctions[self.currentFunctionIndex](self)
+        self.currentFunctionIndex = self.currentFunctionIndex + 1
+    else
+        --update scene state.
+
+        -- print("update (" .. self.sceneState:getName() .. ")")
+
+        pushWorldState(_worldStateNames.tests)
+        -- pushSceneState(_testsSceneStateNames.basic)
+    end
 
     return self.nodes
 end
 
 local exit = function(self, scene)
-    
-    print("exit (" .. self.sceneState:getName() .. ")")
+    local sceneName = self.sceneState:getName()
 
-	for k,v in pairs(self.nodes) do
+    for k,v in pairs(self.nodes) do
         self.nodes[k]:exit()
-		self.nodes[k]:__gc()
-	end
-	self.nodes = {}
+        self.nodes[k]:__gc()
+    end
+    self.nodes = {}
+
+    print("exit (" .. sceneName .. ")")
 
     return self.nodes
 end
@@ -63,18 +71,15 @@ local touchCancelled = function(self, touches)
 end
 
 local delete = function(self)
-    print("delete (" .. self.sceneState:getName() .. ")")
+    local sceneName = self.sceneState:getName()
 
-    for k,v in pairs(self.nodes) do
-        self.nodes[k]:__gc()
-    end
-    self.nodes = {}
-
-    JLI.World.getInstance():getWorldFactory():destroy(self.geometry)
+    JLI.Geometry.destroy(self.geometry)
     self.geometry = nil
 
-    JLI.World.getInstance():getWorldFactory():destroy(self.sceneState)
+    JLI.SceneState.destroy(self.sceneState)
     self.sceneState = nil
+
+    print("delete (" .. sceneName .. ")")
 end
 
 local methods = 
@@ -85,33 +90,43 @@ local methods =
     push = push,
     renderHUD = renderHUD,
     enter = enter,
-	update = update,
-	exit = exit,
-	onMessage = onMessage,
+    update = update,
+    exit = exit,
+    onMessage = onMessage,
 
     touchDown = touchDown,
     touchUp = touchUp,
     touchMove = touchMove,
     touchCancelled = touchCancelled,
-	__gc = delete
+    __gc = delete
 }
 
 local new = function(name)
+    print("new (" .. name .. ")")
 
-	local sceneState = JLI.SceneState.create()
+    local sceneState = JLI.SceneState.create()
     sceneState:setName(name)
-
-    print("new (" .. sceneState:getName() .. ")")
-
+    
     geometry = JLI.Sprite2D.create()
 
     geometry:addShaderProgram(getShaderProgram())
 
+    local loadingFunctions =
+    {
+        function(self)
+            local testNode = require "testNode"
+            self.nodes["myTestNode"] = testNode.new("myTestNode", self.geometry)
+        end,
+        function(self)
+        end,
+    }
+
     local properties = 
     {
-    	sceneState = sceneState,
+        sceneState = sceneState,
         nodes = {},
         userdata = {},
+        loadingFunctions = loadingFunctions,
 
         geometry = geometry,
     }
