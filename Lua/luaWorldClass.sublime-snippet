@@ -107,7 +107,8 @@ local delete = function(self)
 
     self.sceneStates = self:exit()
 
-    self.worldState = destroyObject(self.worldState)
+    JLI.World.getInstance():getWorldFactory():destroy(self.worldState)
+    self.worldState = nil
 end
 
 local methods = 

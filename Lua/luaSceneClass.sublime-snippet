@@ -70,8 +70,11 @@ local delete = function(self)
     end
     self.nodes = {}
 
-    self.geometry = destroyObject(self.geometry)
-    self.sceneState = destroyObject(self.sceneState)
+    JLI.World.getInstance():getWorldFactory():destroy(self.geometry)
+    self.geometry = nil
+
+    JLI.World.getInstance():getWorldFactory():destroy(self.sceneState)
+    self.sceneState = nil
 end
 
 local methods = 
