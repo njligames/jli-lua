@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeBvhTriangleMeshBuilder.create()]]></content>
+	<tabTrigger>PhysicsShapeBvhTriangleMeshBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShapeBvhTriangleMeshBuilder::create()</description>
+</snippet>

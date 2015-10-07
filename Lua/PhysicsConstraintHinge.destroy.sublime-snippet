@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintHinge.destroy(${1: *})]]></content>
+	<tabTrigger>PhysicsConstraintHinge__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsConstraintHinge::destroy( * object)</description>
+</snippet>

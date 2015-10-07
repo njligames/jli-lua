@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getBytesPerPixel()]]></content>
+	<tabTrigger>Image_getBytesPerPixel</tabTrigger>
+	<scope>source.lua</scope>
+	<description>u8 Image::getBytesPerPixel()</description>
+</snippet>

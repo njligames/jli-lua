@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isLoadedGPU()]]></content>
+	<tabTrigger>Plane_isLoadedGPU</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Plane::isLoadedGPU()</description>
+</snippet>

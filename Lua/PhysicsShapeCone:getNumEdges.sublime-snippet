@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNumEdges()]]></content>
+	<tabTrigger>PhysicsShapeCone_getNumEdges</tabTrigger>
+	<scope>source.lua</scope>
+	<description>int PhysicsShapeCone::getNumEdges()</description>
+</snippet>

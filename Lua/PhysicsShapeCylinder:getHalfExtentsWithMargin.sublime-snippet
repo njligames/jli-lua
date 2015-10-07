@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getHalfExtentsWithMargin()]]></content>
+	<tabTrigger>PhysicsShapeCylinder_getHalfExtentsWithMargin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btVector3 PhysicsShapeCylinder::getHalfExtentsWithMargin()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setAngularDamping(${1:f32})]]></content>
+	<tabTrigger>PhysicsBodyRigid_setAngularDamping</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsBodyRigid::setAngularDamping(f32 damping)</description>
+</snippet>

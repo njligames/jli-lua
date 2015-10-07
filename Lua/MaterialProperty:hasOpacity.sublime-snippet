@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hasOpacity()]]></content>
+	<tabTrigger>MaterialProperty_hasOpacity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool MaterialProperty::hasOpacity()</description>
+</snippet>

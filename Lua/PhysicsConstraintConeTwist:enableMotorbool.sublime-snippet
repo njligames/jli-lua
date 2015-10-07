@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enableMotor(${1:bool})]]></content>
+	<tabTrigger>PhysicsConstraintConeTwist_enableMotor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintConeTwist::enableMotor(bool b)</description>
+</snippet>

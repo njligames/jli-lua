@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Skinner.create(${1:const  &})]]></content>
+	<tabTrigger>Skinner__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * Skinner::create(const  & builder)</description>
+</snippet>

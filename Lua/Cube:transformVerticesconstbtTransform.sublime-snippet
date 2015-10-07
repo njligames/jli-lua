@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[transformVertices(${1: *},${2:const btTransform &})]]></content>
+	<tabTrigger>Cube_transformVertices</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Cube::transformVertices( * node,const btTransform & transfrom)</description>
+</snippet>

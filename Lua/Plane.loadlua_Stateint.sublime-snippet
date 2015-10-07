@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Plane.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>Plane__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void Plane::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

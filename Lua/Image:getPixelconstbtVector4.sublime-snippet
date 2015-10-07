@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPixel(${1:const  &},${2:btVector4 &})]]></content>
+	<tabTrigger>Image_getPixel</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Image::getPixel(const  & position,btVector4 & pixel)</description>
+</snippet>

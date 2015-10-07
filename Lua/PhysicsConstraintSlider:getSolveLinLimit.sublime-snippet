@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSolveLinLimit()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_getSolveLinLimit</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool PhysicsConstraintSlider::getSolveLinLimit()</description>
+</snippet>

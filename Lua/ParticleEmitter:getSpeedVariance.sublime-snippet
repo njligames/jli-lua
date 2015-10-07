@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSpeedVariance()]]></content>
+	<tabTrigger>ParticleEmitter_getSpeedVariance</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const f32 & ParticleEmitter::getSpeedVariance()</description>
+</snippet>

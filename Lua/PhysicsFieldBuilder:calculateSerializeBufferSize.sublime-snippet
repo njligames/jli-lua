@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calculateSerializeBufferSize()]]></content>
+	<tabTrigger>PhysicsFieldBuilder_calculateSerializeBufferSize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 PhysicsFieldBuilder::calculateSerializeBufferSize()</description>
+</snippet>

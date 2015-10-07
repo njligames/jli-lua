@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getViewportDimensions()]]></content>
+	<tabTrigger>World_getViewportDimensions</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const  & World::getViewportDimensions()</description>
+</snippet>

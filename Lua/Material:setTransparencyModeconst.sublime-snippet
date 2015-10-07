@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setTransparencyMode(${1:const })]]></content>
+	<tabTrigger>Material_setTransparencyMode</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Material::setTransparencyMode(const  mode)</description>
+</snippet>

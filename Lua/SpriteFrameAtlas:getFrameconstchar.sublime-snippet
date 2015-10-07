@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getFrame(${1:const char *})]]></content>
+	<tabTrigger>SpriteFrameAtlas_getFrame</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const  & SpriteFrameAtlas::getFrame(const char * name)</description>
+</snippet>

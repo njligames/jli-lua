@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>CollisionResponse_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void CollisionResponse::serialize()</description>
+</snippet>

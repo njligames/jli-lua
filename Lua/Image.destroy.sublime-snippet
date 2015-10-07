@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Image.destroy(${1: *})]]></content>
+	<tabTrigger>Image__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void Image::destroy( * object)</description>
+</snippet>

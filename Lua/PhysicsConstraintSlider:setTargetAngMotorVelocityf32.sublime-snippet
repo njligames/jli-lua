@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setTargetAngMotorVelocity(${1:f32})]]></content>
+	<tabTrigger>PhysicsConstraintSlider_setTargetAngMotorVelocity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintSlider::setTargetAngMotorVelocity(f32 targetAngMotorVelocity)</description>
+</snippet>

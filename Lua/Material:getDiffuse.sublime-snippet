@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getDiffuse()]]></content>
+	<tabTrigger>Material_getDiffuse</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * Material::getDiffuse()</description>
+</snippet>

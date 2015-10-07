@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>TextboxHUDBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void TextboxHUDBuilder::serialize()</description>
+</snippet>

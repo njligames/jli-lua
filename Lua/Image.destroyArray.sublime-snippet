@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Image.destroyArray(${1: **})]]></content>
+	<tabTrigger>Image__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void Image::destroyArray( ** array)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[updateImage(${1:s32},${2:const  &})]]></content>
+	<tabTrigger>WorldHUD_updateImage</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::updateImage(s32 imageHandle,const  & image)</description>
+</snippet>

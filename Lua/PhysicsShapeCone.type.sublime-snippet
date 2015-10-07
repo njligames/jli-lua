@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeCone.type()]]></content>
+	<tabTrigger>PhysicsShapeCone__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PhysicsShapeCone::type()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getVertexColors(${1: *},${2:btVector4 **},${3: *})]]></content>
+	<tabTrigger>Sprite2D_getVertexColors</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Sprite2D::getVertexColors( * geometry,btVector4 ** colorVertices, * node)</description>
+</snippet>

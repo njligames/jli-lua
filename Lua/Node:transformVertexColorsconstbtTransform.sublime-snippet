@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[transformVertexColors(${1:const btTransform &})]]></content>
+	<tabTrigger>Node_transformVertexColors</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::transformVertexColors(const btTransform & transform)</description>
+</snippet>

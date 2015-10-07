@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enableSpring(${1:int},${2:bool})]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6DofSpring_enableSpring</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintGeneric6DofSpring::enableSpring(int index,bool onOff)</description>
+</snippet>

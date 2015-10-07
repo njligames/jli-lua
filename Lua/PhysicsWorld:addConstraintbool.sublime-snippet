@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addConstraint(${1: *},${2:bool})]]></content>
+	<tabTrigger>PhysicsWorld_addConstraint</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool PhysicsWorld::addConstraint( * constraint,bool disableCollisionsBetweenLinkedBodies)</description>
+</snippet>

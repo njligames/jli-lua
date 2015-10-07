@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setRotation(${1:const btQuaternion &})]]></content>
+	<tabTrigger>Node_setRotation</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::setRotation(const btQuaternion & rotation)</description>
+</snippet>

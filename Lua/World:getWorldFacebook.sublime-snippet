@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getWorldFacebook()]]></content>
+	<tabTrigger>World_getWorldFacebook</tabTrigger>
+	<scope>source.lua</scope>
+	<description>WorldFacebook * World::getWorldFacebook()</description>
+</snippet>

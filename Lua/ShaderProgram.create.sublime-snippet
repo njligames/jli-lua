@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.ShaderProgram.create()]]></content>
+	<tabTrigger>ShaderProgram__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * ShaderProgram::create()</description>
+</snippet>

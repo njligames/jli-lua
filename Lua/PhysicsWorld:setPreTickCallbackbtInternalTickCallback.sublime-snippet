@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setPreTickCallback(${1:btInternalTickCallback})]]></content>
+	<tabTrigger>PhysicsWorld_setPreTickCallback</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsWorld::setPreTickCallback(btInternalTickCallback callback)</description>
+</snippet>

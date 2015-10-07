@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isDynamicPhysics()]]></content>
+	<tabTrigger>PhysicsBody_isDynamicPhysics</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool PhysicsBody::isDynamicPhysics()</description>
+</snippet>

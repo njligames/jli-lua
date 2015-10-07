@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Skinner.destroy(${1: *})]]></content>
+	<tabTrigger>Skinner__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void Skinner::destroy( * object)</description>
+</snippet>

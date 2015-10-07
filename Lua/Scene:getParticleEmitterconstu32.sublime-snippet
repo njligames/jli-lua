@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getParticleEmitter(${1:const u32})]]></content>
+	<tabTrigger>Scene_getParticleEmitter</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * Scene::getParticleEmitter(const u32 index)</description>
+</snippet>

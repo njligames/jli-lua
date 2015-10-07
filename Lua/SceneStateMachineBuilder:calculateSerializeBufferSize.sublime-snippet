@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calculateSerializeBufferSize()]]></content>
+	<tabTrigger>SceneStateMachineBuilder_calculateSerializeBufferSize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 SceneStateMachineBuilder::calculateSerializeBufferSize()</description>
+</snippet>

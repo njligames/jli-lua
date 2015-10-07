@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.XmlBuilder.clone(${1:const  &})]]></content>
+	<tabTrigger>XmlBuilder__clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * XmlBuilder::clone(const  & object)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.WorldHUD.rgb(${1:u8},${2:u8},${3:u8})]]></content>
+	<tabTrigger>WorldHUD__rgb</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static btVector4 WorldHUD::rgb(u8 r,u8 g,u8 b)</description>
+</snippet>

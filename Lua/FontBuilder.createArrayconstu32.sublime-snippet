@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.FontBuilder.createArray(${1:const u32})]]></content>
+	<tabTrigger>FontBuilder__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** FontBuilder::createArray(const u32 size)</description>
+</snippet>

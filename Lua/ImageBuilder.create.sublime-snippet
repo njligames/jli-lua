@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.ImageBuilder.create()]]></content>
+	<tabTrigger>ImageBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * ImageBuilder::create()</description>
+</snippet>

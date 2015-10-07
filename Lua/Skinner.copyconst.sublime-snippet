@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Skinner.copy(${1:const  &})]]></content>
+	<tabTrigger>Skinner__copy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * Skinner::copy(const  & object)</description>
+</snippet>

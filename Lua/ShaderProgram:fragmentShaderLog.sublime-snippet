@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fragmentShaderLog()]]></content>
+	<tabTrigger>ShaderProgram_fragmentShaderLog</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const char * ShaderProgram::fragmentShaderLog()</description>
+</snippet>

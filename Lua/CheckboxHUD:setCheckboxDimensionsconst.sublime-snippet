@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setCheckboxDimensions(${1:const  &})]]></content>
+	<tabTrigger>CheckboxHUD_setCheckboxDimensions</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void CheckboxHUD::setCheckboxDimensions(const  & dim)</description>
+</snippet>

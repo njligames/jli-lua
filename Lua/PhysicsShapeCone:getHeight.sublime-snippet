@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getHeight()]]></content>
+	<tabTrigger>PhysicsShapeCone_getHeight</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsShapeCone::getHeight()</description>
+</snippet>

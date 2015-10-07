@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Image.type()]]></content>
+	<tabTrigger>Image__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 Image::type()</description>
+</snippet>

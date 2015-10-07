@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.NodeStateBuilder.clone(${1:const  &})]]></content>
+	<tabTrigger>NodeStateBuilder__clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * NodeStateBuilder::clone(const  & object)</description>
+</snippet>

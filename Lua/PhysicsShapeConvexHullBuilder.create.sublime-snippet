@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeConvexHullBuilder.create()]]></content>
+	<tabTrigger>PhysicsShapeConvexHullBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShapeConvexHullBuilder::create()</description>
+</snippet>

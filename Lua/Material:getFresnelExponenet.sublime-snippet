@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getFresnelExponenet()]]></content>
+	<tabTrigger>Material_getFresnelExponenet</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 Material::getFresnelExponenet()</description>
+</snippet>

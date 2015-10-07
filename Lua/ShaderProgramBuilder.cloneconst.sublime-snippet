@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.ShaderProgramBuilder.clone(${1:const  &})]]></content>
+	<tabTrigger>ShaderProgramBuilder__clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * ShaderProgramBuilder::clone(const  & object)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onMessage()]]></content>
+	<tabTrigger>AbstractState_onMessage</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool AbstractState::onMessage()</description>
+</snippet>

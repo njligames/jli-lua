@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.World.destroyInstance()]]></content>
+	<tabTrigger>World__destroyInstance</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void World::destroyInstance()</description>
+</snippet>

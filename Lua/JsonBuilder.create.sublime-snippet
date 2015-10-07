@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.JsonBuilder.create()]]></content>
+	<tabTrigger>JsonBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * JsonBuilder::create()</description>
+</snippet>

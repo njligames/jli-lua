@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.ActionBuilder.create()]]></content>
+	<tabTrigger>ActionBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * ActionBuilder::create()</description>
+</snippet>

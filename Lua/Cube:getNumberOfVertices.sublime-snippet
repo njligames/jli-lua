@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNumberOfVertices(${1: *})]]></content>
+	<tabTrigger>Cube_getNumberOfVertices</tabTrigger>
+	<scope>source.lua</scope>
+	<description>u64 Cube::getNumberOfVertices( * geometry)</description>
+</snippet>

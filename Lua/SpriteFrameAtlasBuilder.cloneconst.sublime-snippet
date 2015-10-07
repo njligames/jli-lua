@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SpriteFrameAtlasBuilder.clone(${1:const  &})]]></content>
+	<tabTrigger>SpriteFrameAtlasBuilder__clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * SpriteFrameAtlasBuilder::clone(const  & object)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPreferredPenetrationDirection(${1:int},${2:btVector3 &})]]></content>
+	<tabTrigger>PhysicsShapeBox2D_getPreferredPenetrationDirection</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeBox2D::getPreferredPenetrationDirection(int index,btVector3 & penetrationVector)</description>
+</snippet>

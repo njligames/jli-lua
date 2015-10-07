@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeCylinderBuilder.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>PhysicsShapeCylinderBuilder__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsShapeCylinderBuilder::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reset()]]></content>
+	<tabTrigger>WorldLuaVirtualMachine_reset</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldLuaVirtualMachine::reset()</description>
+</snippet>

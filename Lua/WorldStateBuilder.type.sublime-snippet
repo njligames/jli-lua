@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.WorldStateBuilder.type()]]></content>
+	<tabTrigger>WorldStateBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 WorldStateBuilder::type()</description>
+</snippet>

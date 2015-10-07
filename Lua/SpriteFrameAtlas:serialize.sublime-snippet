@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>SpriteFrameAtlas_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void SpriteFrameAtlas::serialize()</description>
+</snippet>

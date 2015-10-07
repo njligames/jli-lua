@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintGeneric6Dof.destroyArray(${1: **})]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6Dof__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsConstraintGeneric6Dof::destroyArray( ** array)</description>
+</snippet>

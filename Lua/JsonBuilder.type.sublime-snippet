@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.JsonBuilder.type()]]></content>
+	<tabTrigger>JsonBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 JsonBuilder::type()</description>
+</snippet>

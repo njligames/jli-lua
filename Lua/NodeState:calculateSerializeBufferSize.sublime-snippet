@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calculateSerializeBufferSize()]]></content>
+	<tabTrigger>NodeState_calculateSerializeBufferSize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 NodeState::calculateSerializeBufferSize()</description>
+</snippet>

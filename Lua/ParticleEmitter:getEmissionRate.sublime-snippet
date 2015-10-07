@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getEmissionRate()]]></content>
+	<tabTrigger>ParticleEmitter_getEmissionRate</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const f32 & ParticleEmitter::getEmissionRate()</description>
+</snippet>

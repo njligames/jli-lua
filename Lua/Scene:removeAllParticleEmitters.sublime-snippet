@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeAllParticleEmitters()]]></content>
+	<tabTrigger>Scene_removeAllParticleEmitters</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Scene::removeAllParticleEmitters()</description>
+</snippet>

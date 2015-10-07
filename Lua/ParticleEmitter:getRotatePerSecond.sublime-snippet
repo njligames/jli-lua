@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getRotatePerSecond()]]></content>
+	<tabTrigger>ParticleEmitter_getRotatePerSecond</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const f32 & ParticleEmitter::getRotatePerSecond()</description>
+</snippet>

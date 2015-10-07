@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[~WorldLuaVirtualMachine()]]></content>
+	<tabTrigger>WorldLuaVirtualMachine_~WorldLuaVirtualMachine</tabTrigger>
+	<scope>source.lua</scope>
+	<description> WorldLuaVirtualMachine::~WorldLuaVirtualMachine()</description>
+</snippet>

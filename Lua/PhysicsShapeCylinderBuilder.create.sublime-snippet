@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeCylinderBuilder.create()]]></content>
+	<tabTrigger>PhysicsShapeCylinderBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShapeCylinderBuilder::create()</description>
+</snippet>

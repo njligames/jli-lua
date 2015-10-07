@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.TimerBuilder.create()]]></content>
+	<tabTrigger>TimerBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * TimerBuilder::create()</description>
+</snippet>

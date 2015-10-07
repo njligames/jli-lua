@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isFinished()]]></content>
+	<tabTrigger>AbstractState_isFinished</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool AbstractState::isFinished()</description>
+</snippet>

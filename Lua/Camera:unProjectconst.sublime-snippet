@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unProject(${1:const  &})]]></content>
+	<tabTrigger>Camera_unProject</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btVector3 Camera::unProject(const  & windowPosition)</description>
+</snippet>

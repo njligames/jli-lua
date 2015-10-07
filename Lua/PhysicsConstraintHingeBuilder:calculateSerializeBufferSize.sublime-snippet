@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calculateSerializeBufferSize()]]></content>
+	<tabTrigger>PhysicsConstraintHingeBuilder_calculateSerializeBufferSize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 PhysicsConstraintHingeBuilder::calculateSerializeBufferSize()</description>
+</snippet>

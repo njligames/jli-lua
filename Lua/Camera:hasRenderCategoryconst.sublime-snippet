@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hasRenderCategory(${1:const })]]></content>
+	<tabTrigger>Camera_hasRenderCategory</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Camera::hasRenderCategory(const  category)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>Cube_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 Cube::getType()</description>
+</snippet>

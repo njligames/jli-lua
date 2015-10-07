@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLITransform(${1:const btScalar *})]]></content>
+	<tabTrigger>LITransform_JLITransform</tabTrigger>
+	<scope>source.lua</scope>
+	<description> LITransform::JLITransform(const btScalar * matrix)</description>
+</snippet>

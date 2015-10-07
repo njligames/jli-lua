@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.NodeBuilder.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>NodeBuilder__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void NodeBuilder::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

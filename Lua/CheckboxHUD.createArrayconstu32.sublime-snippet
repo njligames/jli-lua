@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.CheckboxHUD.createArray(${1:const u32})]]></content>
+	<tabTrigger>CheckboxHUD__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** CheckboxHUD::createArray(const u32 size)</description>
+</snippet>

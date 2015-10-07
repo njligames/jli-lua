@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serializeDouble(${1:struct  &})]]></content>
+	<tabTrigger>tVector2_serializeDouble</tabTrigger>
+	<scope>source.lua</scope>
+	<description>SIMD_FORCE_INLINE void tVector2::serializeDouble(struct  & dataOut)</description>
+</snippet>

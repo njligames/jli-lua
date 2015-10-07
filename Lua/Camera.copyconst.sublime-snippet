@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Camera.copy(${1:const  &})]]></content>
+	<tabTrigger>Camera__copy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * Camera::copy(const  & object)</description>
+</snippet>

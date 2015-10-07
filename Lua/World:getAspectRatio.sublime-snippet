@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAspectRatio()]]></content>
+	<tabTrigger>World_getAspectRatio</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 World::getAspectRatio()</description>
+</snippet>

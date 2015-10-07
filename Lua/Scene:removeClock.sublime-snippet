@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeClock(${1: *})]]></content>
+	<tabTrigger>Scene_removeClock</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Scene::removeClock( * clock)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPivotPoint(${1: *})]]></content>
+	<tabTrigger>Sprite2D_getPivotPoint</tabTrigger>
+	<scope>source.lua</scope>
+	<description> Sprite2D::getPivotPoint( * node)</description>
+</snippet>

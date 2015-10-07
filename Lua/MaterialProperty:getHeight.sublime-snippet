@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getHeight()]]></content>
+	<tabTrigger>MaterialProperty_getHeight</tabTrigger>
+	<scope>source.lua</scope>
+	<description>u32 MaterialProperty::getHeight()</description>
+</snippet>

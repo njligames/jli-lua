@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeParentNode()]]></content>
+	<tabTrigger>Node_removeParentNode</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::removeParentNode()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForceAndPosition()]]></content>
+	<tabTrigger>ForceAndPosition_ForceAndPosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description> ForceAndPosition::ForceAndPosition()</description>
+</snippet>

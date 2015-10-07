@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SkinnerBuilder.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>SkinnerBuilder__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void SkinnerBuilder::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

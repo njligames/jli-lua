@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setFriction(${1:f32})]]></content>
+	<tabTrigger>PhysicsBody_setFriction</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsBody::setFriction(f32 friction)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calculateSerializeBufferSize()]]></content>
+	<tabTrigger>PhysicsRayContactBuilder_calculateSerializeBufferSize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 PhysicsRayContactBuilder::calculateSerializeBufferSize()</description>
+</snippet>

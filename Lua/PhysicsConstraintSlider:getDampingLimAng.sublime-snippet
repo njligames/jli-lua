@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getDampingLimAng()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_getDampingLimAng</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintSlider::getDampingLimAng()</description>
+</snippet>

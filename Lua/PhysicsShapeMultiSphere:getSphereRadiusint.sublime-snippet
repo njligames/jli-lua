@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSphereRadius(${1:int})]]></content>
+	<tabTrigger>PhysicsShapeMultiSphere_getSphereRadius</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btScalar PhysicsShapeMultiSphere::getSphereRadius(int index)</description>
+</snippet>

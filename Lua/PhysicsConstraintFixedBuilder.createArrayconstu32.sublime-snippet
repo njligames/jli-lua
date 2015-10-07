@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintFixedBuilder.createArray(${1:const u32})]]></content>
+	<tabTrigger>PhysicsConstraintFixedBuilder__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** PhysicsConstraintFixedBuilder::createArray(const u32 size)</description>
+</snippet>

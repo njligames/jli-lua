@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setNodes(${1: *},${2:const btTransform &},${3:bool})]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6DofSpring_setNodes</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintGeneric6DofSpring::setNodes( * nodeB,const btTransform & frameInB,bool useLinearReferenceFrameB)</description>
+</snippet>

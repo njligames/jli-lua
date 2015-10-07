@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getFillColor()]]></content>
+	<tabTrigger>ButtonHUD_getFillColor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const btVector4 & ButtonHUD::getFillColor()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[create()]]></content>
+	<tabTrigger>WorldFactory_create</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * WorldFactory::create()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ellipse(${1:const  &},${2:const  &})]]></content>
+	<tabTrigger>WorldHUD_ellipse</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::ellipse(const  & center,const  & radius)</description>
+</snippet>

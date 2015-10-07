@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>PhysicsShapeBvhTriangleMeshBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeBvhTriangleMeshBuilder::serialize()</description>
+</snippet>

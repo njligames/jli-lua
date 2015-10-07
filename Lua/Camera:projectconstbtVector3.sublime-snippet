@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[project(${1:const btVector3 &})]]></content>
+	<tabTrigger>Camera_project</tabTrigger>
+	<scope>source.lua</scope>
+	<description> Camera::project(const btVector3 & objectPosition)</description>
+</snippet>

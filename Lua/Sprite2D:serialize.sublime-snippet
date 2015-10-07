@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>Sprite2D_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Sprite2D::serialize()</description>
+</snippet>

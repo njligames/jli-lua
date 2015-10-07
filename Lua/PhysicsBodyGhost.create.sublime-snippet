@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsBodyGhost.create()]]></content>
+	<tabTrigger>PhysicsBodyGhost__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsBodyGhost::create()</description>
+</snippet>

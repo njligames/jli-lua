@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enableInUse()]]></content>
+	<tabTrigger>AbstractState_enableInUse</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void AbstractState::enableInUse()</description>
+</snippet>

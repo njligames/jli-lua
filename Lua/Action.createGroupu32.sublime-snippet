@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Action.createGroup(${1: **},${2:u32})]]></content>
+	<tabTrigger>Action__createGroup</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * Action::createGroup( ** actions,u32 size)</description>
+</snippet>

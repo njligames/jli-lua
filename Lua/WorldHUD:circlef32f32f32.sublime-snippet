@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[circle(${1:f32},${2:f32},${3:f32})]]></content>
+	<tabTrigger>WorldHUD_circle</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::circle(f32 centerx,f32 centery,f32 radius)</description>
+</snippet>

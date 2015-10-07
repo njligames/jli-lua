@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unLoadGPU()]]></content>
+	<tabTrigger>Plane_unLoadGPU</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Plane::unLoadGPU()</description>
+</snippet>

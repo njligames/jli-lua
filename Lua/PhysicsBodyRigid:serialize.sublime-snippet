@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>PhysicsBodyRigid_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsBodyRigid::serialize()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTimingMode()]]></content>
+	<tabTrigger>Action_getTimingMode</tabTrigger>
+	<scope>source.lua</scope>
+	<description> Action::getTimingMode()</description>
+</snippet>

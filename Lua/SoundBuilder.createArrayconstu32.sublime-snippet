@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SoundBuilder.createArray(${1:const u32})]]></content>
+	<tabTrigger>SoundBuilder__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** SoundBuilder::createArray(const u32 size)</description>
+</snippet>

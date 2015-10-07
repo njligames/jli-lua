@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintHingeBuilder.create()]]></content>
+	<tabTrigger>PhysicsConstraintHingeBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsConstraintHingeBuilder::create()</description>
+</snippet>

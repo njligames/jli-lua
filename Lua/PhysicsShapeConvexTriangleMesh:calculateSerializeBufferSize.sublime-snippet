@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calculateSerializeBufferSize()]]></content>
+	<tabTrigger>PhysicsShapeConvexTriangleMesh_calculateSerializeBufferSize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 PhysicsShapeConvexTriangleMesh::calculateSerializeBufferSize()</description>
+</snippet>

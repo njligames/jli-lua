@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAmbient()]]></content>
+	<tabTrigger>Material_getAmbient</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * Material::getAmbient()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enableDoubleSided(${1:const bool})]]></content>
+	<tabTrigger>Material_enableDoubleSided</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Material::enableDoubleSided(const bool enable)</description>
+</snippet>

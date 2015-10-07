@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getValue()]]></content>
+	<tabTrigger>SliderHUD_getValue</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 SliderHUD::getValue()</description>
+</snippet>

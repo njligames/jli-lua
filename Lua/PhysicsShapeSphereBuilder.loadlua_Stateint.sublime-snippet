@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeSphereBuilder.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>PhysicsShapeSphereBuilder__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsShapeSphereBuilder::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getObjectType()]]></content>
+	<tabTrigger>Sprite2DBuilder_getObjectType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>u32 Sprite2DBuilder::getObjectType()</description>
+</snippet>

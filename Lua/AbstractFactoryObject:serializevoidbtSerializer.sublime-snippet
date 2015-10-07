@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize(${1:void *},${2:btSerializer *})]]></content>
+	<tabTrigger>AbstractFactoryObject_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void AbstractFactoryObject::serialize(void * dataBuffer,btSerializer * serializer)</description>
+</snippet>

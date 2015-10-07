@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calculateSerializeBufferSize()]]></content>
+	<tabTrigger>CollisionResponseBuilder_calculateSerializeBufferSize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 CollisionResponseBuilder::calculateSerializeBufferSize()</description>
+</snippet>

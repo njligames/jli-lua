@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getObjectType()]]></content>
+	<tabTrigger>ButtonHUDBuilder_getObjectType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>u32 ButtonHUDBuilder::getObjectType()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPhysicsConstraints(${1:std::vector<  * > &})]]></content>
+	<tabTrigger>Node_getPhysicsConstraints</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::getPhysicsConstraints(std::vector<  * > & physicsConstraints)</description>
+</snippet>

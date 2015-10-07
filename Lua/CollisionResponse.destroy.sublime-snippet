@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.CollisionResponse.destroy(${1: *})]]></content>
+	<tabTrigger>CollisionResponse__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void CollisionResponse::destroy( * object)</description>
+</snippet>

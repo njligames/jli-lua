@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getClock(${1:const u32})]]></content>
+	<tabTrigger>Scene_getClock</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * Scene::getClock(const u32 index)</description>
+</snippet>

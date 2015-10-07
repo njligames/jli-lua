@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getLinearPos()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_getLinearPos</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintSlider::getLinearPos()</description>
+</snippet>

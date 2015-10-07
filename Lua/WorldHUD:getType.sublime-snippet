@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>WorldHUD_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 WorldHUD::getType()</description>
+</snippet>

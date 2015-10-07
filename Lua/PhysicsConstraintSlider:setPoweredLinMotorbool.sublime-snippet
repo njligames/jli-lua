@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setPoweredLinMotor(${1:bool})]]></content>
+	<tabTrigger>PhysicsConstraintSlider_setPoweredLinMotor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintSlider::setPoweredLinMotor(bool onOff)</description>
+</snippet>

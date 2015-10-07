@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getString(${1:const char *})]]></content>
+	<tabTrigger>WorldSQLite_getString</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const char * WorldSQLite::getString(const char * key)</description>
+</snippet>

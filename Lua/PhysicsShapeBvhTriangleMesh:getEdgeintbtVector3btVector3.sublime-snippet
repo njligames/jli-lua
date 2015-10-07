@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getEdge(${1:int},${2:btVector3 &},${3:btVector3 &})]]></content>
+	<tabTrigger>PhysicsShapeBvhTriangleMesh_getEdge</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeBvhTriangleMesh::getEdge(int i,btVector3 & pa,btVector3 & pb)</description>
+</snippet>

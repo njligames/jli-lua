@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsRayContact.type()]]></content>
+	<tabTrigger>PhysicsRayContact__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PhysicsRayContact::type()</description>
+</snippet>

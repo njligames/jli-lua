@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"_",
+				"_G	_G"
+			],
+			[
 				"m",
 				"mat4"
 			],
@@ -18,10 +22,6 @@
 			[
 				"function",
 				"function	function"
-			],
-			[
-				"_",
-				"_VERSION	_VERSION"
 			],
 			[
 				"bit",
@@ -47,10 +47,31 @@
 			}
 		},
 		{
-			"file": "/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/main.lua",
+			"contents": "",
+			"file": "/Users/jamesfolk/Desktop/test.lua",
+			"file_size": 0,
+			"file_write_time": 1427766787000000,
 			"settings":
 			{
-				"buffer_size": 2541,
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 189 files for \"Lua\"\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Comments.tmPreferences:\n    6  	<string>Comments</string>\n    7  	<key>scope</key>\n    8: 	<string>source.lua</string>\n    9  	<key>settings</key>\n   10  	<dict>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Indent.tmPreferences:\n    6  	<string>Indent</string>\n    7  	<key>scope</key>\n    8: 	<string>source.lua</string>\n    9  	<key>settings</key>\n   10  	<dict>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/lua-jli.sublime-project:\n    3  	[\n    4  		{\n    5: 			\"path\": \"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI\"\n    6  		}\n    7  	]\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/lua-jli.sublime-workspace:\n   48  		},\n   49  		{\n   50: 			\"file\": \"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/main.lua\",\n   51  			\"settings\":\n   52  			{\n   ..\n   56  		}\n   57  	],\n   58: 	\"build_system\": \"Packages/Lua JLI/LuaJLI.sublime-build\",\n   59  	\"command_palette\":\n   60  	{\n   ..\n  102  		\"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL/function-(def).sublime-snippet\",\n  103  		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/shaders/objectShader.fsh\",\n  104: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/main.lua\",\n  105: 		\"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/ParseLua.py\",\n  106: 		\"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/LuaJLI.tmLanguage\",\n  107  		\"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL.tmLanguage.cache\",\n  108: 		\"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/LuaJLI/Main.sublime-menu\",\n  109: 		\"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/LuaJLI/LuaLove.sublime-build\",\n  110: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testAction.lua\",\n  111: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/cubicTexture.lua\",\n  112: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testLabelHUD.lua\",\n  113: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testSound.lua\",\n  114: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/nanovg.lua\",\n  115: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testSpriteTextCoords.lua\",\n  116: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testButtonHUD.lua\",\n  117: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testTextboxHUD.lua\",\n  118: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testSliderHUD.lua\",\n  119: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/tests/testCheckboxHUD.lua\",\n  120  		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/game.sublime-project\",\n  121: 		\"/Applications/TexturePacker.app/Contents/Resources/exporters/corona-imagesheet/corona-imagesheet.lua\",\n  122  		\"/Applications/TexturePacker.app/Contents/Resources/exporters/uikit/uikit.plist\",\n  123  		\"/Applications/TexturePacker.app/Contents/Resources/exporters/uikit/exporter.xml\",\n  124: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/testSpriteTextCoords.lua\",\n  125: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/testLabelHUD.lua\",\n  126: 		\"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua/LuaJLI.sublime-completions\",\n  127: 		\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/src/Lua/Lua.i\"\n  128  	],\n  129  	\"find\":\n  ...\n  151  			\"uniform\",\n  152  			\"Love\",\n  153: 			\"LuaLove\",\n  154  			\"Love\",\n  155  			\"project_path\",\n  156: 			\"LuaLove\",\n  157: 			\"Lua Love\",\n  158  			\"love\",\n  159  			\"Love2D\",\n  ...\n  204  		[\n  205  			\"JLI\",\n  206: 			\"LuaJLI\",\n  207: 			\"Lua JLI\",\n  208  			\"JLIEngine\",\n  209  			\"$1\"\n  ...\n  247  				{\n  248  					\"buffer\": 1,\n  249: 					\"file\": \"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/main.lua\",\n  250  					\"settings\":\n  251  					{\n  ...\n  263  						\"settings\":\n  264  						{\n  265: 							\"syntax\": \"Packages/Lua/Lua.tmLanguage\"\n  266  						},\n  267  						\"translation.x\": 0.0,\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/LuaJLI.sublime-build:\n    1  {\n    2  	\"file_regex\": \"^(?:(?:\\t)|(?:.+: ))(.+):([0-9]+): (.*)$\",\n    3: 	\"selector\": \"source.lua\",\n    4: 	\"cmd\": [\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli\", \"$file\"],\n    5  \n    6  	\"variants\": [\n    7  		{	\"name\": \"Run\",\n    8: 			\"cmd\": [\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli\", \"$file\"]\n    9  		},\n   10: 		{	\"name\": \"JLILua\",\n   11  			\"shell\": true,\n   12: 			\"cmd\": [\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli\", \"$project_path\"],\n   13  			\"osx\":\n   14  			{\n   15: 				\"cmd\": [\"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli $project_path\"]\n   16  			}\n   17  		},\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/LuaJLI.sublime-completions:\n    1  {\n    2:   \"scope\":\"source.lua\",\n    3    \"completions\":\n    4    [\n    .\n 1521      {\"trigger\": \"AbstractObject.getClassName\", \"contents\": \"getClassName\" },\n 1522      {\"trigger\": \"AbstractObject.getType\", \"contents\": \"getType\" },\n 1523:     {\"trigger\": \"NodeStateMachine_Lua.update\", \"contents\": \"update\" },\n 1524:     {\"trigger\": \"NodeStateMachine_Lua.handleMessage\", \"contents\": \"handleMessage\" },\n 1525:     {\"trigger\": \"NodeStateMachine_Lua.pushState\", \"contents\": \"pushState\" },\n 1526:     {\"trigger\": \"NodeStateMachine_Lua.getState\", \"contents\": \"getState\" },\n 1527:     {\"trigger\": \"NodeStateMachine_Lua.getPreviousState\", \"contents\": \"getPreviousState\" },\n 1528:     {\"trigger\": \"NodeStateMachine_Lua.getOwner\", \"contents\": \"getOwner\" },\n 1529:     {\"trigger\": \"NodeStateMachine_Lua.hasOwner\", \"contents\": \"hasOwner\" },\n 1530:     {\"trigger\": \"SceneStateMachine_Lua.update\", \"contents\": \"update\" },\n 1531:     {\"trigger\": \"SceneStateMachine_Lua.handleMessage\", \"contents\": \"handleMessage\" },\n 1532:     {\"trigger\": \"SceneStateMachine_Lua.pushState\", \"contents\": \"pushState\" },\n 1533:     {\"trigger\": \"SceneStateMachine_Lua.getState\", \"contents\": \"getState\" },\n 1534:     {\"trigger\": \"SceneStateMachine_Lua.getPreviousState\", \"contents\": \"getPreviousState\" },\n 1535:     {\"trigger\": \"SceneStateMachine_Lua.getOwner\", \"contents\": \"getOwner\" },\n 1536:     {\"trigger\": \"SceneStateMachine_Lua.hasOwner\", \"contents\": \"hasOwner\" },\n 1537:     {\"trigger\": \"WorldStateMachine_Lua.update\", \"contents\": \"update\" },\n 1538:     {\"trigger\": \"WorldStateMachine_Lua.handleMessage\", \"contents\": \"handleMessage\" },\n 1539:     {\"trigger\": \"WorldStateMachine_Lua.pushState\", \"contents\": \"pushState\" },\n 1540:     {\"trigger\": \"WorldStateMachine_Lua.getState\", \"contents\": \"getState\" },\n 1541:     {\"trigger\": \"WorldStateMachine_Lua.getPreviousState\", \"contents\": \"getPreviousState\" },\n 1542:     {\"trigger\": \"WorldStateMachine_Lua.getOwner\", \"contents\": \"getOwner\" },\n 1543:     {\"trigger\": \"WorldStateMachine_Lua.hasOwner\", \"contents\": \"hasOwner\" },\n 1544:     {\"trigger\": \"NodeState_Lua.isFinished\", \"contents\": \"isFinished\" },\n 1545:     {\"trigger\": \"NodeState_Lua.enableFinished\", \"contents\": \"enableFinished\" },\n 1546:     {\"trigger\": \"NodeState_Lua.isInUse\", \"contents\": \"isInUse\" },\n 1547:     {\"trigger\": \"NodeState_Lua.enableInUse\", \"contents\": \"enableInUse\" },\n 1548:     {\"trigger\": \"NodeState_Lua.enter\", \"contents\": \"enter\" },\n 1549:     {\"trigger\": \"NodeState_Lua.update\", \"contents\": \"update\" },\n 1550:     {\"trigger\": \"NodeState_Lua.exit\", \"contents\": \"exit\" },\n 1551:     {\"trigger\": \"NodeState_Lua.onMessage\", \"contents\": \"onMessage\" },\n 1552:     {\"trigger\": \"SceneState_Lua.isFinished\", \"contents\": \"isFinished\" },\n 1553:     {\"trigger\": \"SceneState_Lua.enableFinished\", \"contents\": \"enableFinished\" },\n 1554:     {\"trigger\": \"SceneState_Lua.isInUse\", \"contents\": \"isInUse\" },\n 1555:     {\"trigger\": \"SceneState_Lua.enableInUse\", \"contents\": \"enableInUse\" },\n 1556:     {\"trigger\": \"SceneState_Lua.enter\", \"contents\": \"enter\" },\n 1557:     {\"trigger\": \"SceneState_Lua.update\", \"contents\": \"update\" },\n 1558:     {\"trigger\": \"SceneState_Lua.exit\", \"contents\": \"exit\" },\n 1559:     {\"trigger\": \"SceneState_Lua.onMessage\", \"contents\": \"onMessage\" },\n 1560:     {\"trigger\": \"WorldState_Lua.isFinished\", \"contents\": \"isFinished\" },\n 1561:     {\"trigger\": \"WorldState_Lua.enableFinished\", \"contents\": \"enableFinished\" },\n 1562:     {\"trigger\": \"WorldState_Lua.isInUse\", \"contents\": \"isInUse\" },\n 1563:     {\"trigger\": \"WorldState_Lua.enableInUse\", \"contents\": \"enableInUse\" },\n 1564:     {\"trigger\": \"WorldState_Lua.enter\", \"contents\": \"enter\" },\n 1565:     {\"trigger\": \"WorldState_Lua.update\", \"contents\": \"update\" },\n 1566:     {\"trigger\": \"WorldState_Lua.exit\", \"contents\": \"exit\" },\n 1567:     {\"trigger\": \"WorldState_Lua.onMessage\", \"contents\": \"onMessage\" },\n 1568      {\"trigger\": \"AbstractTransform.getTransform\", \"contents\": \"getTransform\" },\n 1569      {\"trigger\": \"AbstractTransform.setTransform\", \"contents\": \"setTransform\" },\n ....\n 2155      {\"trigger\": \"LightBuilder.getType\", \"contents\": \"getType\" },\n 2156      {\"trigger\": \"LightBuilder.__tostring\", \"contents\": \"__tostring\" },\n 2157:     {\"trigger\": \"static Lua.createArray\", \"contents\": \"JLI.Lua.createArray\" },\n 2158:     {\"trigger\": \"static Lua.destroyArray\", \"contents\": \"JLI.Lua.destroyArray\" },\n 2159:     {\"trigger\": \"static Lua.create\", \"contents\": \"JLI.Lua.create\" },\n 2160:     {\"trigger\": \"static Lua.clone\", \"contents\": \"JLI.Lua.clone\" },\n 2161:     {\"trigger\": \"static Lua.copy\", \"contents\": \"JLI.Lua.copy\" },\n 2162:     {\"trigger\": \"static Lua.destroy\", \"contents\": \"JLI.Lua.destroy\" },\n 2163:     {\"trigger\": \"static Lua.load\", \"contents\": \"JLI.Lua.load\" },\n 2164:     {\"trigger\": \"static Lua.type\", \"contents\": \"JLI.Lua.type\" },\n 2165:     {\"trigger\": \"Lua.calculateSerializeBufferSize\", \"contents\": \"calculateSerializeBufferSize\" },\n 2166:     {\"trigger\": \"Lua.serialize\", \"contents\": \"serialize\" },\n 2167:     {\"trigger\": \"Lua.getClassName\", \"contents\": \"getClassName\" },\n 2168:     {\"trigger\": \"Lua.getType\", \"contents\": \"getType\" },\n 2169:     {\"trigger\": \"Lua.__tostring\", \"contents\": \"__tostring\" },\n 2170:     {\"trigger\": \"static LuaBuilder.createArray\", \"contents\": \"JLI.LuaBuilder.createArray\" },\n 2171:     {\"trigger\": \"static LuaBuilder.destroyArray\", \"contents\": \"JLI.LuaBuilder.destroyArray\" },\n 2172:     {\"trigger\": \"static LuaBuilder.create\", \"contents\": \"JLI.LuaBuilder.create\" },\n 2173:     {\"trigger\": \"static LuaBuilder.clone\", \"contents\": \"JLI.LuaBuilder.clone\" },\n 2174:     {\"trigger\": \"static LuaBuilder.destroy\", \"contents\": \"JLI.LuaBuilder.destroy\" },\n 2175:     {\"trigger\": \"static LuaBuilder.load\", \"contents\": \"JLI.LuaBuilder.load\" },\n 2176:     {\"trigger\": \"static LuaBuilder.type\", \"contents\": \"JLI.LuaBuilder.type\" },\n 2177:     {\"trigger\": \"LuaBuilder.calculateSerializeBufferSize\", \"contents\": \"calculateSerializeBufferSize\" },\n 2178:     {\"trigger\": \"LuaBuilder.serialize\", \"contents\": \"serialize\" },\n 2179:     {\"trigger\": \"LuaBuilder.getObjectType\", \"contents\": \"getObjectType\" },\n 2180:     {\"trigger\": \"LuaBuilder.getClassName\", \"contents\": \"getClassName\" },\n 2181:     {\"trigger\": \"LuaBuilder.getType\", \"contents\": \"getType\" },\n 2182:     {\"trigger\": \"LuaBuilder.__tostring\", \"contents\": \"__tostring\" },\n 2183      {\"trigger\": \"static Material.createArray\", \"contents\": \"JLI.Material.createArray\" },\n 2184      {\"trigger\": \"static Material.destroyArray\", \"contents\": \"JLI.Material.destroyArray\" },\n ....\n 3399      {\"trigger\": \"World.getWorldResourceLoader\", \"contents\": \"getWorldResourceLoader\" },\n 3400      {\"trigger\": \"World.getWorldClock\", \"contents\": \"getWorldClock\" },\n 3401:     {\"trigger\": \"World.getWorldLuaVirtualMachine\", \"contents\": \"getWorldLuaVirtualMachine\" },\n 3402      {\"trigger\": \"World.getWorldSocket\", \"contents\": \"getWorldSocket\" },\n 3403      {\"trigger\": \"World.getWorldHUD\", \"contents\": \"getWorldHUD\" },\n ....\n 3583      {\"trigger\": \"WorldInput.getOrientation\", \"contents\": \"getOrientation\" },\n 3584      {\"trigger\": \"WorldInput.__tostring\", \"contents\": \"__tostring\" },\n 3585:     {\"trigger\": \"WorldLuaVirtualMachine.getClassName\", \"contents\": \"getClassName\" },\n 3586:     {\"trigger\": \"WorldLuaVirtualMachine.getType\", \"contents\": \"getType\" },\n 3587:     {\"trigger\": \"WorldLuaVirtualMachine.reset\", \"contents\": \"reset\" },\n 3588:     {\"trigger\": \"WorldLuaVirtualMachine.printStack\", \"contents\": \"printStack\" },\n 3589:     {\"trigger\": \"WorldLuaVirtualMachine.loadFile\", \"contents\": \"loadFile\" },\n 3590:     {\"trigger\": \"WorldLuaVirtualMachine.loadString\", \"contents\": \"loadString\" },\n 3591:     {\"trigger\": \"WorldLuaVirtualMachine.execute\", \"contents\": \"execute\" },\n 3592:     {\"trigger\": \"WorldLuaVirtualMachine.__tostring\", \"contents\": \"__tostring\" },\n 3593      {\"trigger\": \"WorldResourceLoader.getClassName\", \"contents\": \"getClassName\" },\n 3594      {\"trigger\": \"WorldResourceLoader.getType\", \"contents\": \"getType\" },\n ....\n 3969      {\"trigger\": \"JLI_FILE_TYPE_XML\", \"contents\": \"JLI.JLI_FILE_TYPE_XML\" },\n 3970      {\"trigger\": \"JLI_FILE_TYPE_JSON\", \"contents\": \"JLI.JLI_FILE_TYPE_JSON\" },\n 3971:     {\"trigger\": \"JLI_FILE_TYPE_LUA\", \"contents\": \"JLI.JLI_FILE_TYPE_LUA\" },\n 3972      {\"trigger\": \"JLI_FILE_TYPE_ZIP\", \"contents\": \"JLI.JLI_FILE_TYPE_ZIP\" },\n 3973      {\"trigger\": \"JLI_FILE_TYPE_PARTICLE\", \"contents\": \"JLI.JLI_FILE_TYPE_PARTICLE\" },\n ....\n 4034      {\"trigger\": \"JLI_OBJECT_TYPE_World\", \"contents\": \"JLI.JLI_OBJECT_TYPE_World\" },\n 4035      {\"trigger\": \"JLI_OBJECT_TYPE_WorldFactory\", \"contents\": \"JLI.JLI_OBJECT_TYPE_WorldFactory\" },\n 4036:     {\"trigger\": \"JLI_OBJECT_TYPE_WorldLuaVirtualMachine\", \"contents\": \"JLI.JLI_OBJECT_TYPE_WorldLuaVirtualMachine\" },\n 4037      {\"trigger\": \"JLI_OBJECT_TYPE_WorldResourceLoader\", \"contents\": \"JLI.JLI_OBJECT_TYPE_WorldResourceLoader\" },\n 4038      {\"trigger\": \"JLI_OBJECT_TYPE_WorldSocket\", \"contents\": \"JLI.JLI_OBJECT_TYPE_WorldSocket\" },\n ....\n 4072      {\"trigger\": \"JLI_OBJECT_TYPE_LevelOfDetail\", \"contents\": \"JLI.JLI_OBJECT_TYPE_LevelOfDetail\" },\n 4073      {\"trigger\": \"JLI_OBJECT_TYPE_LevelOfDetailBuilder\", \"contents\": \"JLI.JLI_OBJECT_TYPE_LevelOfDetailBuilder\" },\n 4074:     {\"trigger\": \"JLI_OBJECT_TYPE_Lua\", \"contents\": \"JLI.JLI_OBJECT_TYPE_Lua\" },\n 4075:     {\"trigger\": \"JLI_OBJECT_TYPE_LuaBuilder\", \"contents\": \"JLI.JLI_OBJECT_TYPE_LuaBuilder\" },\n 4076      {\"trigger\": \"JLI_OBJECT_TYPE_Material\", \"contents\": \"JLI.JLI_OBJECT_TYPE_Material\" },\n 4077      {\"trigger\": \"JLI_OBJECT_TYPE_MaterialBuilder\", \"contents\": \"JLI.JLI_OBJECT_TYPE_MaterialBuilder\" },\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/LuaJLI.sublime-settings:\n    3      \"live_parser_style\": \"outline\",\n    4      \"live_parser_persistent\": false,\n    5:     \"luac_path\": \"luac\"\n    6  }\n    7  \n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/LuaJLI.tmLanguage:\n    4  <dict>\n    5  	<key>comment</key>\n    6: 	<string>LuaJLI</string>\n    7  	<key>fileTypes</key>\n    8  	<array>\n    9: 		<string>lua</string>\n   10  	</array>\n   11  	<key>foldingStartMarker</key>\n   ..\n   16  	<string>^~L</string>\n   17  	<key>name</key>\n   18: 	<string>Lua (JLI)</string>\n   19  	<key>patterns</key>\n   20  	<array>\n   ..\n   57  		<dict>\n   58  			<key>include</key>\n   59: 			<string>#lua-constant</string>\n   60  		</dict>\n   61  		<dict>\n   62  			<key>include</key>\n   63: 			<string>#lua-self</string>\n   64  		</dict>\n   65  		<dict>\n   66  			<key>include</key>\n   67: 			<string>#lua-support</string>\n   68  		</dict>\n   69  		<dict>\n   70  			<key>include</key>\n   71: 			<string>#lua-library</string>\n   72  		</dict>\n   73  		<dict>\n   74  			<key>include</key>\n   75: 			<string>#lua-logic</string>\n   76  		</dict>\n   77  		<dict>\n   78  			<key>include</key>\n   79: 			<string>#lua-operator</string>\n   80  		</dict>\n   81  		<dict>\n   82  			<key>include</key>\n   83: 			<string>#lua-love</string>\n   84  		</dict>\n   85  		<dict>\n   86  			<key>include</key>\n   87: 			<string>#lua-variable</string>\n   88  		</dict>\n   89  	</array>\n   ..\n   99  				<dict>\n  100  					<key>name</key>\n  101: 					<string>punctuation.definition.comment.lua</string>\n  102  				</dict>\n  103  			</dict>\n  ...\n  105  			<string>\\]\\1\\]</string>\n  106  			<key>name</key>\n  107: 			<string>comment.block.lua</string>\n  108  		</dict>\n  109  		<key>comment-line</key>\n  ...\n  114  				<dict>\n  115  					<key>name</key>\n  116: 					<string>punctuation.definition.comment.lua</string>\n  117  				</dict>\n  118  			</dict>\n  ...\n  120  			<string>(--)(?!\\[\\[).*$\\n?</string>\n  121  			<key>name</key>\n  122: 			<string>comment.line.double-dash.lua</string>\n  123  		</dict>\n  124  		<key>control-flow</key>\n  ...\n  127  			<string>\\b(break|do|else|for|if|elseif|return|then|repeat|while|until|end|function|local|goto|in)\\b</string>\n  128  			<key>name</key>\n  129: 			<string>keyword.control.lua</string>\n  130  		</dict>\n  131  		<key>functions</key>\n  ...\n  136  				<dict>\n  137  					<key>name</key>\n  138: 					<string>keyword.control.lua</string>\n  139  				</dict>\n  140  				<key>2</key>\n  141  				<dict>\n  142  					<key>name</key>\n  143: 					<string>entity.name.function.scope.lua</string>\n  144  				</dict>\n  145  				<key>3</key>\n  146  				<dict>\n  147  					<key>name</key>\n  148: 					<string>entity.name.function.lua</string>\n  149  				</dict>\n  150  				<key>4</key>\n  151  				<dict>\n  152  					<key>name</key>\n  153: 					<string>punctuation.definition.parameters.begin.lua</string>\n  154  				</dict>\n  155  				<key>5</key>\n  156  				<dict>\n  157  					<key>name</key>\n  158: 					<string>variable.parameter.function.lua</string>\n  159  				</dict>\n  160  				<key>6</key>\n  161  				<dict>\n  162  					<key>name</key>\n  163: 					<string>punctuation.definition.parameters.end.lua</string>\n  164  				</dict>\n  165  			</dict>\n  ...\n  167  			<string>\\b(function)\\s+([a-zA-Z_.:]+[.:])?([a-zA-Z_]\\w*)\\s*(\\()([^)]*)(\\))</string>\n  168  			<key>name</key>\n  169: 			<string>meta.function.lua</string>\n  170  		</dict>\n  171  		<key>love-pixel-effect</key>\n  ...\n  178  				<dict>\n  179  					<key>name</key>\n  180: 					<string>support.function.library.lua.love</string>\n  181  				</dict>\n  182  				<key>2</key>\n  183  				<dict>\n  184  					<key>name</key>\n  185: 					<string>string.quoted.other.multiline.lua</string>\n  186  				</dict>\n  187  			</dict>\n  ...\n  195  				<dict>\n  196  					<key>name</key>\n  197: 					<string>string.quoted.other.multiline.lua</string>\n  198  				</dict>\n  199  			</dict>\n  ...\n  206  			</array>\n  207  		</dict>\n  208: 		<key>lua-constant</key>\n  209  		<dict>\n  210  			<key>match</key>\n  211  			<string>(?&lt;![^.]\\.|:)\\b(false|nil|true|_G|_VERSION|math\\.(pi|huge))\\b|(?&lt;![.])\\.{3}(?!\\.)</string>\n  212  			<key>name</key>\n  213: 			<string>constant.language.lua</string>\n  214  		</dict>\n  215: 		<key>lua-library</key>\n  216  		<dict>\n  217  			<key>match</key>\n  218  			<string>(?&lt;![^.]\\.|\\\\)\\b(coroutine\\.(create|resume|running|status|wrap|yield)|string\\.(byte|char|dump|find|format|gmatch|gsub|len|lower|match|rep|reverse|sub|upper)|table\\.(concat|insert|maxn|remove|sort)|math\\.(abs|acos|asin|atan2?|ceil|cosh?|deg|exp|floor|fmod|frexp|ldexp|log|log10|max|min|modf|pow|rad|random|randomseed|sinh?|sqrt|tanh?)|io\\.(close|flush|input|lines|open|output|popen|read|tmpfile|type|write)|os\\.(clock|date|difftime|execute|exit|getenv|remove|rename|setlocale|time|tmpname)|package\\.(cpath|loaded|loadlib|path|preload|seeall)|jit\\.(flush|on|off|version|version_num|os|arch|status)|bit\\.(tobit|tohex|bnot|band|bor|bxor|lshift|rshift|arshift|rol|ror|bswap)|debug\\.(debug|[gs]etfenv|[gs]ethook|getinfo|[gs]etlocal|[gs]etmetatable|getregistry|[gs]etupvalue|traceback)|ffi\\.(cdef|cast|new|C|load|typeof|metatype|gc|sizeof|alignof|offsetof|istype|errno|string|copy|fill|abi|os|arch))\\b</string>\n  219  			<key>name</key>\n  220: 			<string>support.function.library.lua</string>\n  221  		</dict>\n  222: 		<key>lua-logic</key>\n  223  		<dict>\n  224  			<key>match</key>\n  225  			<string>\\b(and|or|not)\\b</string>\n  226  			<key>name</key>\n  227: 			<string>keyword.operator.lua</string>\n  228  		</dict>\n  229: 		<key>lua-love</key>\n  230  		<dict>\n  231  			<key>match</key>\n  232  			<string>(?&lt;![^.]\\.|:)\\b(love\\.(sound\\.(newDecoder|newSoundData)|audio\\.(setOrientation|play|getVolume|getVelocity|resume|newSource|getDistanceModel|getOrientation|stop|pause|getPosition|rewind|setDistanceModel|setPosition|setVelocity|getSourceCount|setVolume)|load|update|draw|focus|resize|visible|mousereleased|mousepressed|keypressed|keyreleased|textinput|mousefocus|threaderror|errhand|run|quit|thread\\.(newChannel|newThread|getChannel)|keyboard\\.(setKeyRepeat|isDown|hasTextInput|hasKeyRepeat|setTextInput)|physics\\.(newWheelJoint|newChainShape|setMeter|newGearJoint|newWeldJoint|newRectangleShape|newFrictionJoint|newPulleyJoint|newFixture|newEdgeShape|newWorld|newMouseJoint|newBody|newRevoluteJoint|getDistance|newPrismaticJoint|newPolygonShape|newRopeJoint|getMeter|newDistanceJoint|newCircleShape)|image\\.(isCompressed|newCompressedData|newImageData)|filesystem\\.(load|exists|getSize|isDirectory|append|getUserDirectory|getIdentity|write|init|setSource|newFileData|setIdentity|newFile|read|getLastModified|getSaveDirectory|lines|remove|getDirectoryItems|getWorkingDirectory|getAppdataDirectory|createDirectory|isFile|isFused|mount|unmount)|system\\.(setClipboardText|openURL|getPowerInfo|getClipboardText|getProcessorCount|getOS)|timer\\.(getDelta|getTime|step|sleep|getAverageDelta|getFPS)|window\\.(getMode|getFullscreenModes|setMode|setFullscreen|getDesktopDimensions|getIcon|getFullscreen|getHeight|getDimensions|getWidth|hasFocus|isCreated|getTitle|isVisible|setTitle|setIcon|hasMouseFocus)|graphics\\.(getPointStyle|origin|newShader|getShader|point|getRendererInfo|printf|setCanvas|pop|getWidth|arc|setFont|getBackgroundColor|setLineStyle|newCanvas|setLineWidth|setStencil|isSupported|newImageFont|scale|getPointSize|translate|newMesh|getHeight|newQuad|newFont|setWireframe|isWireframe|setInvertedStencil|print|circle|setNewFont|newParticleSystem|rectangle|getScissor|draw|newScreenshot|getFont|setPointSize|getColor|setBackgroundColor|setColorMask|setBlendMode|getColorMask|newSpriteBatch|line|setScissor|present|polygon|reset|getDefaultFilter|rotate|setPointStyle|setColor|clear|getLineStyle|getCanvas|getLineWidth|getBlendMode|shear|push|newImage|setShader|setDefaultFilter)|joystick\\.(getJoystickCount|setGamepadMapping|getJoysticks)|font\\.(newGlyphData|newRasterizer)|mouse\\.(setX|setGrabbed|getSystemCursor|newCursor|setY|getX|getY|isGrabbed|getCursor|isVisible|isDown|setVisible|setPosition|getPosition|setCursor)|event\\.(quit|clear|pump|push|poll|wait)|math\\.(gammaToLinear|linearToGamma|isConvex|noise|random|triangulate|getRandomSeed|setRandomSeed|newRandomGenerator|randomNormal|newBezierCurve)))\\b</string>\n  233  			<key>name</key>\n  234: 			<string>support.function.library.lua.love</string>\n  235  		</dict>\n  236: 		<key>lua-operator</key>\n  237  		<dict>\n  238  			<key>match</key>\n  239  			<string>\\+|-|%|#|\\*|\\/|\\^|==?|~=|&lt;=?|&gt;=?|(?&lt;!\\.)\\.{2}(?!\\.)</string>\n  240  			<key>name</key>\n  241: 			<string>keyword.operator.lua</string>\n  242  		</dict>\n  243: 		<key>lua-self</key>\n  244  		<dict>\n  245  			<key>match</key>\n  246  			<string>(?&lt;![^.]\\.|:)\\b(self)\\b</string>\n  247  			<key>name</key>\n  248: 			<string>constant.language.lua</string>\n  249  		</dict>\n  250: 		<key>lua-support</key>\n  251  		<dict>\n  252  			<key>match</key>\n  253  			<string>(?&lt;![^.]\\.|:)\\b(assert|collectgarbage|dofile|error|getfenv|getmetatable|ipairs|loadfile|loadstring|module|next|pairs|pcall|print|rawequal|rawget|rawset|require|select|setfenv|setmetatable|tonumber|tostring|type|unpack|xpcall)\\b(?=[( {])</string>\n  254  			<key>name</key>\n  255: 			<string>support.function.lua</string>\n  256  		</dict>\n  257  		<key>numeric-constant</key>\n  ...\n  260  			<string>(?&lt;![\\d.])\\s0x[a-fA-F\\d]+|\\b\\d+(\\.\\d+)?([eE]-?\\d+)?|\\.\\d+([eE]-?\\d+)?</string>\n  261  			<key>name</key>\n  262: 			<string>constant.numeric.lua</string>\n  263  		</dict>\n  264  		<key>string-double</key>\n  ...\n  271  				<dict>\n  272  					<key>name</key>\n  273: 					<string>punctuation.definition.string.begin.lua</string>\n  274  				</dict>\n  275  			</dict>\n  ...\n  281  				<dict>\n  282  					<key>name</key>\n  283: 					<string>punctuation.definition.string.end.lua</string>\n  284  				</dict>\n  285  			</dict>\n  286  			<key>name</key>\n  287: 			<string>string.quoted.double.lua</string>\n  288  			<key>patterns</key>\n  289  			<array>\n  ...\n  292  					<string>\\\\.</string>\n  293  					<key>name</key>\n  294: 					<string>constant.character.escape.lua</string>\n  295  				</dict>\n  296  			</array>\n  ...\n  305  				<dict>\n  306  					<key>name</key>\n  307: 					<string>punctuation.definition.string.begin.lua</string>\n  308  				</dict>\n  309  			</dict>\n  ...\n  315  				<dict>\n  316  					<key>name</key>\n  317: 					<string>punctuation.definition.string.end.lua</string>\n  318  				</dict>\n  319  			</dict>\n  320  			<key>name</key>\n  321: 			<string>string.quoted.other.multiline.lua</string>\n  322  		</dict>\n  323  		<key>string-single</key>\n  ...\n  330  				<dict>\n  331  					<key>name</key>\n  332: 					<string>punctuation.definition.string.begin.lua</string>\n  333  				</dict>\n  334  			</dict>\n  ...\n  340  				<dict>\n  341  					<key>name</key>\n  342: 					<string>punctuation.definition.string.end.lua</string>\n  343  				</dict>\n  344  			</dict>\n  345  			<key>name</key>\n  346: 			<string>string.quoted.single.lua</string>\n  347  			<key>patterns</key>\n  348  			<array>\n  ...\n  351  					<string>\\\\.</string>\n  352  					<key>name</key>\n  353: 					<string>constant.character.escape.lua</string>\n  354  				</dict>\n  355  			</array>\n  356  		</dict>\n  357: 		<key>lua-variable</key>\n  358  		<dict>\n  359  			<key>match</key>\n  360  			<string>([A-Za-z_][A-Za-z0-9_\\.]*)</string>\n  361  			<key>name</key>\n  362: 			<string>variable.other.lua</string>\n  363  		</dict>\n  364  	</dict>\n  365  	<key>scopeName</key>\n  366: 	<string>source.lua.love</string>\n  367  	<key>uuid</key>\n  368  	<string>86a2712f-d1d2-4ab3-8788-b4a6b6215005</string>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Main.sublime-menu:\n   13                  [\n   14                      {\n   15:                         \"caption\": \"Lua JLI\",\n   16                          \"children\":\n   17                          [\n   ..\n   19                                  \"command\": \"open_file\", \"args\":\n   20                                  {\n   21:                                     \"file\": \"${packages}/Lua JLI/LuaJLI.sublime-settings\"\n   22                                  },\n   23                                  \"caption\": \"Settings – Default\"\n   ..\n   26                                  \"command\": \"open_file\", \"args\":\n   27                                  {\n   28:                                     \"file\": \"${packages}/User/LuaJLI.sublime-settings\"\n   29                                  },\n   30                                  \"caption\": \"Settings – User\"\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/ParseLua.py:\n   28  		return self.result\n   29  		\n   30: class ParseLuaCommand(sublime_plugin.EventListener):\n   31  \n   32  	TIMEOUT_MS = 200\n   ..\n   37  \n   38  	def onchange(self, view):\n   39: 		self.settings = sublime.load_settings(\"LuaJLI.sublime-settings\")\n   40  		if not self.settings.get(\"live_parser\"):\n   41  			return False\n   42  		filename = view.file_name()\n   43: 		if not filename or not filename.endswith('.lua'):\n   44  			return False\n   45  		self.pending = self.pending + 1\n   ..\n   64  			return\n   65  			\n   66: 		# Grab the path to luac from the settings\n   67: 		luac_path = self.settings.get(\"luac_path\", \"luac\")\n   68  		# Run moonc with the parse immediate option\n   69  		text = view.substr(sublime.Region(0, view.size()))\n   70: 		command = Command(luac_path + ' -p -', text)\n   71  		# Attempt to parse and grab output, bail after one second\n   72  		errors = command.run(timeout=1)\n   73  		\n   74  		# Clear out any old region markers\n   75: 		view.erase_regions('lua')\n   76  		\n   77  		# Nothing to do if it parsed successfully\n   ..\n   83  			\n   84  		# Add regions and place the error message in the status bar\n   85: 		errors = errors.replace(\"luac: stdin:\", \"Line:\")\n   86  		sublime.status_message(errors)\n   87  \n   ..\n   94  		style = self.settings.get(\"live_parser_style\")\n   95  		if style == \"outline\":\n   96: 			view.add_regions('lua', regions, 'invalid', '', sublime.DRAW_OUTLINED | persistent)\n   97  		elif style == \"dot\":\n   98: 			view.add_regions('lua', regions, 'invalid', 'DOT', sublime.HIDDEN | persistent)\n   99  		elif style == \"circle\":\n  100: 			view.add_regions('lua', regions, 'invalid', 'CIRCLE', sublime.HIDDEN | persistent)\n  101  \n  102  \n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/README.md:\n    1: /Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI\n    2  \n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/+=.sublime-snippet:\n    2      <content><![CDATA[ ${1:var} = ${1:var} + ${2:1} ]]></content>\n    3      <tabTrigger>+=</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>increment</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/-=.sublime-snippet:\n    2      <content><![CDATA[ ${1:var} = ${1:var} - ${2:1} ]]></content>\n    3      <tabTrigger>-=</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>decrement</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/=or.sublime-snippet:\n    2      <content><![CDATA[ self.${1:var} = ${1:var} or ${2:1} ]]></content>\n    3      <tabTrigger>@=</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>self.var = var or default</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/_G.sublime-snippet:\n    2      <content><![CDATA[_G]]></content>\n    3      <tabTrigger>_G</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>_G</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/_VERSION.sublime-snippet:\n    2      <content><![CDATA[_VERSION]]></content>\n    3      <tabTrigger>_VERSION</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>_VERSION</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/assert.sublime-snippet:\n    2      <content><![CDATA[assert(${1:v}, ${2:message})]]></content>\n    3      <tabTrigger>assert</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(v [, message])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/bit.arshift.sublime-snippet:\n    2      <content><![CDATA[bit.arshift(${1:x}, ${2:disp})]]></content>\n    3      <tabTrigger>bit.arshift</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x, disp)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/bit.band.sublime-snippet:\n    2      <content><![CDATA[bit.band(${1:...})]]></content>\n    3      <tabTrigger>bit.band</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/bit.bnot.sublime-snippet:\n    2      <content><![CDATA[bit.bnot(${1:x})]]></content>\n    3      <tabTrigger>bit.bnot</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/bit.bor.sublime-snippet:\n    2      <content><![CDATA[bit.bor(${1:...})]]></content>\n    3      <tabTrigger>bit.bor</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/bit.bswap.sublime-snippet:\n    2      <content><![CDATA[bit.bswap(${1:x})]]></content>\n    3      <tabTrigger>bit.bswap</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x, disp)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/bit.bxor.sublime-snippet:\n    2      <content><![CDATA[bit.bxor(${1:...})]]></content>\n    3      <tabTrigger>bit.bxor</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/bit.lrotate.sublime-snippet:\n    2      <content><![CDATA[bit.rol(${1:x}, ${2:disp})]]></content>\n    3      <tabTrigger>bit.rol</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x, disp)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/bit.lshift.sublime-snippet:\n    2      <content><![CDATA[bit.lshift(${1:x}, ${2:disp})]]></content>\n    3      <tabTrigger>bit.lshift</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x, disp)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/bit.rrotate.sublime-snippet:\n    2      <content><![CDATA[bit.ror(${1:x}, ${2:disp})]]></content>\n    3      <tabTrigger>bit.ror</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x, disp)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/bit.rshift.sublime-snippet:\n    2      <content><![CDATA[bit.rshift(${1:x}, ${2:disp})]]></content>\n    3      <tabTrigger>bit.rshift</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x, disp)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/bit.tobit.sublime-snippet:\n    2      <content><![CDATA[bit.tobit(${1:x})]]></content>\n    3      <tabTrigger>bit.tobit</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/bit.tohex.sublime-snippet:\n    2      <content><![CDATA[bit.tohex(${1:x}, ${2:digits})]]></content>\n    3      <tabTrigger>bit.tohex</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x, digits)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/collectgarbage.sublime-snippet:\n    2      <content><![CDATA[collectgarbage(${1:opt}, ${2:arg})]]></content>\n    3      <tabTrigger>collectgarbage</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([opt [, arg]])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/coroutine.create.sublime-snippet:\n    2      <content><![CDATA[coroutine.create(${1:f})]]></content>\n    3      <tabTrigger>coroutine.create</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(f)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/coroutine.resume.sublime-snippet:\n    2      <content><![CDATA[coroutine.resume(${1:co}, ${2:val1}, ${3:...})]]></content>\n    3      <tabTrigger>coroutine.resume</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(co [, val1, ...])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/coroutine.running.sublime-snippet:\n    2      <content><![CDATA[coroutine.running ()]]></content>\n    3      <tabTrigger>coroutine.running</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>()</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/coroutine.status.sublime-snippet:\n    2      <content><![CDATA[coroutine.status(${1:co})]]></content>\n    3      <tabTrigger>coroutine.status</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(co)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/coroutine.wrap.sublime-snippet:\n    2      <content><![CDATA[coroutine.wrap(${1:f})]]></content>\n    3      <tabTrigger>coroutine.wrap</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(f)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/coroutine.yield.sublime-snippet:\n    2      <content><![CDATA[coroutine.yield(${1:...})]]></content>\n    3      <tabTrigger>coroutine.yield</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.debug.sublime-snippet:\n    2      <content><![CDATA[debug.debug ()]]></content>\n    3      <tabTrigger>debug.debug</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>()</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.getfenv.sublime-snippet:\n    2      <content><![CDATA[debug.getfenv(${1:o})]]></content>\n    3      <tabTrigger>debug.getfenv</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(o)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.gethook.sublime-snippet:\n    2      <content><![CDATA[debug.gethook(${1:thread})]]></content>\n    3      <tabTrigger>debug.gethook</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([thread])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.getinfo.sublime-snippet:\n    2      <content><![CDATA[debug.getinfo(${1:thread}, ${2:function}, ${3:what})]]></content>\n    3      <tabTrigger>debug.getinfo</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([thread,] function [, what])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.getlocal.sublime-snippet:\n    2      <content><![CDATA[debug.getlocal(${1:thread}, ${2:level}, ${3:local})]]></content>\n    3      <tabTrigger>debug.getlocal</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([thread,] level, local)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.getmetatable.sublime-snippet:\n    2      <content><![CDATA[debug.getmetatable(${1:object})]]></content>\n    3      <tabTrigger>debug.getmetatable</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(object)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.getregistry.sublime-snippet:\n    2      <content><![CDATA[debug.getregistry ()]]></content>\n    3      <tabTrigger>debug.getregistry</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>()</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.getupvalue.sublime-snippet:\n    2      <content><![CDATA[debug.getupvalue(${1:func}, ${2:up})]]></content>\n    3      <tabTrigger>debug.getupvalue</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(func, up)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.getuservalue.sublime-snippet:\n    2      <content><![CDATA[debug.getuservalue(${1:u})]]></content>\n    3      <tabTrigger>debug.getuservalue</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(u)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.setfenv.sublime-snippet:\n    2      <content><![CDATA[debug.setfenv(${1:object}, ${2:table})]]></content>\n    3      <tabTrigger>debug.setfenv</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(object, table)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.sethook.sublime-snippet:\n    2      <content><![CDATA[debug.sethook(${1:thread}, ${2:hook}, ${3:mask}, ${4:count})]]></content>\n    3      <tabTrigger>debug.sethook</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([thread,] hook, mask [, count])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.setlocal.sublime-snippet:\n    2      <content><![CDATA[debug.setlocal(${1:thread}, ${2:level}, ${3:local}, ${4:value})]]></content>\n    3      <tabTrigger>debug.setlocal</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([thread,] level, local, value)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.setmetatable.sublime-snippet:\n    2      <content><![CDATA[debug.setmetatable(${1:object}, ${2:table})]]></content>\n    3      <tabTrigger>debug.setmetatable</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(object, table)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.setupvalue.sublime-snippet:\n    2      <content><![CDATA[debug.setupvalue(${1:func}, ${2:up}, ${3:value})]]></content>\n    3      <tabTrigger>debug.setupvalue</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(func, up, value)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.setuservalue.sublime-snippet:\n    2      <content><![CDATA[debug.setuservalue(${1:udata}, ${2:value})]]></content>\n    3      <tabTrigger>debug.setuservalue</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(udata, value)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.traceback.sublime-snippet:\n    2      <content><![CDATA[debug.traceback(${1:thread}, ${2:message}, ${3:level})]]></content>\n    3      <tabTrigger>debug.traceback</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([thread,] [message [, level]])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.upvalueid.sublime-snippet:\n    2      <content><![CDATA[debug.upvalueid(${1:f}, ${2:n})]]></content>\n    3      <tabTrigger>debug.upvalueid</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(f, n)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/debug.upvaluejoin.sublime-snippet:\n    2      <content><![CDATA[debug.upvaluejoin(${1:f1}, ${2:n1}, ${3:f2}, ${4:n2})]]></content>\n    3      <tabTrigger>debug.upvaluejoin</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(f1, n1, f2, n2)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/dofile.sublime-snippet:\n    2      <content><![CDATA[dofile(${1:filename})]]></content>\n    3      <tabTrigger>dofile</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([filename])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/else.sublime-snippet:\n    4  ${3:end}]]></content>\n    5      <tabTrigger>else</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>else end</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/elseif.sublime-snippet:\n    4  ${3:end}]]></content>\n    5      <tabTrigger>elseif</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>elseif cond then</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/error.sublime-snippet:\n    2      <content><![CDATA[error(${1:message}, ${2:level})]]></content>\n    3      <tabTrigger>error</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(message [, level])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/for-i-v-in-ipairs().sublime-snippet:\n    4  end]]></content>\n    5      <tabTrigger>fori</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>for i,v in ipairs()</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/for-i=1-10.sublime-snippet:\n    4  end]]></content>\n    5      <tabTrigger>for</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>for i=1,10</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/for-k-v-in-pairs().sublime-snippet:\n    4  end]]></content>\n    5      <tabTrigger>forp</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>for k,v in pairs()</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/function-(def).sublime-snippet:\n    4  end]]></content>\n    5      <tabTrigger>def</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>function</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/function-(fun).sublime-snippet:\n    4  end]]></content>\n    5      <tabTrigger>fun</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>function</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/function-(function).sublime-snippet:\n    4  end]]></content>\n    5      <tabTrigger>function</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>function</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/function-(lambda).sublime-snippet:\n    4  end]]></content>\n    5      <tabTrigger>funcl</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>anonymous function</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/function-(local).sublime-snippet:\n    4  end]]></content>\n    5      <tabTrigger>lfunc</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>anonymous function</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/getfenv.sublime-snippet:\n    2      <content><![CDATA[getfenv(${1:f})]]></content>\n    3      <tabTrigger>getfenv</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([f])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/getmetatable.sublime-snippet:\n    2      <content><![CDATA[getmetatable(${1:object})]]></content>\n    3      <tabTrigger>getmetatable</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(object)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/global-require.sublime-snippet:\n    2      <content><![CDATA[require(\"${1:name}\")]]></content>\n    3      <tabTrigger>req</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>require(module)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/ifthenend.sublime-snippet:\n    4  ${3:end}]]></content>\n    5      <tabTrigger>if</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>if cond then</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/io.close.sublime-snippet:\n    2      <content><![CDATA[io.close(${1:file})]]></content>\n    3      <tabTrigger>io.close</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([file])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/io.flush.sublime-snippet:\n    2      <content><![CDATA[io.flush ()]]></content>\n    3      <tabTrigger>io.flush</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>()</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/io.input.sublime-snippet:\n    2      <content><![CDATA[io.input(${1:file})]]></content>\n    3      <tabTrigger>io.input</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([file])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/io.lines.sublime-snippet:\n    2      <content><![CDATA[io.lines(${1:filename})]]></content>\n    3      <tabTrigger>io.lines</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([filename])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/io.open.sublime-snippet:\n    2      <content><![CDATA[io.open(${1:filename}, ${2:mode})]]></content>\n    3      <tabTrigger>io.open</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(filename [, mode])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/io.output.sublime-snippet:\n    2      <content><![CDATA[io.output(${1:file})]]></content>\n    3      <tabTrigger>io.output</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([file])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/io.popen.sublime-snippet:\n    2      <content><![CDATA[io.popen(${1:prog}, ${2:mode})]]></content>\n    3      <tabTrigger>io.popen</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(prog [, mode])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/io.read.sublime-snippet:\n    2      <content><![CDATA[io.read(${1:...})]]></content>\n    3      <tabTrigger>io.read</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/io.tmpfile.sublime-snippet:\n    2      <content><![CDATA[io.tmpfile ()]]></content>\n    3      <tabTrigger>io.tmpfile</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>()</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/io.type.sublime-snippet:\n    2      <content><![CDATA[io.type(${1:obj})]]></content>\n    3      <tabTrigger>io.type</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(obj)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/io.write.sublime-snippet:\n    2      <content><![CDATA[io.write(${1:...})]]></content>\n    3      <tabTrigger>io.write</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/ipairs.sublime-snippet:\n    2      <content><![CDATA[ipairs(${1:t})]]></content>\n    3      <tabTrigger>ipairs</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(t)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/jit.flush.sublime-snippet:\n    2      <content><![CDATA[jit.flush(${1:[func]}, ${2:[recursive]})]]></content>\n    3      <tabTrigger>jit.flush</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([func], [recursive])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/jit.off.sublime-snippet:\n    2      <content><![CDATA[jit.off(${1:[func]}, ${2:[recursive]})]]></content>\n    3      <tabTrigger>jit.off</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([func], [recursive])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/jit.on.sublime-snippet:\n    2      <content><![CDATA[jit.on(${1:[func]}, ${2:[recursive]})]]></content>\n    3      <tabTrigger>jit.on</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([func], [recursive])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/load.sublime-snippet:\n    2      <content><![CDATA[load(${1:func}, ${2:chunkname})]]></content>\n    3      <tabTrigger>load</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(func [, chunkname])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/loadfile.sublime-snippet:\n    2      <content><![CDATA[loadfile(${1:filename})]]></content>\n    3      <tabTrigger>loadfile</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([filename])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/loadstring.sublime-snippet:\n    2      <content><![CDATA[loadstring(${1:string}, ${2:chunkname})]]></content>\n    3      <tabTrigger>loadstring</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(string [, chunkname])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/local-require.sublime-snippet:\n    2      <content><![CDATA[local ${1:library} = require(\"${2:name}\")]]></content>\n    3      <tabTrigger>lreq</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>local require(module)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/local-x-=-1.sublime-snippet:\n    2      <content><![CDATA[local ${1:x} = ${0:1}]]></content>\n    3      <tabTrigger>local</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>local x = 1</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.abs.sublime-snippet:\n    2      <content><![CDATA[math.abs(${1:x})]]></content>\n    3      <tabTrigger>math.abs</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.acos.sublime-snippet:\n    2      <content><![CDATA[math.acos(${1:x})]]></content>\n    3      <tabTrigger>math.acos</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.asin.sublime-snippet:\n    2      <content><![CDATA[math.asin(${1:x})]]></content>\n    3      <tabTrigger>math.asin</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.atan.sublime-snippet:\n    2      <content><![CDATA[math.atan(${1:x})]]></content>\n    3      <tabTrigger>math.atan</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.atan2.sublime-snippet:\n    2      <content><![CDATA[math.atan2(${1:y}, ${2:x})]]></content>\n    3      <tabTrigger>math.atan2</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(y, x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.ceil.sublime-snippet:\n    2      <content><![CDATA[math.ceil(${1:x})]]></content>\n    3      <tabTrigger>math.ceil</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.cos.sublime-snippet:\n    2      <content><![CDATA[math.cos(${1:x})]]></content>\n    3      <tabTrigger>math.cos</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.cosh.sublime-snippet:\n    2      <content><![CDATA[math.cosh(${1:x})]]></content>\n    3      <tabTrigger>math.cosh</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.deg.sublime-snippet:\n    2      <content><![CDATA[math.deg(${1:x})]]></content>\n    3      <tabTrigger>math.deg</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.exp.sublime-snippet:\n    2      <content><![CDATA[math.exp(${1:x})]]></content>\n    3      <tabTrigger>math.exp</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.floor.sublime-snippet:\n    2      <content><![CDATA[math.floor(${1:x})]]></content>\n    3      <tabTrigger>math.floor</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.fmod.sublime-snippet:\n    2      <content><![CDATA[math.fmod(${1:x}, ${2:y})]]></content>\n    3      <tabTrigger>math.fmod</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x, y)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.frexp.sublime-snippet:\n    2      <content><![CDATA[math.frexp(${1:x})]]></content>\n    3      <tabTrigger>math.frexp</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.huge.sublime-snippet:\n    2      <content><![CDATA[math.huge]]></content>\n    3      <tabTrigger>math.huge</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>math.huge</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.ldexp.sublime-snippet:\n    2      <content><![CDATA[math.ldexp(${1:m}, ${2:e})]]></content>\n    3      <tabTrigger>math.ldexp</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(m, e)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.log.sublime-snippet:\n    2      <content><![CDATA[math.log(${1:x})]]></content>\n    3      <tabTrigger>math.log</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.log10.sublime-snippet:\n    2      <content><![CDATA[math.log10(${1:x})]]></content>\n    3      <tabTrigger>math.log10</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.max.sublime-snippet:\n    2      <content><![CDATA[math.max(${1:x}, ${2:...})]]></content>\n    3      <tabTrigger>math.max</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x, ...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.min.sublime-snippet:\n    2      <content><![CDATA[math.min(${1:x}, ${2:...})]]></content>\n    3      <tabTrigger>math.min</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x, ...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.modf.sublime-snippet:\n    2      <content><![CDATA[math.modf(${1:x})]]></content>\n    3      <tabTrigger>math.modf</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.pi.sublime-snippet:\n    2      <content><![CDATA[math.pi]]></content>\n    3      <tabTrigger>math.pi</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>math.pi</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.pow.sublime-snippet:\n    2      <content><![CDATA[math.pow(${1:x}, ${2:y})]]></content>\n    3      <tabTrigger>math.pow</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x, y)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.rad.sublime-snippet:\n    2      <content><![CDATA[math.rad(${1:x})]]></content>\n    3      <tabTrigger>math.rad</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.random.sublime-snippet:\n    2      <content><![CDATA[math.random(${1:m}, ${2:n})]]></content>\n    3      <tabTrigger>math.random</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([m [, n]])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.randomseed.sublime-snippet:\n    2      <content><![CDATA[math.randomseed(${1:x})]]></content>\n    3      <tabTrigger>math.randomseed</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.sin.sublime-snippet:\n    2      <content><![CDATA[math.sin(${1:x})]]></content>\n    3      <tabTrigger>math.sin</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.sinh.sublime-snippet:\n    2      <content><![CDATA[math.sinh(${1:x})]]></content>\n    3      <tabTrigger>math.sinh</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.sqrt.sublime-snippet:\n    2      <content><![CDATA[math.sqrt(${1:x})]]></content>\n    3      <tabTrigger>math.sqrt</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.tan.sublime-snippet:\n    2      <content><![CDATA[math.tan(${1:x})]]></content>\n    3      <tabTrigger>math.tan</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/math.tanh.sublime-snippet:\n    2      <content><![CDATA[math.tanh(${1:x})]]></content>\n    3      <tabTrigger>math.tanh</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(x)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/module.sublime-snippet:\n    2      <content><![CDATA[module(${1:name}, ${2:...})]]></content>\n    3      <tabTrigger>module</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(name [, ...])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/next.sublime-snippet:\n    2      <content><![CDATA[next(${1:table}, ${2:index})]]></content>\n    3      <tabTrigger>next</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(table [, index])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/os.clock.sublime-snippet:\n    2      <content><![CDATA[os.clock ()]]></content>\n    3      <tabTrigger>os.clock</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>()</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/os.date.sublime-snippet:\n    2      <content><![CDATA[os.date(${1:format}, ${2:time})]]></content>\n    3      <tabTrigger>os.date</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([format [, time]])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/os.difftime.sublime-snippet:\n    2      <content><![CDATA[os.difftime(${1:t2}, ${2:t1})]]></content>\n    3      <tabTrigger>os.difftime</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(t2, t1)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/os.execute.sublime-snippet:\n    2      <content><![CDATA[os.execute(${1:command})]]></content>\n    3      <tabTrigger>os.execute</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([command])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/os.exit.sublime-snippet:\n    2      <content><![CDATA[os.exit(${1:code})]]></content>\n    3      <tabTrigger>os.exit</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([code])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/os.getenv.sublime-snippet:\n    2      <content><![CDATA[os.getenv(${1:varname})]]></content>\n    3      <tabTrigger>os.getenv</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(varname)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/os.remove.sublime-snippet:\n    2      <content><![CDATA[os.remove(${1:filename})]]></content>\n    3      <tabTrigger>os.remove</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(filename)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/os.rename.sublime-snippet:\n    2      <content><![CDATA[os.rename(${1:oldname}, ${2:newname})]]></content>\n    3      <tabTrigger>os.rename</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(oldname, newname)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/os.setlocale.sublime-snippet:\n    2      <content><![CDATA[os.setlocale(${1:locale}, ${2:category})]]></content>\n    3      <tabTrigger>os.setlocale</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(locale [, category])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/os.time.sublime-snippet:\n    2      <content><![CDATA[os.time(${1:table})]]></content>\n    3      <tabTrigger>os.time</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>([table])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/os.tmpname.sublime-snippet:\n    2      <content><![CDATA[os.tmpname ()]]></content>\n    3      <tabTrigger>os.tmpname</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>()</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/package.config.sublime-snippet:\n    2      <content><![CDATA[package.config]]></content>\n    3      <tabTrigger>package.config</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>package.config</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/package.cpath.sublime-snippet:\n    2      <content><![CDATA[package.cpath]]></content>\n    3      <tabTrigger>package.cpath</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>package.cpath</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/package.loaded.sublime-snippet:\n    2      <content><![CDATA[package.loaded]]></content>\n    3      <tabTrigger>package.loaded</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>package.loaded</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/package.loaders.sublime-snippet:\n    2      <content><![CDATA[package.loaders]]></content>\n    3      <tabTrigger>package.loaders</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>package.loaders</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/package.loadlib.sublime-snippet:\n    2      <content><![CDATA[package.loadlib(${1:libname}, ${2:funcname})]]></content>\n    3      <tabTrigger>package.loadlib</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(libname, funcname)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/package.path.sublime-snippet:\n    2      <content><![CDATA[package.path]]></content>\n    3      <tabTrigger>package.path</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>package.path</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/package.preload.sublime-snippet:\n    2      <content><![CDATA[package.preload]]></content>\n    3      <tabTrigger>package.preload</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>package.preload</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/package.searchers.sublime-snippet:\n    2      <content><![CDATA[package.searchers]]></content>\n    3      <tabTrigger>package.searchers</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>package.searchers</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/package.searchpath.sublime-snippet:\n    2      <content><![CDATA[package.searchpath(${1:name}, ${2:path}, ${3:sep}, ${4:rep})]]></content>\n    3      <tabTrigger>package.searchpath</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(name, path [, sep [, rep]])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/package.seeall.sublime-snippet:\n    2      <content><![CDATA[package.seeall(${1:module})]]></content>\n    3      <tabTrigger>package.seeall</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(module)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/pairs.sublime-snippet:\n    2      <content><![CDATA[pairs(${1:t})]]></content>\n    3      <tabTrigger>pairs</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(t)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/pcall-func-args.sublime-snippet:\n    2      <content><![CDATA[local ${1:success}, ${2:res} = pcall(${3:func}${4:, ...})]]></content>\n    3      <tabTrigger>pcall</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>pcall(func, ...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/pcall.sublime-snippet:\n    2      <content><![CDATA[pcall(${1:f}, ${2:arg1}, ${3:...})]]></content>\n    3      <tabTrigger>pcall</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(f, arg1, ...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/print.sublime-snippet:\n    2      <content><![CDATA[print(${1:...})]]></content>\n    3      <tabTrigger>print</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/rawequal.sublime-snippet:\n    2      <content><![CDATA[rawequal(${1:v1}, ${2:v2})]]></content>\n    3      <tabTrigger>rawequal</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(v1, v2)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/rawget.sublime-snippet:\n    2      <content><![CDATA[rawget(${1:table}, ${2:index})]]></content>\n    3      <tabTrigger>rawget</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(table, index)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/rawlen.sublime-snippet:\n    2      <content><![CDATA[rawlen(${1:v})]]></content>\n    3      <tabTrigger>rawlen</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(v)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/rawset.sublime-snippet:\n    2      <content><![CDATA[rawset(${1:table}, ${2:index}, ${3:value})]]></content>\n    3      <tabTrigger>rawset</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(table, index, value)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/repeatuntil.sublime-snippet:\n    4  until ${1:cond}]]></content>\n    5      <tabTrigger>repeat</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>repeat until cond</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/select.sublime-snippet:\n    2      <content><![CDATA[select(${1:index}, ${2:...})]]></content>\n    3      <tabTrigger>select</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(index, ...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/setfenv.sublime-snippet:\n    2      <content><![CDATA[setfenv(${1:f}, ${2:table})]]></content>\n    3      <tabTrigger>setfenv</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(f, table)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/setmetatable.sublime-snippet:\n    2      <content><![CDATA[setmetatable(${1:table}, ${2:metatable})]]></content>\n    3      <tabTrigger>setmetatable</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(table, metatable)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.byte.sublime-snippet:\n    2      <content><![CDATA[string.byte(${1:s}, ${2:i}, ${3:j})]]></content>\n    3      <tabTrigger>string.byte</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(s [, i [, j]])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.char.sublime-snippet:\n    2      <content><![CDATA[string.char(${1:...})]]></content>\n    3      <tabTrigger>string.char</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.dump.sublime-snippet:\n    2      <content><![CDATA[string.dump(${1:function})]]></content>\n    3      <tabTrigger>string.dump</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(function)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.find.sublime-snippet:\n    2      <content><![CDATA[string.find(${1:s}, ${2:pattern}, ${3:init}, ${4:plain})]]></content>\n    3      <tabTrigger>string.find</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(s, pattern [, init [, plain]])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.format.sublime-snippet:\n    2      <content><![CDATA[string.format(${1:formatstring}, ${2:...})]]></content>\n    3      <tabTrigger>string.format</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(formatstring, ...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.gmatch.sublime-snippet:\n    2      <content><![CDATA[string.gmatch(${1:s}, ${2:pattern})]]></content>\n    3      <tabTrigger>string.gmatch</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(s, pattern)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.gsub.sublime-snippet:\n    2      <content><![CDATA[string.gsub(${1:s}, ${2:pattern}, ${3:repl}, ${4:n})]]></content>\n    3      <tabTrigger>string.gsub</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(s, pattern, repl [, n])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.len.sublime-snippet:\n    2      <content><![CDATA[string.len(${1:s})]]></content>\n    3      <tabTrigger>string.len</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(s)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.lower.sublime-snippet:\n    2      <content><![CDATA[string.lower(${1:s})]]></content>\n    3      <tabTrigger>string.lower</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(s)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.match.sublime-snippet:\n    2      <content><![CDATA[string.match(${1:s}, ${2:pattern}, ${3:init})]]></content>\n    3      <tabTrigger>string.match</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(s, pattern [, init])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.rep.sublime-snippet:\n    2      <content><![CDATA[string.rep(${1:s}, ${2:n})]]></content>\n    3      <tabTrigger>string.rep</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(s, n)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.reverse.sublime-snippet:\n    2      <content><![CDATA[string.reverse(${1:s})]]></content>\n    3      <tabTrigger>string.reverse</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(s)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.sub.sublime-snippet:\n    2      <content><![CDATA[string.sub(${1:s}, ${2:i}, ${3:j})]]></content>\n    3      <tabTrigger>string.sub</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(s, i [, j])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/string.upper.sublime-snippet:\n    2      <content><![CDATA[string.upper(${1:s})]]></content>\n    3      <tabTrigger>string.upper</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(s)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/table.concat.sublime-snippet:\n    2      <content><![CDATA[table.concat( ${1:tablename}${2:, \", \"}${3:, start_index}${4:, end_index} )]]></content>\n    3      <tabTrigger>table.concat</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>table.concat</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/table.insert.sublime-snippet:\n    2      <content><![CDATA[table.insert(${1:table}, ${2:pos}, ${3:value})]]></content>\n    3      <tabTrigger>table.insert</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(table, [pos,] value)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/table.maxn.sublime-snippet:\n    2      <content><![CDATA[table.maxn(${1:table})]]></content>\n    3      <tabTrigger>table.maxn</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(table)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/table.pack.sublime-snippet:\n    2      <content><![CDATA[table.pack(${1:...})]]></content>\n    3      <tabTrigger>table.pack</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(...)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/table.remove.sublime-snippet:\n    2      <content><![CDATA[table.remove(${1:table}, ${2:pos})]]></content>\n    3      <tabTrigger>table.remove</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(table [, pos])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/table.sort.sublime-snippet:\n    2      <content><![CDATA[table.sort( ${1:tablename}${2:, sortfunction} )]]></content>\n    3      <tabTrigger>table.sort</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>table.sort</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/table.unpack.sublime-snippet:\n    2      <content><![CDATA[table.unpack(${1:list}, ${2:i}, ${3:j})]]></content>\n    3      <tabTrigger>table.unpack</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(list [, i [, j]])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/tonumber.sublime-snippet:\n    2      <content><![CDATA[tonumber(${1:e}, ${2:base})]]></content>\n    3      <tabTrigger>tonumber</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(e [, base])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/tostring.sublime-snippet:\n    2      <content><![CDATA[tostring(${1:e})]]></content>\n    3      <tabTrigger>tostring</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(e)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/type.sublime-snippet:\n    2      <content><![CDATA[type(${1:v})]]></content>\n    3      <tabTrigger>type</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(v)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/unpack.sublime-snippet:\n    2      <content><![CDATA[unpack(${1:list}, ${2:i}, ${3:j})]]></content>\n    3      <tabTrigger>unpack</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(list [, i [, j]])</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/whileend.sublime-snippet:\n    4  end]]></content>\n    5      <tabTrigger>while</tabTrigger>\n    6:     <scope>source.lua</scope>\n    7      <description>while cond</description>\n    8  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/xpcall-func-err.sublime-snippet:\n    2      <content><![CDATA[local ${1:success}, ${2:res} = xpcall(${3:func}, ${4:error})]]></content>\n    3      <tabTrigger>xpcall</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>xpcall(func, error)</description>\n    6  </snippet>\n\n/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/Lua/xpcall.sublime-snippet:\n    2      <content><![CDATA[xpcall(${1:f}, ${2:err})]]></content>\n    3      <tabTrigger>xpcall</tabTrigger>\n    4:     <scope>source.lua</scope>\n    5      <description>(f, err)</description>\n    6  </snippet>\n\n397 matches across 183 files\n",
+			"settings":
+			{
+				"buffer_size": 86643,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "<snippet>\n	<content><![CDATA[\nHello, ${1:this} is a ${2:snippet}.\n]]></content>\n	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->\n	<!-- <tabTrigger>hello</tabTrigger> -->\n	<!-- Optional: Set a scope to limit where the snippet will trigger -->\n	<!-- <scope>source.python</scope> -->\n</snippet>\n",
+			"settings":
+			{
+				"buffer_size": 317,
 				"line_ending": "Unix"
 			}
 		}
@@ -58,9 +79,13 @@
 	"build_system": "Packages/Lua JLI/LuaJLI.sublime-build",
 	"command_palette":
 	{
-		"height": 87.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
 			[
 				"Package Control: remove",
 				"Package Control: Remove Package"
@@ -95,13 +120,14 @@
 	},
 	"file_history":
 	[
+		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua Dev/Lua Dev.sublime-settings",
+		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/main.lua",
 		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL/function-(local).sublime-snippet",
 		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL/function-(lambda).sublime-snippet",
 		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL/function-(function).sublime-snippet",
 		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL/function-(fun).sublime-snippet",
 		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL/function-(def).sublime-snippet",
 		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/shaders/objectShader.fsh",
-		"/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/main.lua",
 		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/ParseLua.py",
 		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/Lua JLI/LuaJLI.tmLanguage",
 		"/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/GLSL JLI/GLSL.tmLanguage.cache",
@@ -140,9 +166,10 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"Lua",
 			"glsl",
 			"sublime",
 			"sublime-glsl",
@@ -236,6 +263,95 @@
 						],
 						"settings":
 						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -246,23 +362,1944 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/jamesfolk/Dropbox/GameDevelopment/mygames/games/jli_game_engine_test/COMMON/assets/scripts/main.lua",
+					"file": "/Users/jamesfolk/Desktop/test.lua",
 					"settings":
 					{
-						"buffer_size": 2541,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1642,
-								1642
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Lua/Lua.tmLanguage"
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Lua JLI/LuaJLI.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 86643,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										214,
+										217
+									],
+									[
+										450,
+										453
+									],
+									[
+										718,
+										721
+									],
+									[
+										998,
+										1001
+									],
+									[
+										1100,
+										1103
+									],
+									[
+										1108,
+										1111
+									],
+									[
+										1540,
+										1543
+									],
+									[
+										1625,
+										1628
+									],
+									[
+										1638,
+										1641
+									],
+									[
+										1726,
+										1729
+									],
+									[
+										1734,
+										1737
+									],
+									[
+										1945,
+										1948
+									],
+									[
+										2051,
+										2054
+									],
+									[
+										2058,
+										2061
+									],
+									[
+										2207,
+										2210
+									],
+									[
+										2340,
+										2343
+									],
+									[
+										2473,
+										2476
+									],
+									[
+										2603,
+										2606
+									],
+									[
+										2730,
+										2733
+									],
+									[
+										2871,
+										2874
+									],
+									[
+										3005,
+										3008
+									],
+									[
+										3140,
+										3143
+									],
+									[
+										3274,
+										3277
+									],
+									[
+										3410,
+										3413
+									],
+									[
+										3654,
+										3657
+									],
+									[
+										3972,
+										3975
+									],
+									[
+										4099,
+										4102
+									],
+									[
+										4184,
+										4187
+									],
+									[
+										4188,
+										4191
+									],
+									[
+										4320,
+										4323
+									],
+									[
+										4324,
+										4327
+									],
+									[
+										4414,
+										4417
+									],
+									[
+										4479,
+										4482
+									],
+									[
+										4500,
+										4503
+									],
+									[
+										4594,
+										4597
+									],
+									[
+										4614,
+										4617
+									],
+									[
+										4830,
+										4833
+									],
+									[
+										4954,
+										4957
+									],
+									[
+										4958,
+										4961
+									],
+									[
+										5228,
+										5231
+									],
+									[
+										5344,
+										5347
+									],
+									[
+										5531,
+										5534
+									],
+									[
+										5584,
+										5587
+									],
+									[
+										5727,
+										5730
+									],
+									[
+										5896,
+										5899
+									],
+									[
+										6083,
+										6086
+									],
+									[
+										6329,
+										6332
+									],
+									[
+										6407,
+										6410
+									],
+									[
+										6499,
+										6502
+									],
+									[
+										6583,
+										6586
+									],
+									[
+										6665,
+										6668
+									],
+									[
+										6763,
+										6766
+									],
+									[
+										6845,
+										6848
+									],
+									[
+										6928,
+										6931
+									],
+									[
+										7007,
+										7010
+									],
+									[
+										7100,
+										7103
+									],
+									[
+										7185,
+										7188
+									],
+									[
+										7268,
+										7271
+									],
+									[
+										7367,
+										7370
+									],
+									[
+										7450,
+										7453
+									],
+									[
+										7533,
+										7536
+									],
+									[
+										7612,
+										7615
+									],
+									[
+										7705,
+										7708
+									],
+									[
+										7790,
+										7793
+									],
+									[
+										7873,
+										7876
+									],
+									[
+										7972,
+										7975
+									],
+									[
+										8055,
+										8058
+									],
+									[
+										8130,
+										8133
+									],
+									[
+										8209,
+										8212
+									],
+									[
+										8296,
+										8299
+									],
+									[
+										8369,
+										8372
+									],
+									[
+										8450,
+										8453
+									],
+									[
+										8519,
+										8522
+									],
+									[
+										8590,
+										8593
+									],
+									[
+										8657,
+										8660
+									],
+									[
+										8735,
+										8738
+									],
+									[
+										8815,
+										8818
+									],
+									[
+										8903,
+										8906
+									],
+									[
+										8977,
+										8980
+									],
+									[
+										9059,
+										9062
+									],
+									[
+										9129,
+										9132
+									],
+									[
+										9201,
+										9204
+									],
+									[
+										9269,
+										9272
+									],
+									[
+										9347,
+										9350
+									],
+									[
+										9427,
+										9430
+									],
+									[
+										9515,
+										9518
+									],
+									[
+										9589,
+										9592
+									],
+									[
+										9671,
+										9674
+									],
+									[
+										9741,
+										9744
+									],
+									[
+										9813,
+										9816
+									],
+									[
+										9881,
+										9884
+									],
+									[
+										10285,
+										10288
+									],
+									[
+										10320,
+										10323
+									],
+									[
+										10371,
+										10374
+									],
+									[
+										10407,
+										10410
+									],
+									[
+										10459,
+										10462
+									],
+									[
+										10489,
+										10492
+									],
+									[
+										10535,
+										10538
+									],
+									[
+										10564,
+										10567
+									],
+									[
+										10609,
+										10612
+									],
+									[
+										10637,
+										10640
+									],
+									[
+										10681,
+										10684
+									],
+									[
+										10712,
+										10715
+									],
+									[
+										10759,
+										10762
+									],
+									[
+										10787,
+										10790
+									],
+									[
+										10831,
+										10834
+									],
+									[
+										10859,
+										10862
+									],
+									[
+										10896,
+										10899
+									],
+									[
+										11001,
+										11004
+									],
+									[
+										11068,
+										11071
+									],
+									[
+										11141,
+										11144
+									],
+									[
+										11204,
+										11207
+									],
+									[
+										11280,
+										11283
+									],
+									[
+										11322,
+										11325
+									],
+									[
+										11380,
+										11383
+									],
+									[
+										11423,
+										11426
+									],
+									[
+										11482,
+										11485
+									],
+									[
+										11519,
+										11522
+									],
+									[
+										11572,
+										11575
+									],
+									[
+										11608,
+										11611
+									],
+									[
+										11660,
+										11663
+									],
+									[
+										11698,
+										11701
+									],
+									[
+										11752,
+										11755
+									],
+									[
+										11787,
+										11790
+									],
+									[
+										11838,
+										11841
+									],
+									[
+										11873,
+										11876
+									],
+									[
+										11917,
+										11920
+									],
+									[
+										12029,
+										12032
+									],
+									[
+										12103,
+										12106
+									],
+									[
+										12185,
+										12188
+									],
+									[
+										12265,
+										12268
+									],
+									[
+										12335,
+										12338
+									],
+									[
+										12797,
+										12800
+									],
+									[
+										12838,
+										12841
+									],
+									[
+										13207,
+										13210
+									],
+									[
+										13299,
+										13302
+									],
+									[
+										13381,
+										13384
+									],
+									[
+										13459,
+										13462
+									],
+									[
+										13547,
+										13550
+									],
+									[
+										13631,
+										13634
+									],
+									[
+										13719,
+										13722
+									],
+									[
+										13801,
+										13804
+									],
+									[
+										14240,
+										14243
+									],
+									[
+										14277,
+										14280
+									],
+									[
+										14708,
+										14711
+									],
+									[
+										14766,
+										14769
+									],
+									[
+										15284,
+										15287
+									],
+									[
+										15323,
+										15326
+									],
+									[
+										15371,
+										15374
+									],
+									[
+										15417,
+										15420
+									],
+									[
+										15842,
+										15845
+									],
+									[
+										15855,
+										15858
+									],
+									[
+										16032,
+										16035
+									],
+									[
+										16110,
+										16113
+									],
+									[
+										16253,
+										16256
+									],
+									[
+										16386,
+										16389
+									],
+									[
+										16489,
+										16492
+									],
+									[
+										16588,
+										16591
+									],
+									[
+										16690,
+										16693
+									],
+									[
+										16792,
+										16795
+									],
+									[
+										16892,
+										16895
+									],
+									[
+										16995,
+										16998
+									],
+									[
+										17094,
+										17097
+									],
+									[
+										17253,
+										17256
+									],
+									[
+										17401,
+										17404
+									],
+									[
+										17567,
+										17570
+									],
+									[
+										17738,
+										17741
+									],
+									[
+										17986,
+										17989
+									],
+									[
+										18134,
+										18137
+									],
+									[
+										18283,
+										18286
+									],
+									[
+										18426,
+										18429
+									],
+									[
+										18588,
+										18591
+									],
+									[
+										18738,
+										18741
+									],
+									[
+										18898,
+										18901
+									],
+									[
+										19106,
+										19109
+									],
+									[
+										19271,
+										19274
+									],
+									[
+										19428,
+										19431
+									],
+									[
+										19580,
+										19583
+									],
+									[
+										19686,
+										19689
+									],
+									[
+										19925,
+										19928
+									],
+									[
+										19969,
+										19972
+									],
+									[
+										21024,
+										21027
+									],
+									[
+										21068,
+										21071
+									],
+									[
+										21232,
+										21235
+									],
+									[
+										21276,
+										21279
+									],
+									[
+										24046,
+										24049
+									],
+									[
+										24095,
+										24098
+									],
+									[
+										24306,
+										24309
+									],
+									[
+										24350,
+										24353
+									],
+									[
+										24524,
+										24527
+									],
+									[
+										24568,
+										24571
+									],
+									[
+										24957,
+										24960
+									],
+									[
+										25191,
+										25194
+									],
+									[
+										25363,
+										25366
+									],
+									[
+										25519,
+										25522
+									],
+									[
+										25634,
+										25637
+									],
+									[
+										25808,
+										25811
+									],
+									[
+										25967,
+										25970
+									],
+									[
+										26123,
+										26126
+									],
+									[
+										26247,
+										26250
+									],
+									[
+										26419,
+										26422
+									],
+									[
+										26575,
+										26578
+									],
+									[
+										26690,
+										26693
+									],
+									[
+										26864,
+										26867
+									],
+									[
+										26946,
+										26949
+									],
+									[
+										27121,
+										27124
+									],
+									[
+										27219,
+										27222
+									],
+									[
+										27517,
+										27520
+									],
+									[
+										27785,
+										27788
+									],
+									[
+										27793,
+										27796
+									],
+									[
+										28118,
+										28121
+									],
+									[
+										28400,
+										28403
+									],
+									[
+										28571,
+										28574
+									],
+									[
+										28759,
+										28762
+									],
+									[
+										28892,
+										28895
+									],
+									[
+										28924,
+										28927
+									],
+									[
+										28955,
+										28958
+									],
+									[
+										28968,
+										28971
+									],
+									[
+										29115,
+										29118
+									],
+									[
+										29333,
+										29336
+									],
+									[
+										29520,
+										29523
+									],
+									[
+										29714,
+										29717
+									],
+									[
+										29838,
+										29841
+									],
+									[
+										29961,
+										29964
+									],
+									[
+										30207,
+										30210
+									],
+									[
+										30462,
+										30465
+									],
+									[
+										30779,
+										30782
+									],
+									[
+										31103,
+										31106
+									],
+									[
+										31408,
+										31411
+									],
+									[
+										31708,
+										31711
+									],
+									[
+										32030,
+										32033
+									],
+									[
+										32371,
+										32374
+									],
+									[
+										32688,
+										32691
+									],
+									[
+										32999,
+										33002
+									],
+									[
+										33307,
+										33310
+									],
+									[
+										33621,
+										33624
+									],
+									[
+										33938,
+										33941
+									],
+									[
+										34261,
+										34264
+									],
+									[
+										34593,
+										34596
+									],
+									[
+										34920,
+										34923
+									],
+									[
+										35252,
+										35255
+									],
+									[
+										35570,
+										35573
+									],
+									[
+										35895,
+										35898
+									],
+									[
+										36242,
+										36245
+									],
+									[
+										36587,
+										36590
+									],
+									[
+										36942,
+										36945
+									],
+									[
+										37288,
+										37291
+									],
+									[
+										37621,
+										37624
+									],
+									[
+										37949,
+										37952
+									],
+									[
+										38281,
+										38284
+									],
+									[
+										38596,
+										38599
+									],
+									[
+										38919,
+										38922
+									],
+									[
+										39248,
+										39251
+									],
+									[
+										39610,
+										39613
+									],
+									[
+										39992,
+										39995
+									],
+									[
+										40357,
+										40360
+									],
+									[
+										40693,
+										40696
+									],
+									[
+										41037,
+										41040
+									],
+									[
+										41383,
+										41386
+									],
+									[
+										41724,
+										41727
+									],
+									[
+										42099,
+										42102
+									],
+									[
+										42496,
+										42499
+									],
+									[
+										42880,
+										42883
+									],
+									[
+										43249,
+										43252
+									],
+									[
+										43618,
+										43621
+									],
+									[
+										43990,
+										43993
+									],
+									[
+										44356,
+										44359
+									],
+									[
+										44723,
+										44726
+									],
+									[
+										45046,
+										45049
+									],
+									[
+										45326,
+										45329
+									],
+									[
+										45606,
+										45609
+									],
+									[
+										45937,
+										45940
+									],
+									[
+										46234,
+										46237
+									],
+									[
+										46521,
+										46524
+									],
+									[
+										46808,
+										46811
+									],
+									[
+										47098,
+										47101
+									],
+									[
+										47378,
+										47381
+									],
+									[
+										47668,
+										47671
+									],
+									[
+										47953,
+										47956
+									],
+									[
+										48247,
+										48250
+									],
+									[
+										48568,
+										48571
+									],
+									[
+										48896,
+										48899
+									],
+									[
+										49215,
+										49218
+									],
+									[
+										49501,
+										49504
+									],
+									[
+										49822,
+										49825
+									],
+									[
+										50131,
+										50134
+									],
+									[
+										50442,
+										50445
+									],
+									[
+										50763,
+										50766
+									],
+									[
+										51096,
+										51099
+									],
+									[
+										51427,
+										51430
+									],
+									[
+										51755,
+										51758
+									],
+									[
+										52075,
+										52078
+									],
+									[
+										52387,
+										52390
+									],
+									[
+										52694,
+										52697
+									],
+									[
+										53007,
+										53010
+									],
+									[
+										53312,
+										53315
+									],
+									[
+										53647,
+										53650
+									],
+									[
+										53994,
+										53997
+									],
+									[
+										54338,
+										54341
+									],
+									[
+										54672,
+										54675
+									],
+									[
+										55005,
+										55008
+									],
+									[
+										55350,
+										55353
+									],
+									[
+										55704,
+										55707
+									],
+									[
+										56036,
+										56039
+									],
+									[
+										56353,
+										56356
+									],
+									[
+										56665,
+										56668
+									],
+									[
+										56977,
+										56980
+									],
+									[
+										57289,
+										57292
+									],
+									[
+										57612,
+										57615
+									],
+									[
+										57927,
+										57930
+									],
+									[
+										58236,
+										58239
+									],
+									[
+										58548,
+										58551
+									],
+									[
+										58857,
+										58860
+									],
+									[
+										59166,
+										59169
+									],
+									[
+										59481,
+										59484
+									],
+									[
+										59801,
+										59804
+									],
+									[
+										60119,
+										60122
+									],
+									[
+										60423,
+										60426
+									],
+									[
+										60752,
+										60755
+									],
+									[
+										61064,
+										61067
+									],
+									[
+										61379,
+										61382
+									],
+									[
+										61698,
+										61701
+									],
+									[
+										62022,
+										62025
+									],
+									[
+										62339,
+										62342
+									],
+									[
+										62637,
+										62640
+									],
+									[
+										62958,
+										62961
+									],
+									[
+										63270,
+										63273
+									],
+									[
+										63596,
+										63599
+									],
+									[
+										63934,
+										63937
+									],
+									[
+										64243,
+										64246
+									],
+									[
+										64555,
+										64558
+									],
+									[
+										64867,
+										64870
+									],
+									[
+										65176,
+										65179
+									],
+									[
+										65488,
+										65491
+									],
+									[
+										65804,
+										65807
+									],
+									[
+										66128,
+										66131
+									],
+									[
+										66446,
+										66449
+									],
+									[
+										66767,
+										66770
+									],
+									[
+										67111,
+										67114
+									],
+									[
+										67437,
+										67440
+									],
+									[
+										67754,
+										67757
+									],
+									[
+										68077,
+										68080
+									],
+									[
+										68402,
+										68405
+									],
+									[
+										68741,
+										68744
+									],
+									[
+										69097,
+										69100
+									],
+									[
+										69425,
+										69428
+									],
+									[
+										69741,
+										69744
+									],
+									[
+										70059,
+										70062
+									],
+									[
+										70386,
+										70389
+									],
+									[
+										70715,
+										70718
+									],
+									[
+										71048,
+										71051
+									],
+									[
+										71411,
+										71414
+									],
+									[
+										71740,
+										71743
+									],
+									[
+										72071,
+										72074
+									],
+									[
+										72411,
+										72414
+									],
+									[
+										72798,
+										72801
+									],
+									[
+										73155,
+										73158
+									],
+									[
+										73460,
+										73463
+									],
+									[
+										73814,
+										73817
+									],
+									[
+										74148,
+										74151
+									],
+									[
+										74461,
+										74464
+									],
+									[
+										74782,
+										74785
+									],
+									[
+										75106,
+										75109
+									],
+									[
+										75420,
+										75423
+									],
+									[
+										75751,
+										75754
+									],
+									[
+										76056,
+										76059
+									],
+									[
+										76387,
+										76390
+									],
+									[
+										76714,
+										76717
+									],
+									[
+										77062,
+										77065
+									],
+									[
+										77411,
+										77414
+									],
+									[
+										77743,
+										77746
+									],
+									[
+										78070,
+										78073
+									],
+									[
+										78432,
+										78435
+									],
+									[
+										78805,
+										78808
+									],
+									[
+										79159,
+										79162
+									],
+									[
+										79519,
+										79522
+									],
+									[
+										79855,
+										79858
+									],
+									[
+										80176,
+										80179
+									],
+									[
+										80522,
+										80525
+									],
+									[
+										80863,
+										80866
+									],
+									[
+										81193,
+										81196
+									],
+									[
+										81524,
+										81527
+									],
+									[
+										81854,
+										81857
+									],
+									[
+										82230,
+										82233
+									],
+									[
+										82586,
+										82589
+									],
+									[
+										82923,
+										82926
+									],
+									[
+										83244,
+										83247
+									],
+									[
+										83581,
+										83584
+									],
+									[
+										83937,
+										83940
+									],
+									[
+										84284,
+										84287
+									],
+									[
+										84619,
+										84622
+									],
+									[
+										84937,
+										84940
+									],
+									[
+										85234,
+										85237
+									],
+									[
+										85556,
+										85559
+									],
+									[
+										85842,
+										85845
+									],
+									[
+										86207,
+										86210
+									],
+									[
+										86536,
+										86539
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								25,
+								28
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"detect_indentation": false,
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"output_tag": 1,
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"default_dir": "/Users/jamesfolk/Library/Application Support/Sublime Text 2/Packages/User",
+							"default_extension": "sublime-snippet",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/XML/XML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

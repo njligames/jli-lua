@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSourcePosition()]]></content>
+	<tabTrigger>ParticleEmitter_getSourcePosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btVector3 ParticleEmitter::getSourcePosition()</description>
+</snippet>

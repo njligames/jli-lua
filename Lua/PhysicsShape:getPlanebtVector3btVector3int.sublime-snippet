@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPlane(${1:btVector3 &},${2:btVector3 &},${3:int})]]></content>
+	<tabTrigger>PhysicsShape_getPlane</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShape::getPlane(btVector3 & planeNormal,btVector3 & planeSupport,int i)</description>
+</snippet>

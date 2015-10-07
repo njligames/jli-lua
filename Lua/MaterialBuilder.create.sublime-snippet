@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.MaterialBuilder.create()]]></content>
+	<tabTrigger>MaterialBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * MaterialBuilder::create()</description>
+</snippet>

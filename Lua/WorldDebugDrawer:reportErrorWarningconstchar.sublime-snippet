@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reportErrorWarning(${1:const char *})]]></content>
+	<tabTrigger>WorldDebugDrawer_reportErrorWarning</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldDebugDrawer::reportErrorWarning(const char * warningString)</description>
+</snippet>

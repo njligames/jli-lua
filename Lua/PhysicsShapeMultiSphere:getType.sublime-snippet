@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>PhysicsShapeMultiSphere_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 PhysicsShapeMultiSphere::getType()</description>
+</snippet>

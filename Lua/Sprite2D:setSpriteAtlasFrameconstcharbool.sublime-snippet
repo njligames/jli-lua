@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setSpriteAtlasFrame(${1: *},${2: *},${3:const char *},${4:bool})]]></content>
+	<tabTrigger>Sprite2D_setSpriteAtlasFrame</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Sprite2D::setSpriteAtlasFrame( * node, * atlas,const char * frameName,bool matchDimension)</description>
+</snippet>

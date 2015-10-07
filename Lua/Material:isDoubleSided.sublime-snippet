@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isDoubleSided()]]></content>
+	<tabTrigger>Material_isDoubleSided</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Material::isDoubleSided()</description>
+</snippet>

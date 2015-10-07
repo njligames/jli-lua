@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNumberOfVertices(${1: *},${2: *})]]></content>
+	<tabTrigger>Sprite2D_getNumberOfVertices</tabTrigger>
+	<scope>source.lua</scope>
+	<description>u64 Sprite2D::getNumberOfVertices( * geometry, * node)</description>
+</snippet>

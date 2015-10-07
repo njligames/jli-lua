@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getGeometry()]]></content>
+	<tabTrigger>Node_getGeometry</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * Node::getGeometry()</description>
+</snippet>

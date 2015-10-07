@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setTextIcon(${1:const char *})]]></content>
+	<tabTrigger>CheckboxHUD_setTextIcon</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void CheckboxHUD::setTextIcon(const char * text)</description>
+</snippet>

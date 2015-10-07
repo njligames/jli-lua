@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeArrayObject_Internal()]]></content>
+	<tabTrigger>WorldFactory_removeArrayObject_Internal</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldFactory::removeArrayObject_Internal()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintSlider::serialize()</description>
+</snippet>

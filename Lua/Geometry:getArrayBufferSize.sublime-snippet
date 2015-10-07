@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getArrayBufferSize()]]></content>
+	<tabTrigger>Geometry_getArrayBufferSize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s64 Geometry::getArrayBufferSize()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>WorldSocket_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 WorldSocket::getType()</description>
+</snippet>

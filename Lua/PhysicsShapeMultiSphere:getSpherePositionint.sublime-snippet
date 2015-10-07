@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSpherePosition(${1:int})]]></content>
+	<tabTrigger>PhysicsShapeMultiSphere_getSpherePosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const btVector3 & PhysicsShapeMultiSphere::getSpherePosition(int index)</description>
+</snippet>

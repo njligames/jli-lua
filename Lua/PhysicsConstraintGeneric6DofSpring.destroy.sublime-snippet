@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintGeneric6DofSpring.destroy(${1: *})]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6DofSpring__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsConstraintGeneric6DofSpring::destroy( * object)</description>
+</snippet>

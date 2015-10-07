@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getFrameOffsetA()]]></content>
+	<tabTrigger>PhysicsConstraintHinge_getFrameOffsetA</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btTransform & PhysicsConstraintHinge::getFrameOffsetA()</description>
+</snippet>

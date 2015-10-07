@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getEmission()]]></content>
+	<tabTrigger>Material_getEmission</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * Material::getEmission()</description>
+</snippet>

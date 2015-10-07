@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeConvexTriangleMesh.create()]]></content>
+	<tabTrigger>PhysicsShapeConvexTriangleMesh__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShapeConvexTriangleMesh::create()</description>
+</snippet>

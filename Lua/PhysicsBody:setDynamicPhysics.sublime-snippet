@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setDynamicPhysics()]]></content>
+	<tabTrigger>PhysicsBody_setDynamicPhysics</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsBody::setDynamicPhysics()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[render()]]></content>
+	<tabTrigger>World_render</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void World::render()</description>
+</snippet>

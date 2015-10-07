@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeBackground()]]></content>
+	<tabTrigger>Scene_removeBackground</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Scene::removeBackground()</description>
+</snippet>

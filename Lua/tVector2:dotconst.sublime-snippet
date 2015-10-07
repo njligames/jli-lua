@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dot(${1:const  &})]]></content>
+	<tabTrigger>tVector2_dot</tabTrigger>
+	<scope>source.lua</scope>
+	<description>SIMD_FORCE_INLINE btScalar tVector2::dot(const  & v)</description>
+</snippet>

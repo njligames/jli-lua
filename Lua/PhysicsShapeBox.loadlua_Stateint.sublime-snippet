@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeBox.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>PhysicsShapeBox__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsShapeBox::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

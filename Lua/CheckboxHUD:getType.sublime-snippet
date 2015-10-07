@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>CheckboxHUD_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 CheckboxHUD::getType()</description>
+</snippet>

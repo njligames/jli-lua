@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintGeneric6DofSpringBuilder.create()]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6DofSpringBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsConstraintGeneric6DofSpringBuilder::create()</description>
+</snippet>

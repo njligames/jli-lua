@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeMaterial()]]></content>
+	<tabTrigger>Geometry_removeMaterial</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Geometry::removeMaterial()</description>
+</snippet>

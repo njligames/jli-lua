@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.World.createInstance()]]></content>
+	<tabTrigger>World__createInstance</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void World::createInstance()</description>
+</snippet>

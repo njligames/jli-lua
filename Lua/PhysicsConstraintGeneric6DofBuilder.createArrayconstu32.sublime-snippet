@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintGeneric6DofBuilder.createArray(${1:const u32})]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6DofBuilder__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** PhysicsConstraintGeneric6DofBuilder::createArray(const u32 size)</description>
+</snippet>

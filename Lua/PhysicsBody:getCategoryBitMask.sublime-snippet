@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getCategoryBitMask()]]></content>
+	<tabTrigger>PhysicsBody_getCategoryBitMask</tabTrigger>
+	<scope>source.lua</scope>
+	<description> PhysicsBody::getCategoryBitMask()</description>
+</snippet>

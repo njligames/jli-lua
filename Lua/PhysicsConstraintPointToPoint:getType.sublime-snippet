@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>PhysicsConstraintPointToPoint_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 PhysicsConstraintPointToPoint::getType()</description>
+</snippet>

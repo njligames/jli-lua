@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getCollisionFlags()]]></content>
+	<tabTrigger>PhysicsBody_getCollisionFlags</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 PhysicsBody::getCollisionFlags()</description>
+</snippet>

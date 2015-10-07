@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeChildNode(${1:const u32})]]></content>
+	<tabTrigger>Node_removeChildNode</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::removeChildNode(const u32 index)</description>
+</snippet>

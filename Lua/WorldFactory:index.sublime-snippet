@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[index()]]></content>
+	<tabTrigger>WorldFactory_index</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 WorldFactory::index()</description>
+</snippet>

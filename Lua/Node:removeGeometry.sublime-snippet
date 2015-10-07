@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeGeometry()]]></content>
+	<tabTrigger>Node_removeGeometry</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::removeGeometry()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getParticleEmitters(${1:std::vector<  * > &})]]></content>
+	<tabTrigger>Node_getParticleEmitters</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::getParticleEmitters(std::vector<  * > & particleEmitters)</description>
+</snippet>

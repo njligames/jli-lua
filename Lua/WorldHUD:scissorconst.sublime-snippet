@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scissor(${1:const  &})]]></content>
+	<tabTrigger>WorldHUD_scissor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::scissor(const  & rect)</description>
+</snippet>

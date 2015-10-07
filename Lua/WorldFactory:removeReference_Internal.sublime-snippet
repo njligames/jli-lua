@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeReference_Internal()]]></content>
+	<tabTrigger>WorldFactory_removeReference_Internal</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool WorldFactory::removeReference_Internal()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setOcclusionBuffer(${1: *})]]></content>
+	<tabTrigger>SceneRenderer_setOcclusionBuffer</tabTrigger>
+	<scope>source.lua</scope>
+	<description>SIMD_FORCE_INLINE void SceneRenderer::setOcclusionBuffer( * ocb)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsBodyRigidBuilder.destroyArray(${1: **})]]></content>
+	<tabTrigger>PhysicsBodyRigidBuilder__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsBodyRigidBuilder::destroyArray( ** array)</description>
+</snippet>

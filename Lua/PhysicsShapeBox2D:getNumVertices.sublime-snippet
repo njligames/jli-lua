@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNumVertices()]]></content>
+	<tabTrigger>PhysicsShapeBox2D_getNumVertices</tabTrigger>
+	<scope>source.lua</scope>
+	<description>int PhysicsShapeBox2D::getNumVertices()</description>
+</snippet>

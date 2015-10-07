@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>CheckboxHUDBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void CheckboxHUDBuilder::serialize()</description>
+</snippet>

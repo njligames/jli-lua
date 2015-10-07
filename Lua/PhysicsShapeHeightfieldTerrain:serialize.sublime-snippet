@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>PhysicsShapeHeightfieldTerrain_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeHeightfieldTerrain::serialize()</description>
+</snippet>

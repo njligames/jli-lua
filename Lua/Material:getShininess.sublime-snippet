@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getShininess()]]></content>
+	<tabTrigger>Material_getShininess</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 Material::getShininess()</description>
+</snippet>

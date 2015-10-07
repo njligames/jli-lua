@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNumPlanes()]]></content>
+	<tabTrigger>PhysicsShapeCone_getNumPlanes</tabTrigger>
+	<scope>source.lua</scope>
+	<description>int PhysicsShapeCone::getNumPlanes()</description>
+</snippet>

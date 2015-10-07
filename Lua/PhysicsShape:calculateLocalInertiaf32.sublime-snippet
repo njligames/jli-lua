@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calculateLocalInertia(${1:f32})]]></content>
+	<tabTrigger>PhysicsShape_calculateLocalInertia</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btVector3 PhysicsShape::calculateLocalInertia(f32 mass)</description>
+</snippet>

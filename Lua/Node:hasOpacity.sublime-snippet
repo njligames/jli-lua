@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hasOpacity()]]></content>
+	<tabTrigger>Node_hasOpacity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Node::hasOpacity()</description>
+</snippet>

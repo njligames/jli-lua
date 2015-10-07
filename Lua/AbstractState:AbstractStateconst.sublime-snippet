@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AbstractState(${1:const  &})]]></content>
+	<tabTrigger>AbstractState_AbstractState</tabTrigger>
+	<scope>source.lua</scope>
+	<description> AbstractState::AbstractState(const  & builder)</description>
+</snippet>

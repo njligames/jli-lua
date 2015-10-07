@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsWorld.destroy(${1: *})]]></content>
+	<tabTrigger>PhysicsWorld__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsWorld::destroy( * physicsWorld)</description>
+</snippet>

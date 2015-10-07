@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.CheckboxHUDBuilder.type()]]></content>
+	<tabTrigger>CheckboxHUDBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 CheckboxHUDBuilder::type()</description>
+</snippet>

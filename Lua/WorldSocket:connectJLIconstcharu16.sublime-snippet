@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[connectJLI(${1:const char *},${2:u16})]]></content>
+	<tabTrigger>WorldSocket_connectJLI</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool WorldSocket::connectJLI(const char * ip,u16 port)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeBox2DBuilder.clone(${1:const  &})]]></content>
+	<tabTrigger>PhysicsShapeBox2DBuilder__clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShapeBox2DBuilder::clone(const  & object)</description>
+</snippet>

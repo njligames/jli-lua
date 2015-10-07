@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getFontSize()]]></content>
+	<tabTrigger>CheckboxHUD_getFontSize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 CheckboxHUD::getFontSize()</description>
+</snippet>

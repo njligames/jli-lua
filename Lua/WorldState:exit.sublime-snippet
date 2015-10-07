@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[exit()]]></content>
+	<tabTrigger>WorldState_exit</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldState::exit()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTimeLeft()]]></content>
+	<tabTrigger>Action_getTimeLeft</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 Action::getTimeLeft()</description>
+</snippet>

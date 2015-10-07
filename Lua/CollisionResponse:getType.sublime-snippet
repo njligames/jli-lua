@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>CollisionResponse_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 CollisionResponse::getType()</description>
+</snippet>

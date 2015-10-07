@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getScene()]]></content>
+	<tabTrigger>World_getScene</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * World::getScene()</description>
+</snippet>

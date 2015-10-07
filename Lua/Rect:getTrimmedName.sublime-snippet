@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTrimmedName()]]></content>
+	<tabTrigger>Rect_getTrimmedName</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const std::string & Rect::getTrimmedName()</description>
+</snippet>

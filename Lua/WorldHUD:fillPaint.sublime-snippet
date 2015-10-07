@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fillPaint(${1:})]]></content>
+	<tabTrigger>WorldHUD_fillPaint</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::fillPaint( paint)</description>
+</snippet>

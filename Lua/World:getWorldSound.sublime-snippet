@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getWorldSound()]]></content>
+	<tabTrigger>World_getWorldSound</tabTrigger>
+	<scope>source.lua</scope>
+	<description>WorldSound * World::getWorldSound()</description>
+</snippet>

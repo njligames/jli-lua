@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setGravity(${1:const btVector3 &})]]></content>
+	<tabTrigger>PhysicsWorld_setGravity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsWorld::setGravity(const btVector3 & gravity)</description>
+</snippet>

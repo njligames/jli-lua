@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getUpperLinLimit()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_getUpperLinLimit</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintSlider::getUpperLinLimit()</description>
+</snippet>

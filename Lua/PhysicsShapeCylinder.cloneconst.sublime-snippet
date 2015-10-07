@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeCylinder.clone(${1:const  &})]]></content>
+	<tabTrigger>PhysicsShapeCylinder__clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShapeCylinder::clone(const  & object)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.TimerBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>TimerBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void TimerBuilder::destroy( * object)</description>
+</snippet>

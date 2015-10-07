@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[transformTextureCoordinates(${1: *},${2:const btTransform &})]]></content>
+	<tabTrigger>Geometry_transformTextureCoordinates</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Geometry::transformTextureCoordinates( * node,const btTransform & transform)</description>
+</snippet>

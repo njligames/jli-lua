@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAFrame()]]></content>
+	<tabTrigger>PhysicsConstraintHinge_getAFrame</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const btTransform & PhysicsConstraintHinge::getAFrame()</description>
+</snippet>

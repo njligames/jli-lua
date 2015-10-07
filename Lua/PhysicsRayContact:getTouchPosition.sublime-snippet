@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTouchPosition()]]></content>
+	<tabTrigger>PhysicsRayContact_getTouchPosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const  & PhysicsRayContact::getTouchPosition()</description>
+</snippet>

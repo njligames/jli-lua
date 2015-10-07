@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.FontBuilder.clone(${1:const  &})]]></content>
+	<tabTrigger>FontBuilder__clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * FontBuilder::clone(const  & object)</description>
+</snippet>

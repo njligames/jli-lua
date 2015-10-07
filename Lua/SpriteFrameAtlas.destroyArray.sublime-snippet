@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SpriteFrameAtlas.destroyArray(${1: **})]]></content>
+	<tabTrigger>SpriteFrameAtlas__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void SpriteFrameAtlas::destroyArray( ** array)</description>
+</snippet>

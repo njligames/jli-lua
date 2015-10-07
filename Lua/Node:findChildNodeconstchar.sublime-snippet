@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[findChildNode(${1:const char *})]]></content>
+	<tabTrigger>Node_findChildNode</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * Node::findChildNode(const char * name)</description>
+</snippet>

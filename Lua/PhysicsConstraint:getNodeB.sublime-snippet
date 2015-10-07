@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNodeB()]]></content>
+	<tabTrigger>PhysicsConstraint_getNodeB</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * PhysicsConstraint::getNodeB()</description>
+</snippet>

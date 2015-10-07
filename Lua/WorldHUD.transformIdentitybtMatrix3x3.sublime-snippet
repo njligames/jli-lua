@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.WorldHUD.transformIdentity(${1:btMatrix3x3 &})]]></content>
+	<tabTrigger>WorldHUD__transformIdentity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void WorldHUD::transformIdentity(btMatrix3x3 & floats)</description>
+</snippet>

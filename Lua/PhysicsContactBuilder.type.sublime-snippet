@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsContactBuilder.type()]]></content>
+	<tabTrigger>PhysicsContactBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PhysicsContactBuilder::type()</description>
+</snippet>

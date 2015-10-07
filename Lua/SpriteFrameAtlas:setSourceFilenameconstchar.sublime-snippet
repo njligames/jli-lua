@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setSourceFilename(${1:const char *})]]></content>
+	<tabTrigger>SpriteFrameAtlas_setSourceFilename</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void SpriteFrameAtlas::setSourceFilename(const char * filename)</description>
+</snippet>

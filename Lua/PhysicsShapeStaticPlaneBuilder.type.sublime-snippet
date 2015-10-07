@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeStaticPlaneBuilder.type()]]></content>
+	<tabTrigger>PhysicsShapeStaticPlaneBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PhysicsShapeStaticPlaneBuilder::type()</description>
+</snippet>

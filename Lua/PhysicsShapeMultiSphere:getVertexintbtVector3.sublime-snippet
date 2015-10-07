@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getVertex(${1:int},${2:btVector3 &})]]></content>
+	<tabTrigger>PhysicsShapeMultiSphere_getVertex</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeMultiSphere::getVertex(int i,btVector3 & vtx)</description>
+</snippet>

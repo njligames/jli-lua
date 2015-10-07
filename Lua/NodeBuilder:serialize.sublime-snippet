@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>NodeBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void NodeBuilder::serialize()</description>
+</snippet>

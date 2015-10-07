@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeCylinder.create(${1:const  &})]]></content>
+	<tabTrigger>PhysicsShapeCylinder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShapeCylinder::create(const  & builder)</description>
+</snippet>

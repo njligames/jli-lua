@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[~AbstractActionable()]]></content>
+	<tabTrigger>AbstractActionable_~AbstractActionable</tabTrigger>
+	<scope>source.lua</scope>
+	<description> AbstractActionable::~AbstractActionable()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintSliderBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>PhysicsConstraintSliderBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsConstraintSliderBuilder::destroy( * object)</description>
+</snippet>

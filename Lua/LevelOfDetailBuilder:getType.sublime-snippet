@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>LevelOfDetailBuilder_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 LevelOfDetailBuilder::getType()</description>
+</snippet>

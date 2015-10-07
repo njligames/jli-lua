@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.CheckboxHUD.copy(${1:const  &})]]></content>
+	<tabTrigger>CheckboxHUD__copy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * CheckboxHUD::copy(const  & object)</description>
+</snippet>

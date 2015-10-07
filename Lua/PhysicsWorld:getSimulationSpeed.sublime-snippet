@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSimulationSpeed()]]></content>
+	<tabTrigger>PhysicsWorld_getSimulationSpeed</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsWorld::getSimulationSpeed()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>SceneBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void SceneBuilder::serialize()</description>
+</snippet>

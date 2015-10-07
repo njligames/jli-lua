@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getMotorTargetVelocity()]]></content>
+	<tabTrigger>PhysicsConstraintHinge_getMotorTargetVelocity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintHinge::getMotorTargetVelocity()</description>
+</snippet>

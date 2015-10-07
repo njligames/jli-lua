@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>SpriteFrameAtlasBuilder_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 SpriteFrameAtlasBuilder::getType()</description>
+</snippet>

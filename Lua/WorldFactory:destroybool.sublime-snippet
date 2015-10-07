@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[destroy(${1:bool})]]></content>
+	<tabTrigger>WorldFactory_destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldFactory::destroy(bool array)</description>
+</snippet>

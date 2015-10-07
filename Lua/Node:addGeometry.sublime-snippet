@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addGeometry(${1: *})]]></content>
+	<tabTrigger>Node_addGeometry</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::addGeometry( * body)</description>
+</snippet>

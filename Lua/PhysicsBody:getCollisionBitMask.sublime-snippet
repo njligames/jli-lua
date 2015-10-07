@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getCollisionBitMask()]]></content>
+	<tabTrigger>PhysicsBody_getCollisionBitMask</tabTrigger>
+	<scope>source.lua</scope>
+	<description> PhysicsBody::getCollisionBitMask()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.StopWatchBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>StopWatchBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void StopWatchBuilder::destroy( * object)</description>
+</snippet>

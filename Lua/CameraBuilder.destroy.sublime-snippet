@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.CameraBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>CameraBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void CameraBuilder::destroy( * object)</description>
+</snippet>

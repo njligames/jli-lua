@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeSound(${1:Sound *})]]></content>
+	<tabTrigger>Node_removeSound</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Node::removeSound(Sound * sound)</description>
+</snippet>

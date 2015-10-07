@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rect(${1:const  &})]]></content>
+	<tabTrigger>WorldHUD_rect</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::rect(const  & rect)</description>
+</snippet>

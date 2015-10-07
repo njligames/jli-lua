@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setAngularLowerLimit(${1:const btVector3 &})]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6Dof_setAngularLowerLimit</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintGeneric6Dof::setAngularLowerLimit(const btVector3 & angularLower)</description>
+</snippet>

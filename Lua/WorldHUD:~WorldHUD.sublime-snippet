@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[~WorldHUD()]]></content>
+	<tabTrigger>WorldHUD_~WorldHUD</tabTrigger>
+	<scope>source.lua</scope>
+	<description> WorldHUD::~WorldHUD()</description>
+</snippet>

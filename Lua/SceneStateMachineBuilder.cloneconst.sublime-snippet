@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SceneStateMachineBuilder.clone(${1:const  &})]]></content>
+	<tabTrigger>SceneStateMachineBuilder__clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * SceneStateMachineBuilder::clone(const  & object)</description>
+</snippet>

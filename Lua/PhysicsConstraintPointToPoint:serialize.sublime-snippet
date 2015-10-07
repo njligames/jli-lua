@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>PhysicsConstraintPointToPoint_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintPointToPoint::serialize()</description>
+</snippet>

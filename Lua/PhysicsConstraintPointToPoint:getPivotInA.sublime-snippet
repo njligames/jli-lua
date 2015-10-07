@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPivotInA()]]></content>
+	<tabTrigger>PhysicsConstraintPointToPoint_getPivotInA</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const btVector3 & PhysicsConstraintPointToPoint::getPivotInA()</description>
+</snippet>

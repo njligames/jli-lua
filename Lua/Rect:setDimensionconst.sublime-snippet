@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setDimension(${1:const  &})]]></content>
+	<tabTrigger>Rect_setDimension</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Rect::setDimension(const  & dimension)</description>
+</snippet>

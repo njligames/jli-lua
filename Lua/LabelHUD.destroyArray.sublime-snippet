@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.LabelHUD.destroyArray(${1: **})]]></content>
+	<tabTrigger>LabelHUD__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void LabelHUD::destroyArray( ** array)</description>
+</snippet>

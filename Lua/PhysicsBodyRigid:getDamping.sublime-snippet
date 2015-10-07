@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getDamping()]]></content>
+	<tabTrigger>PhysicsBodyRigid_getDamping</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsBodyRigid::getDamping()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.LevelOfDetailBuilder.create()]]></content>
+	<tabTrigger>LevelOfDetailBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * LevelOfDetailBuilder::create()</description>
+</snippet>

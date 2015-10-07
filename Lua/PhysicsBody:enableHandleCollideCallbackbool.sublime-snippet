@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enableHandleCollideCallback(${1:bool})]]></content>
+	<tabTrigger>PhysicsBody_enableHandleCollideCallback</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsBody::enableHandleCollideCallback(bool enable)</description>
+</snippet>

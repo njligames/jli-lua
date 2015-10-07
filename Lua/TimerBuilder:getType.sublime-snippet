@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>TimerBuilder_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 TimerBuilder::getType()</description>
+</snippet>

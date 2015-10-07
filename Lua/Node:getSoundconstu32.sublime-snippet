@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSound(${1:const u32})]]></content>
+	<tabTrigger>Node_getSound</tabTrigger>
+	<scope>source.lua</scope>
+	<description>Sound * Node::getSound(const u32 index)</description>
+</snippet>

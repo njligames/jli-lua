@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[boxGradient(${1:f32},${2:f32},${3:f32},${4:f32},${5:f32},${6:f32},${7:const btVector4 &},${8:const btVector4 &})]]></content>
+	<tabTrigger>WorldHUD_boxGradient</tabTrigger>
+	<scope>source.lua</scope>
+	<description> WorldHUD::boxGradient(f32 x,f32 y,f32 width,f32 height,f32 radius,f32 feather,const btVector4 & startColor,const btVector4 & endColor)</description>
+</snippet>

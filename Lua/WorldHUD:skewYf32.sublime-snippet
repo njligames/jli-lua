@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[skewY(${1:f32})]]></content>
+	<tabTrigger>WorldHUD_skewY</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::skewY(f32 angle)</description>
+</snippet>

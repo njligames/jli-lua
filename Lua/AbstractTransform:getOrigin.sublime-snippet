@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getOrigin()]]></content>
+	<tabTrigger>AbstractTransform_getOrigin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btVector3 & AbstractTransform::getOrigin()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShape.create(${1:u32})]]></content>
+	<tabTrigger>PhysicsShape__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShape::create(u32 type)</description>
+</snippet>

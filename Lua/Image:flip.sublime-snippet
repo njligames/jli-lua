@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[flip()]]></content>
+	<tabTrigger>Image_flip</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Image::flip()</description>
+</snippet>

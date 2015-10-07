@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.WorldState.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>WorldState__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void WorldState::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

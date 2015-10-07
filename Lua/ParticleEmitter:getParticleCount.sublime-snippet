@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getParticleCount()]]></content>
+	<tabTrigger>ParticleEmitter_getParticleCount</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const s32 & ParticleEmitter::getParticleCount()</description>
+</snippet>

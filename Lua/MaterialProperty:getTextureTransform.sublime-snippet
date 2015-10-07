@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTextureTransform()]]></content>
+	<tabTrigger>MaterialProperty_getTextureTransform</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const btTransform & MaterialProperty::getTextureTransform()</description>
+</snippet>

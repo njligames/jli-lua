@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[loadString(${1:const char *})]]></content>
+	<tabTrigger>WorldLuaVirtualMachine_loadString</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldLuaVirtualMachine::loadString(const char * code)</description>
+</snippet>

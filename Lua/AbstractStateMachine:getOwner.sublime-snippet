@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getOwner()]]></content>
+	<tabTrigger>AbstractStateMachine_getOwner</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * AbstractStateMachine::getOwner()</description>
+</snippet>

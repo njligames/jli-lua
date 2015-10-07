@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getJointAppliedForceA()]]></content>
+	<tabTrigger>PhysicsConstraint_getJointAppliedForceA</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btVector3 PhysicsConstraint::getJointAppliedForceA()</description>
+</snippet>

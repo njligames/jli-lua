@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getBackground()]]></content>
+	<tabTrigger>Scene_getBackground</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * Scene::getBackground()</description>
+</snippet>

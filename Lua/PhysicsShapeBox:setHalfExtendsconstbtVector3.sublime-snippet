@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setHalfExtends(${1:const btVector3 &})]]></content>
+	<tabTrigger>PhysicsShapeBox_setHalfExtends</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeBox::setHalfExtends(const btVector3 & extends)</description>
+</snippet>

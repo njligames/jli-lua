@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setScale(${1:const btVector3 &})]]></content>
+	<tabTrigger>Node_setScale</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::setScale(const btVector3 & scale)</description>
+</snippet>

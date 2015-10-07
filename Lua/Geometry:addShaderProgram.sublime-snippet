@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addShaderProgram(${1: *})]]></content>
+	<tabTrigger>Geometry_addShaderProgram</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Geometry::addShaderProgram( * shader)</description>
+</snippet>

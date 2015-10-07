@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.ShaderProgramBuilder.destroyArray(${1: **})]]></content>
+	<tabTrigger>ShaderProgramBuilder__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void ShaderProgramBuilder::destroyArray( ** array)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsBody()]]></content>
+	<tabTrigger>PhysicsBody_PhysicsBody</tabTrigger>
+	<scope>source.lua</scope>
+	<description> PhysicsBody::PhysicsBody()</description>
+</snippet>

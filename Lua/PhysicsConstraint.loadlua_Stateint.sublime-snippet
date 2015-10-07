@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraint.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>PhysicsConstraint__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsConstraint::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

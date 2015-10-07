@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAction(${1:const char *})]]></content>
+	<tabTrigger>AbstractActionable_getAction</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * AbstractActionable::getAction(const char * key)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>Geometry_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Geometry::serialize()</description>
+</snippet>

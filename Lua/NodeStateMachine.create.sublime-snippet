@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.NodeStateMachine.create()]]></content>
+	<tabTrigger>NodeStateMachine__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * NodeStateMachine::create()</description>
+</snippet>

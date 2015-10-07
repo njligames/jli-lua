@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[project(${1:const btTransform &},${2:const btVector3 &},${3:btScalar &},${4:btScalar &},${5:btVector3 &},${6:btVector3 &})]]></content>
+	<tabTrigger>PhysicsShapeConvexHull_project</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeConvexHull::project(const btTransform & trans,const btVector3 & dir,btScalar & minProj,btScalar & maxProj,btVector3 & witnesPtMin,btVector3 & witnesPtMax)</description>
+</snippet>

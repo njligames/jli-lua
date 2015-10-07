@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setNodes(${1: *},${2: *})]]></content>
+	<tabTrigger>PhysicsConstraintPointToPoint_setNodes</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintPointToPoint::setNodes( * nodeA, * nodeB)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setMagnificationFilter(${1:})]]></content>
+	<tabTrigger>MaterialProperty_setMagnificationFilter</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void MaterialProperty::setMagnificationFilter( val)</description>
+</snippet>

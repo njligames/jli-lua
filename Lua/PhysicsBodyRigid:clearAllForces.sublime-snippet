@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clearAllForces()]]></content>
+	<tabTrigger>PhysicsBodyRigid_clearAllForces</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsBodyRigid::clearAllForces()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[destroyAll()]]></content>
+	<tabTrigger>WorldFactory_destroyAll</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldFactory::destroyAll()</description>
+</snippet>

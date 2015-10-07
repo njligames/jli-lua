@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Sprite2DBuilder.create()]]></content>
+	<tabTrigger>Sprite2DBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * Sprite2DBuilder::create()</description>
+</snippet>

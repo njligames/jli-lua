@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Font.copy(${1:const  &})]]></content>
+	<tabTrigger>Font__copy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * Font::copy(const  & object)</description>
+</snippet>

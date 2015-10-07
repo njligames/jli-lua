@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bind()]]></content>
+	<tabTrigger>Plane_bind</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Plane::bind()</description>
+</snippet>

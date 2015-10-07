@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addFrame(${1:})]]></content>
+	<tabTrigger>SpriteFrameAtlas_addFrame</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void SpriteFrameAtlas::addFrame( rect)</description>
+</snippet>

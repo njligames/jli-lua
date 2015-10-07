@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTargetLinMotorVelocity()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_getTargetLinMotorVelocity</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintSlider::getTargetLinMotorVelocity()</description>
+</snippet>

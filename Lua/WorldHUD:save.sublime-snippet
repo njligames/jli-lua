@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[save()]]></content>
+	<tabTrigger>WorldHUD_save</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::save()</description>
+</snippet>

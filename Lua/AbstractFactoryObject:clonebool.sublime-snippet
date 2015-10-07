@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clone(${1:bool})]]></content>
+	<tabTrigger>AbstractFactoryObject_clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * AbstractFactoryObject::clone(bool shared)</description>
+</snippet>

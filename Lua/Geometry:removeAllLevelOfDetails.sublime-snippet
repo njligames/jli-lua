@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeAllLevelOfDetails()]]></content>
+	<tabTrigger>Geometry_removeAllLevelOfDetails</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Geometry::removeAllLevelOfDetails()</description>
+</snippet>

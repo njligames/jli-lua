@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeAction(${1:const char *})]]></content>
+	<tabTrigger>Node_removeAction</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Node::removeAction(const char * key)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addSound(${1:Sound *})]]></content>
+	<tabTrigger>Node_addSound</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 Node::addSound(Sound * sound)</description>
+</snippet>

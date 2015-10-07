@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hasChildNode(${1: *})]]></content>
+	<tabTrigger>Node_hasChildNode</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Node::hasChildNode( * object)</description>
+</snippet>

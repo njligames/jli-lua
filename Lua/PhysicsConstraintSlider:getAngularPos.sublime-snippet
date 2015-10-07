@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAngularPos()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_getAngularPos</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintSlider::getAngularPos()</description>
+</snippet>

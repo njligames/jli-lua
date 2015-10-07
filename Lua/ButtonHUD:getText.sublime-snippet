@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getText()]]></content>
+	<tabTrigger>ButtonHUD_getText</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const char * ButtonHUD::getText()</description>
+</snippet>

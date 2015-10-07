@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getFov()]]></content>
+	<tabTrigger>Camera_getFov</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 Camera::getFov()</description>
+</snippet>

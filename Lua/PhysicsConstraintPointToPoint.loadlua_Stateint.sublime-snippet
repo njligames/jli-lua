@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintPointToPoint.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>PhysicsConstraintPointToPoint__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsConstraintPointToPoint::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

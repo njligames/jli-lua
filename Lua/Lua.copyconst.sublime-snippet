@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Lua.copy(${1:const  &})]]></content>
+	<tabTrigger>Lua__copy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * Lua::copy(const  & object)</description>
+</snippet>

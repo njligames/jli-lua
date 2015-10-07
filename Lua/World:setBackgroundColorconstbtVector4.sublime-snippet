@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setBackgroundColor(${1:const btVector4 &})]]></content>
+	<tabTrigger>World_setBackgroundColor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void World::setBackgroundColor(const btVector4 & color)</description>
+</snippet>

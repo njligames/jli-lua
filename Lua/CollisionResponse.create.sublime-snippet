@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.CollisionResponse.create()]]></content>
+	<tabTrigger>CollisionResponse__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * CollisionResponse::create()</description>
+</snippet>

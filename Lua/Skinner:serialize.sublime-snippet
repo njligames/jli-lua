@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>Skinner_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Skinner::serialize()</description>
+</snippet>

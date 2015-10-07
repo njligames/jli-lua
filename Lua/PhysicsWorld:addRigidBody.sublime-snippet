@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addRigidBody(${1: *})]]></content>
+	<tabTrigger>PhysicsWorld_addRigidBody</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool PhysicsWorld::addRigidBody( * body)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setNodes(${1: *},${2: *},${3:const btTransform &},${4:const btTransform &})]]></content>
+	<tabTrigger>PhysicsConstraintConeTwist_setNodes</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintConeTwist::setNodes( * nodeA, * nodeB,const btTransform & rbAFrame,const btTransform & rbBFrame)</description>
+</snippet>

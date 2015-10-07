@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.TextboxHUDBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>TextboxHUDBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void TextboxHUDBuilder::destroy( * object)</description>
+</snippet>

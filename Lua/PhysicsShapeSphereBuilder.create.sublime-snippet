@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeSphereBuilder.create()]]></content>
+	<tabTrigger>PhysicsShapeSphereBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShapeSphereBuilder::create()</description>
+</snippet>

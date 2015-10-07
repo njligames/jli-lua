@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SkinnerBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>SkinnerBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void SkinnerBuilder::destroy( * object)</description>
+</snippet>

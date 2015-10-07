@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getHitPointWorld()]]></content>
+	<tabTrigger>PhysicsRayContact_getHitPointWorld</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const btVector3 & PhysicsRayContact::getHitPointWorld()</description>
+</snippet>

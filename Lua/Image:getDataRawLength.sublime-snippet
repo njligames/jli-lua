@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getDataRawLength()]]></content>
+	<tabTrigger>Image_getDataRawLength</tabTrigger>
+	<scope>source.lua</scope>
+	<description>u64 Image::getDataRawLength()</description>
+</snippet>

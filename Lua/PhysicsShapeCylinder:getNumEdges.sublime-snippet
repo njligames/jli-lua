@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNumEdges()]]></content>
+	<tabTrigger>PhysicsShapeCylinder_getNumEdges</tabTrigger>
+	<scope>source.lua</scope>
+	<description>int PhysicsShapeCylinder::getNumEdges()</description>
+</snippet>

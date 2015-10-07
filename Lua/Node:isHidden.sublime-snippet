@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isHidden(${1: *})]]></content>
+	<tabTrigger>Node_isHidden</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Node::isHidden( * camera)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Sprite2DBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>Sprite2DBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void Sprite2DBuilder::destroy( * object)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.WorldSQLite.createBuffer()]]></content>
+	<tabTrigger>WorldSQLite__createBuffer</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void WorldSQLite::createBuffer()</description>
+</snippet>

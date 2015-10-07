@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.FontBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>FontBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void FontBuilder::destroy( * object)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeBox2D.destroy(${1: *})]]></content>
+	<tabTrigger>PhysicsShapeBox2D__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsShapeBox2D::destroy( * object)</description>
+</snippet>

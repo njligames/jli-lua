@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setDeviceName(${1:const char *})]]></content>
+	<tabTrigger>World_setDeviceName</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void World::setDeviceName(const char * name)</description>
+</snippet>

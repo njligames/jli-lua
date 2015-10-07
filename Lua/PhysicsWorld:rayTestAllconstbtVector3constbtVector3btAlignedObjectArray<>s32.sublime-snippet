@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rayTestAll(${1:const btVector3 &},${2:const btVector3 &},${3:btAlignedObjectArray<  * > &},${4:s32 &},${5:},${6:})]]></content>
+	<tabTrigger>PhysicsWorld_rayTestAll</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool PhysicsWorld::rayTestAll(const btVector3 & rayFromWorld,const btVector3 & rayToWorld,btAlignedObjectArray<  * > & rayContacts,s32 & numContacts, collisionGroup, collisionMask)</description>
+</snippet>

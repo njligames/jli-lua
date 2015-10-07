@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Font.create()]]></content>
+	<tabTrigger>Font__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * Font::create()</description>
+</snippet>

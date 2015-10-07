@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getRotationStart()]]></content>
+	<tabTrigger>ParticleEmitter_getRotationStart</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const f32 & ParticleEmitter::getRotationStart()</description>
+</snippet>

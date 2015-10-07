@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsField.type()]]></content>
+	<tabTrigger>PhysicsField__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PhysicsField::type()</description>
+</snippet>

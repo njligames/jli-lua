@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintSliderBuilder.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>PhysicsConstraintSliderBuilder__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsConstraintSliderBuilder::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

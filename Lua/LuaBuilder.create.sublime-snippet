@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.LuaBuilder.create()]]></content>
+	<tabTrigger>LuaBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * LuaBuilder::create()</description>
+</snippet>

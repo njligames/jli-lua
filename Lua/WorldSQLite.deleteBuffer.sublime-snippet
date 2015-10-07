@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.WorldSQLite.deleteBuffer()]]></content>
+	<tabTrigger>WorldSQLite__deleteBuffer</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void WorldSQLite::deleteBuffer()</description>
+</snippet>

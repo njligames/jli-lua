@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintSliderBuilder.type()]]></content>
+	<tabTrigger>PhysicsConstraintSliderBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PhysicsConstraintSliderBuilder::type()</description>
+</snippet>

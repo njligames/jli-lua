@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPreviousState()]]></content>
+	<tabTrigger>AbstractStateMachine_getPreviousState</tabTrigger>
+	<scope>source.lua</scope>
+	<description>< OWNER_TYPE > *const AbstractStateMachine::getPreviousState()</description>
+</snippet>

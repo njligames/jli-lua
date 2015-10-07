@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getJointAppliedTorqueB()]]></content>
+	<tabTrigger>PhysicsConstraint_getJointAppliedTorqueB</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btVector3 PhysicsConstraint::getJointAppliedTorqueB()</description>
+</snippet>

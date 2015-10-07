@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsWorldBuilder.type()]]></content>
+	<tabTrigger>PhysicsWorldBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PhysicsWorldBuilder::type()</description>
+</snippet>

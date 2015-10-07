@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.ShaderProgramBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>ShaderProgramBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void ShaderProgramBuilder::destroy( * object)</description>
+</snippet>

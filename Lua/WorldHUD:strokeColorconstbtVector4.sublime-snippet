@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[strokeColor(${1:const btVector4 &})]]></content>
+	<tabTrigger>WorldHUD_strokeColor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::strokeColor(const btVector4 & color)</description>
+</snippet>

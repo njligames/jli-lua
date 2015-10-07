@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeHeightfieldTerrain.createArray(${1:const u32})]]></content>
+	<tabTrigger>PhysicsShapeHeightfieldTerrain__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** PhysicsShapeHeightfieldTerrain::createArray(const u32 size)</description>
+</snippet>

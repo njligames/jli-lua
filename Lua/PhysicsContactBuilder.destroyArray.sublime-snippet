@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsContactBuilder.destroyArray(${1: **})]]></content>
+	<tabTrigger>PhysicsContactBuilder__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsContactBuilder::destroyArray( ** array)</description>
+</snippet>

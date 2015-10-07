@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[disconnectJLI()]]></content>
+	<tabTrigger>WorldSocket_disconnectJLI</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldSocket::disconnectJLI()</description>
+</snippet>

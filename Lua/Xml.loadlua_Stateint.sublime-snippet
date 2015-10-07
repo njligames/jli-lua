@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Xml.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>Xml__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void Xml::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

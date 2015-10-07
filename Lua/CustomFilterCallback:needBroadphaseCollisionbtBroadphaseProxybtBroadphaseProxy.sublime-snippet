@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[needBroadphaseCollision(${1:btBroadphaseProxy *},${2:btBroadphaseProxy *})]]></content>
+	<tabTrigger>CustomFilterCallback_needBroadphaseCollision</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool CustomFilterCallback::needBroadphaseCollision(btBroadphaseProxy * proxy0,btBroadphaseProxy * proxy1)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isTextureCube()]]></content>
+	<tabTrigger>MaterialProperty_isTextureCube</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool MaterialProperty::isTextureCube()</description>
+</snippet>

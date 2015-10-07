@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removePhysicsShape()]]></content>
+	<tabTrigger>PhysicsBody_removePhysicsShape</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsBody::removePhysicsShape()</description>
+</snippet>

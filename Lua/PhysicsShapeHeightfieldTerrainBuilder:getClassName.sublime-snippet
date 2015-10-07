@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getClassName()]]></content>
+	<tabTrigger>PhysicsShapeHeightfieldTerrainBuilder_getClassName</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const char * PhysicsShapeHeightfieldTerrainBuilder::getClassName()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeCylinder.type()]]></content>
+	<tabTrigger>PhysicsShapeCylinder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PhysicsShapeCylinder::type()</description>
+</snippet>

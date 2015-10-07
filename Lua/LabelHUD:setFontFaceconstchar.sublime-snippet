@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setFontFace(${1:const char *})]]></content>
+	<tabTrigger>LabelHUD_setFontFace</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void LabelHUD::setFontFace(const char * fontFace)</description>
+</snippet>

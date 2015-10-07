@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getObjectType()]]></content>
+	<tabTrigger>XmlBuilder_getObjectType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>u32 XmlBuilder::getObjectType()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[size()]]></content>
+	<tabTrigger>WorldFactory_size</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 WorldFactory::size()</description>
+</snippet>

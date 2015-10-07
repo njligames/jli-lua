@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPosition()]]></content>
+	<tabTrigger>ButtonHUD_getPosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const  & ButtonHUD::getPosition()</description>
+</snippet>

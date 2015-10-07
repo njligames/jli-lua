@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsBodyRigid.create()]]></content>
+	<tabTrigger>PhysicsBodyRigid__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsBodyRigid::create()</description>
+</snippet>

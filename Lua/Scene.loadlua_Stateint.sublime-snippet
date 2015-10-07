@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Scene.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>Scene__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void Scene::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsCloseContact.create()]]></content>
+	<tabTrigger>PhysicsCloseContact__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsCloseContact::create()</description>
+</snippet>

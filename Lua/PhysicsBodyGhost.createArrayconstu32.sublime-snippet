@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsBodyGhost.createArray(${1:const u32})]]></content>
+	<tabTrigger>PhysicsBodyGhost__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** PhysicsBodyGhost::createArray(const u32 size)</description>
+</snippet>

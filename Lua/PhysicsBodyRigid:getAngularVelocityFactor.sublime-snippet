@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAngularVelocityFactor()]]></content>
+	<tabTrigger>PhysicsBodyRigid_getAngularVelocityFactor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const btVector3 & PhysicsBodyRigid::getAngularVelocityFactor()</description>
+</snippet>

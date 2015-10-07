@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>PhysicsContact_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsContact::serialize()</description>
+</snippet>

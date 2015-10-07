@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setPosition(${1:const  &})]]></content>
+	<tabTrigger>LabelHUD_setPosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void LabelHUD::setPosition(const  & pos)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.WorldState.destroyArray(${1: **})]]></content>
+	<tabTrigger>WorldState__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void WorldState::destroyArray( ** array)</description>
+</snippet>

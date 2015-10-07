@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setTouchCamera(${1: *})]]></content>
+	<tabTrigger>World_setTouchCamera</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void World::setTouchCamera( * camera)</description>
+</snippet>

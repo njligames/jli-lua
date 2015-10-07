@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resize(${1:s32},${2:s32},${3:s32})]]></content>
+	<tabTrigger>World_resize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void World::resize(s32 width,s32 height,s32 orientation)</description>
+</snippet>

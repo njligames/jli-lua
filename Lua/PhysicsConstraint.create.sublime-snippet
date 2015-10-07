@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraint.create()]]></content>
+	<tabTrigger>PhysicsConstraint__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsConstraint::create()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getWrapT()]]></content>
+	<tabTrigger>MaterialProperty_getWrapT</tabTrigger>
+	<scope>source.lua</scope>
+	<description> MaterialProperty::getWrapT()</description>
+</snippet>

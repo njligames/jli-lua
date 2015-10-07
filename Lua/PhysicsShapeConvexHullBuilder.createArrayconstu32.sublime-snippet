@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeConvexHullBuilder.createArray(${1:const u32})]]></content>
+	<tabTrigger>PhysicsShapeConvexHullBuilder__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** PhysicsShapeConvexHullBuilder::createArray(const u32 size)</description>
+</snippet>

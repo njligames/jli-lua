@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNumPlanes()]]></content>
+	<tabTrigger>PhysicsShapeHeightfieldTerrain_getNumPlanes</tabTrigger>
+	<scope>source.lua</scope>
+	<description>int PhysicsShapeHeightfieldTerrain::getNumPlanes()</description>
+</snippet>

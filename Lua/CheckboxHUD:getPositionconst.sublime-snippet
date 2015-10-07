@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPosition(${1:const  &})]]></content>
+	<tabTrigger>CheckboxHUD_getPosition</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const  & CheckboxHUD::getPosition(const  & pos)</description>
+</snippet>

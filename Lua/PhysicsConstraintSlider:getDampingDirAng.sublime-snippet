@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getDampingDirAng()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_getDampingDirAng</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintSlider::getDampingDirAng()</description>
+</snippet>

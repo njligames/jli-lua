@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.World.hasInstance()]]></content>
+	<tabTrigger>World__hasInstance</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static bool World::hasInstance()</description>
+</snippet>

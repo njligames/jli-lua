@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintHinge.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>PhysicsConstraintHinge__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsConstraintHinge::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

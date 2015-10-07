@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Json.type()]]></content>
+	<tabTrigger>Json__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 Json::type()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BT_DECLARE_ALIGNED_ALLOCATOR()]]></content>
+	<tabTrigger>tVector2_BT_DECLARE_ALIGNED_ALLOCATOR</tabTrigger>
+	<scope>source.lua</scope>
+	<description> tVector2::BT_DECLARE_ALIGNED_ALLOCATOR()</description>
+</snippet>

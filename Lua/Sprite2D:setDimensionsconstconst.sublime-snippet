@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setDimensions(${1: *},${2:const  &},${3:const  &})]]></content>
+	<tabTrigger>Sprite2D_setDimensions</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Sprite2D::setDimensions( * node,const  & dimensions,const  & spritePivotPoint)</description>
+</snippet>

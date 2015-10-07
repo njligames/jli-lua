@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.TimerBuilder.clone(${1:const  &})]]></content>
+	<tabTrigger>TimerBuilder__clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * TimerBuilder::clone(const  & object)</description>
+</snippet>

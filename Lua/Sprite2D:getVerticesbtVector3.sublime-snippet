@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getVertices(${1: *},${2:btVector3 **},${3: *})]]></content>
+	<tabTrigger>Sprite2D_getVertices</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Sprite2D::getVertices( * geometry,btVector3 ** vertices, * node)</description>
+</snippet>

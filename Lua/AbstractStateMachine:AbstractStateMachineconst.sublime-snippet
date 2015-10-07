@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AbstractStateMachine(${1:const  &})]]></content>
+	<tabTrigger>AbstractStateMachine_AbstractStateMachine</tabTrigger>
+	<scope>source.lua</scope>
+	<description> AbstractStateMachine::AbstractStateMachine(const  & builder)</description>
+</snippet>

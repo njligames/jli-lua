@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getObjectType()]]></content>
+	<tabTrigger>WorldStateMachineBuilder_getObjectType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>u32 WorldStateMachineBuilder::getObjectType()</description>
+</snippet>

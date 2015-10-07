@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addPoint(${1:const btVector3 &},${2:bool})]]></content>
+	<tabTrigger>PhysicsShapeConvexHull_addPoint</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeConvexHull::addPoint(const btVector3 & point,bool recalculateLocalAabb)</description>
+</snippet>

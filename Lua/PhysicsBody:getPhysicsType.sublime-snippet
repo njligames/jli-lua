@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPhysicsType()]]></content>
+	<tabTrigger>PhysicsBody_getPhysicsType</tabTrigger>
+	<scope>source.lua</scope>
+	<description> PhysicsBody::getPhysicsType()</description>
+</snippet>

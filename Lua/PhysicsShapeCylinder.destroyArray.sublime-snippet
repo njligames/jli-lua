@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeCylinder.destroyArray(${1: **})]]></content>
+	<tabTrigger>PhysicsShapeCylinder__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsShapeCylinder::destroyArray( ** array)</description>
+</snippet>

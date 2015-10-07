@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setPivotPoint(${1:const  &})]]></content>
+	<tabTrigger>Rect_setPivotPoint</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Rect::setPivotPoint(const  & pivotPoint)</description>
+</snippet>

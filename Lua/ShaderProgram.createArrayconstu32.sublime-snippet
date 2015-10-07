@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.ShaderProgram.createArray(${1:const u32})]]></content>
+	<tabTrigger>ShaderProgram__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** ShaderProgram::createArray(const u32 size)</description>
+</snippet>

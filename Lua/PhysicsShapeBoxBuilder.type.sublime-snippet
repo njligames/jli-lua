@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeBoxBuilder.type()]]></content>
+	<tabTrigger>PhysicsShapeBoxBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PhysicsShapeBoxBuilder::type()</description>
+</snippet>

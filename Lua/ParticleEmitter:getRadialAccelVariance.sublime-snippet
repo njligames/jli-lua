@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getRadialAccelVariance()]]></content>
+	<tabTrigger>ParticleEmitter_getRadialAccelVariance</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const f32 & ParticleEmitter::getRadialAccelVariance()</description>
+</snippet>

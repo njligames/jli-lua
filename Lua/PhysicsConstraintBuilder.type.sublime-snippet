@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintBuilder.type()]]></content>
+	<tabTrigger>PhysicsConstraintBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PhysicsConstraintBuilder::type()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>PhysicsShapeCylinderBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeCylinderBuilder::serialize()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[loadGPU()]]></content>
+	<tabTrigger>Geometry_loadGPU</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Geometry::loadGPU()</description>
+</snippet>

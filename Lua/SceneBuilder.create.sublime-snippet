@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SceneBuilder.create()]]></content>
+	<tabTrigger>SceneBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * SceneBuilder::create()</description>
+</snippet>

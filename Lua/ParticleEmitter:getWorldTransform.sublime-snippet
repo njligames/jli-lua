@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getWorldTransform()]]></content>
+	<tabTrigger>ParticleEmitter_getWorldTransform</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btTransform ParticleEmitter::getWorldTransform()</description>
+</snippet>

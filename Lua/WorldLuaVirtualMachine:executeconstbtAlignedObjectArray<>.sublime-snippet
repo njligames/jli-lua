@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[execute(${1:const btAlignedObjectArray<  * > &})]]></content>
+	<tabTrigger>WorldLuaVirtualMachine_execute</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool WorldLuaVirtualMachine::execute(const btAlignedObjectArray<  * > & rayContacts)</description>
+</snippet>

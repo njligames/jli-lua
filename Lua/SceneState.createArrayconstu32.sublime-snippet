@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SceneState.createArray(${1:const u32})]]></content>
+	<tabTrigger>SceneState__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** SceneState::createArray(const u32 size)</description>
+</snippet>

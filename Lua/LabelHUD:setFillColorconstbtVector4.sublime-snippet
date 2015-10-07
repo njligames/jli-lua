@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setFillColor(${1:const btVector4 &})]]></content>
+	<tabTrigger>LabelHUD_setFillColor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void LabelHUD::setFillColor(const btVector4 & color)</description>
+</snippet>

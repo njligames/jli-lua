@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Sprite2D.type()]]></content>
+	<tabTrigger>Sprite2D__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 Sprite2D::type()</description>
+</snippet>

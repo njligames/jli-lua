@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>Lua_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 Lua::getType()</description>
+</snippet>

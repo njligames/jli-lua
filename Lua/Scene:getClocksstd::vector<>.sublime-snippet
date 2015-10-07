@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getClocks(${1:std::vector<  * > &})]]></content>
+	<tabTrigger>Scene_getClocks</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Scene::getClocks(std::vector<  * > & clocks)</description>
+</snippet>

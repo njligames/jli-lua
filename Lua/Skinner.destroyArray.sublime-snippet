@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Skinner.destroyArray(${1: **})]]></content>
+	<tabTrigger>Skinner__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void Skinner::destroyArray( ** array)</description>
+</snippet>

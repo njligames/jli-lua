@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[receivedData()]]></content>
+	<tabTrigger>WorldSocket_receivedData</tabTrigger>
+	<scope>source.lua</scope>
+	<description>std::string WorldSocket::receivedData()</description>
+</snippet>

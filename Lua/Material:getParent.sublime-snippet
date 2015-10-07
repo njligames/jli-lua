@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getParent()]]></content>
+	<tabTrigger>Material_getParent</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * Material::getParent()</description>
+</snippet>

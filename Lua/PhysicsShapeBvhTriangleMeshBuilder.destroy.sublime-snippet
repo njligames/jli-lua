@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeBvhTriangleMeshBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>PhysicsShapeBvhTriangleMeshBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsShapeBvhTriangleMeshBuilder::destroy( * object)</description>
+</snippet>

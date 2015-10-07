@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getObjectType()]]></content>
+	<tabTrigger>AbstractBuilder_getObjectType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>u32 AbstractBuilder::getObjectType()</description>
+</snippet>

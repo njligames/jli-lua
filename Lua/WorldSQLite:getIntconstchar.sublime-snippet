@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getInt(${1:const char *})]]></content>
+	<tabTrigger>WorldSQLite_getInt</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 WorldSQLite::getInt(const char * key)</description>
+</snippet>

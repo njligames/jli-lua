@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[vertexShaderLog()]]></content>
+	<tabTrigger>ShaderProgram_vertexShaderLog</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const char * ShaderProgram::vertexShaderLog()</description>
+</snippet>

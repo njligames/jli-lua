@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>SoundBuilder_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 SoundBuilder::getType()</description>
+</snippet>

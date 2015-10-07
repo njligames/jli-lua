@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setNodes(${1: *},${2: *},${3:const btTransform &},${4:const btTransform &},${5:bool})]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6Dof_setNodes</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintGeneric6Dof::setNodes( * nodeA, * nodeB,const btTransform & frameInA,const btTransform & frameInB,bool useLinearReferenceFrameA)</description>
+</snippet>

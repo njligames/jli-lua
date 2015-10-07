@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSwingSpan2()]]></content>
+	<tabTrigger>PhysicsConstraintConeTwist_getSwingSpan2</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintConeTwist::getSwingSpan2()</description>
+</snippet>

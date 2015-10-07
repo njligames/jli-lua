@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintSlider.createArray(${1:const u32})]]></content>
+	<tabTrigger>PhysicsConstraintSlider__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** PhysicsConstraintSlider::createArray(const u32 size)</description>
+</snippet>

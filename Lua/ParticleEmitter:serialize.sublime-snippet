@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>ParticleEmitter_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void ParticleEmitter::serialize()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsBodySoft.destroy(${1: *})]]></content>
+	<tabTrigger>PhysicsBodySoft__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsBodySoft::destroy( * object)</description>
+</snippet>

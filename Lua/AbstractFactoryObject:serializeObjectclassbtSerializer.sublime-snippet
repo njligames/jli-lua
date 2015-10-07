@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serializeObject(${1:class btSerializer *})]]></content>
+	<tabTrigger>AbstractFactoryObject_serializeObject</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void AbstractFactoryObject::serializeObject(class btSerializer * serializer)</description>
+</snippet>

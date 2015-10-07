@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Scene.type()]]></content>
+	<tabTrigger>Scene__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 Scene::type()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getRestitutionLimAng()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_getRestitutionLimAng</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintSlider::getRestitutionLimAng()</description>
+</snippet>

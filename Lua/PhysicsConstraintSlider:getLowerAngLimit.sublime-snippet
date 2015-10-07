@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getLowerAngLimit()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_getLowerAngLimit</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintSlider::getLowerAngLimit()</description>
+</snippet>

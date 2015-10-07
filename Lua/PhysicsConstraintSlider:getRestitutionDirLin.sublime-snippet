@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getRestitutionDirLin()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_getRestitutionDirLin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintSlider::getRestitutionDirLin()</description>
+</snippet>

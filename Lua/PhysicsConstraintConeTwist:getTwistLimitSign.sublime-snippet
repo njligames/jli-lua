@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTwistLimitSign()]]></content>
+	<tabTrigger>PhysicsConstraintConeTwist_getTwistLimitSign</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintConeTwist::getTwistLimitSign()</description>
+</snippet>

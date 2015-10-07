@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[~AbstractObject()]]></content>
+	<tabTrigger>AbstractObject_~AbstractObject</tabTrigger>
+	<scope>source.lua</scope>
+	<description> AbstractObject::~AbstractObject()</description>
+</snippet>

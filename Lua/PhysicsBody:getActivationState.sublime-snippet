@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getActivationState()]]></content>
+	<tabTrigger>PhysicsBody_getActivationState</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 PhysicsBody::getActivationState()</description>
+</snippet>

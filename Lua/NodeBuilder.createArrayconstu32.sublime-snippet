@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.NodeBuilder.createArray(${1:const u32})]]></content>
+	<tabTrigger>NodeBuilder__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** NodeBuilder::createArray(const u32 size)</description>
+</snippet>

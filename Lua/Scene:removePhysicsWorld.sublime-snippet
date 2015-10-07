@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removePhysicsWorld()]]></content>
+	<tabTrigger>Scene_removePhysicsWorld</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Scene::removePhysicsWorld()</description>
+</snippet>

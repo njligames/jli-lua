@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>PhysicsShapeBox2DBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeBox2DBuilder::serialize()</description>
+</snippet>

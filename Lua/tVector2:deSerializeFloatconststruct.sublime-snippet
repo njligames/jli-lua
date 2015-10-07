@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[deSerializeFloat(${1:const struct  &})]]></content>
+	<tabTrigger>tVector2_deSerializeFloat</tabTrigger>
+	<scope>source.lua</scope>
+	<description>SIMD_FORCE_INLINE void tVector2::deSerializeFloat(const struct  & dataIn)</description>
+</snippet>

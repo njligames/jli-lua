@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[touchMove(${1:DeviceTouch **})]]></content>
+	<tabTrigger>WorldState_touchMove</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldState::touchMove(DeviceTouch ** m_CurrentTouches)</description>
+</snippet>

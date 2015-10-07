@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getBool(${1:const char *})]]></content>
+	<tabTrigger>WorldSQLite_getBool</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool WorldSQLite::getBool(const char * key)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SliderHUDBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>SliderHUDBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void SliderHUDBuilder::destroy( * object)</description>
+</snippet>

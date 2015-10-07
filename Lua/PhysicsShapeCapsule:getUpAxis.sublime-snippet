@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getUpAxis()]]></content>
+	<tabTrigger>PhysicsShapeCapsule_getUpAxis</tabTrigger>
+	<scope>source.lua</scope>
+	<description>int PhysicsShapeCapsule::getUpAxis()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Skinner.createArray(${1:const u32})]]></content>
+	<tabTrigger>Skinner__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** Skinner::createArray(const u32 size)</description>
+</snippet>

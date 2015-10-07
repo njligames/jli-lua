@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.LuaBuilder.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>LuaBuilder__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void LuaBuilder::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

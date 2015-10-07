@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Timer.createArray(${1:const u32})]]></content>
+	<tabTrigger>Timer__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** Timer::createArray(const u32 size)</description>
+</snippet>

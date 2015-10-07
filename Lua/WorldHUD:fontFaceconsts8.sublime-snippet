@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fontFace(${1:const s8 *})]]></content>
+	<tabTrigger>WorldHUD_fontFace</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::fontFace(const s8 * font)</description>
+</snippet>

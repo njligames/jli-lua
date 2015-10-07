@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.ImageBuilder.createArray(${1:const u32})]]></content>
+	<tabTrigger>ImageBuilder__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** ImageBuilder::createArray(const u32 size)</description>
+</snippet>

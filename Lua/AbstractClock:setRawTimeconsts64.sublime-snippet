@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setRawTime(${1:const s64})]]></content>
+	<tabTrigger>AbstractClock_setRawTime</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void AbstractClock::setRawTime(const s64 milliseconds)</description>
+</snippet>

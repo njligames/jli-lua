@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setFontFaceIcon(${1:const char *})]]></content>
+	<tabTrigger>CheckboxHUD_setFontFaceIcon</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void CheckboxHUD::setFontFaceIcon(const char * fontFace)</description>
+</snippet>

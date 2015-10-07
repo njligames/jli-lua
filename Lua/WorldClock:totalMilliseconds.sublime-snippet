@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[totalMilliseconds()]]></content>
+	<tabTrigger>WorldClock_totalMilliseconds</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f64 WorldClock::totalMilliseconds()</description>
+</snippet>

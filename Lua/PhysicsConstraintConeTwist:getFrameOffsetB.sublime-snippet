@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getFrameOffsetB()]]></content>
+	<tabTrigger>PhysicsConstraintConeTwist_getFrameOffsetB</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const btTransform & PhysicsConstraintConeTwist::getFrameOffsetB()</description>
+</snippet>

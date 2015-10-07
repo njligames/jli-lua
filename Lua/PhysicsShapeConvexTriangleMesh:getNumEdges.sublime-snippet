@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNumEdges()]]></content>
+	<tabTrigger>PhysicsShapeConvexTriangleMesh_getNumEdges</tabTrigger>
+	<scope>source.lua</scope>
+	<description>int PhysicsShapeConvexTriangleMesh::getNumEdges()</description>
+</snippet>

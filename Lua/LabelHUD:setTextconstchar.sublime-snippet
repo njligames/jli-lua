@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setText(${1:const char *})]]></content>
+	<tabTrigger>LabelHUD_setText</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void LabelHUD::setText(const char * text)</description>
+</snippet>

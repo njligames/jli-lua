@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setOrientation(${1:const btQuaternion &})]]></content>
+	<tabTrigger>AbstractTransform_setOrientation</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void AbstractTransform::setOrientation(const btQuaternion & orientation)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.WorldHUD.transformScale(${1:btMatrix3x3 &},${2:const  &})]]></content>
+	<tabTrigger>WorldHUD__transformScale</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void WorldHUD::transformScale(btMatrix3x3 & floats,const  & scale)</description>
+</snippet>

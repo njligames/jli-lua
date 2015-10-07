@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setMotorTarget(${1:const btQuaternion &})]]></content>
+	<tabTrigger>PhysicsConstraintConeTwist_setMotorTarget</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintConeTwist::setMotorTarget(const btQuaternion & q)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNumPlanes()]]></content>
+	<tabTrigger>PhysicsShapeConvexHull_getNumPlanes</tabTrigger>
+	<scope>source.lua</scope>
+	<description>int PhysicsShapeConvexHull::getNumPlanes()</description>
+</snippet>

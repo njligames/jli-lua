@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isOrthographic()]]></content>
+	<tabTrigger>Camera_isOrthographic</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Camera::isOrthographic()</description>
+</snippet>

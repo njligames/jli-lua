@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getFloat(${1:const char *})]]></content>
+	<tabTrigger>WorldSQLite_getFloat</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 WorldSQLite::getFloat(const char * key)</description>
+</snippet>

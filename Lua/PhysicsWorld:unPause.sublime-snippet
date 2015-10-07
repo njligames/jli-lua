@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unPause()]]></content>
+	<tabTrigger>PhysicsWorld_unPause</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsWorld::unPause()</description>
+</snippet>

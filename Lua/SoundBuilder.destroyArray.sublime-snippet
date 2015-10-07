@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SoundBuilder.destroyArray(${1: **})]]></content>
+	<tabTrigger>SoundBuilder__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void SoundBuilder::destroyArray( ** array)</description>
+</snippet>

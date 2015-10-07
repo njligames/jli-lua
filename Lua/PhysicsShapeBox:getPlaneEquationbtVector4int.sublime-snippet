@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPlaneEquation(${1:btVector4 &},${2:int})]]></content>
+	<tabTrigger>PhysicsShapeBox_getPlaneEquation</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeBox::getPlaneEquation(btVector4 & plane,int i)</description>
+</snippet>

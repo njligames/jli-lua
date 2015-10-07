@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTwistAngle()]]></content>
+	<tabTrigger>PhysicsConstraintConeTwist_getTwistAngle</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintConeTwist::getTwistAngle()</description>
+</snippet>

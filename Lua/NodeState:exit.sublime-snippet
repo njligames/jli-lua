@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[exit()]]></content>
+	<tabTrigger>NodeState_exit</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void NodeState::exit()</description>
+</snippet>

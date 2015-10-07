@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unLoadGPU()]]></content>
+	<tabTrigger>Geometry_unLoadGPU</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Geometry::unLoadGPU()</description>
+</snippet>

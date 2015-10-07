@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.LevelOfDetailBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>LevelOfDetailBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void LevelOfDetailBuilder::destroy( * object)</description>
+</snippet>

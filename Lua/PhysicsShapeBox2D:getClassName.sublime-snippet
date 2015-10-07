@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getClassName()]]></content>
+	<tabTrigger>PhysicsShapeBox2D_getClassName</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const char * PhysicsShapeBox2D::getClassName()</description>
+</snippet>

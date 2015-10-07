@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeHeightfieldTerrainBuilder.destroyArray(${1: **})]]></content>
+	<tabTrigger>PhysicsShapeHeightfieldTerrainBuilder__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsShapeHeightfieldTerrainBuilder::destroyArray( ** array)</description>
+</snippet>

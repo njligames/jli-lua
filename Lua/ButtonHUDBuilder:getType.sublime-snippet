@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>ButtonHUDBuilder_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 ButtonHUDBuilder::getType()</description>
+</snippet>

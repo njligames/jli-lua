@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Font.type()]]></content>
+	<tabTrigger>Font__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 Font::type()</description>
+</snippet>

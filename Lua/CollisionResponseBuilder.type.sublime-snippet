@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.CollisionResponseBuilder.type()]]></content>
+	<tabTrigger>CollisionResponseBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 CollisionResponseBuilder::type()</description>
+</snippet>

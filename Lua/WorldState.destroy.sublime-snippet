@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.WorldState.destroy(${1: *})]]></content>
+	<tabTrigger>WorldState__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void WorldState::destroy( * object)</description>
+</snippet>

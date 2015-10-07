@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isLitPerPixel()]]></content>
+	<tabTrigger>Material_isLitPerPixel</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Material::isLitPerPixel()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PlaneBuilder.type()]]></content>
+	<tabTrigger>PlaneBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PlaneBuilder::type()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getColorBottomRight(${1: *})]]></content>
+	<tabTrigger>Sprite2D_getColorBottomRight</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btVector4 Sprite2D::getColorBottomRight( * node)</description>
+</snippet>

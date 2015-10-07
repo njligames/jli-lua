@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isBuilder()]]></content>
+	<tabTrigger>WorldFactory_isBuilder</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool WorldFactory::isBuilder()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.LightBuilder.createArray(${1:const u32})]]></content>
+	<tabTrigger>LightBuilder__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** LightBuilder::createArray(const u32 size)</description>
+</snippet>

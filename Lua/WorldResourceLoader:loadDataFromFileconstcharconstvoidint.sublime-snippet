@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[loadDataFromFile(${1:const char *},${2:const void **},${3:int *})]]></content>
+	<tabTrigger>WorldResourceLoader_loadDataFromFile</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool WorldResourceLoader::loadDataFromFile(const char * filePath,const void ** buff,int * length)</description>
+</snippet>

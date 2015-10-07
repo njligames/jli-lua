@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>ShaderProgramBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void ShaderProgramBuilder::serialize()</description>
+</snippet>

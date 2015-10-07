@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.LabelHUDBuilder.clone(${1:const  &})]]></content>
+	<tabTrigger>LabelHUDBuilder__clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * LabelHUDBuilder::clone(const  & object)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[numberOfVertices()]]></content>
+	<tabTrigger>Sprite2D_numberOfVertices</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 Sprite2D::numberOfVertices()</description>
+</snippet>

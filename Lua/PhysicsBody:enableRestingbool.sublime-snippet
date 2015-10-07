@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enableResting(${1:bool})]]></content>
+	<tabTrigger>PhysicsBody_enableResting</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsBody::enableResting(bool enable)</description>
+</snippet>

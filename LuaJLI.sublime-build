@@ -9,10 +9,10 @@
 		},
 		{	"name": "JLILua",
 			"shell": true,
-			"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli", "$project_path"],
+			"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajliProj", "$project_path"],
 			"osx":
 			{
-				"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli $project_path"]
+				"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajliProj $project_path"]
 			}
 		},
 		{   "name": "ldoc: File",

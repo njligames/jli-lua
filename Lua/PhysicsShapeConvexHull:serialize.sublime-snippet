@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>PhysicsShapeConvexHull_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeConvexHull::serialize()</description>
+</snippet>

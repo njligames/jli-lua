@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsWorldBuilder.clone(${1:const  &})]]></content>
+	<tabTrigger>PhysicsWorldBuilder__clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsWorldBuilder::clone(const  & object)</description>
+</snippet>

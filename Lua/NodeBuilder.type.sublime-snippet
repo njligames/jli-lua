@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.NodeBuilder.type()]]></content>
+	<tabTrigger>NodeBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 NodeBuilder::type()</description>
+</snippet>

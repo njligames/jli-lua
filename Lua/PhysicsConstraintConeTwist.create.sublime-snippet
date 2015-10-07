@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintConeTwist.create()]]></content>
+	<tabTrigger>PhysicsConstraintConeTwist__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsConstraintConeTwist::create()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setAxis(${1:const btVector3 &},${2:const btVector3 &})]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6DofSpring_setAxis</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintGeneric6DofSpring::setAxis(const btVector3 & axis1,const btVector3 & axis2)</description>
+</snippet>

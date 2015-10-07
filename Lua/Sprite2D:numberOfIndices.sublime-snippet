@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[numberOfIndices()]]></content>
+	<tabTrigger>Sprite2D_numberOfIndices</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 Sprite2D::numberOfIndices()</description>
+</snippet>

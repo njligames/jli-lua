@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[numberOfArrayObjects_Internal()]]></content>
+	<tabTrigger>WorldFactory_numberOfArrayObjects_Internal</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 WorldFactory::numberOfArrayObjects_Internal()</description>
+</snippet>

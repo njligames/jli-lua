@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[arc(${1:const  &},${2:f32},${3:f32},${4:f32},${5:})]]></content>
+	<tabTrigger>WorldHUD_arc</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::arc(const  & center,f32 radius,f32 fromAngle,f32 toAngle, dir)</description>
+</snippet>

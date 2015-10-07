@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PlaneBuilder.create()]]></content>
+	<tabTrigger>PlaneBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PlaneBuilder::create()</description>
+</snippet>

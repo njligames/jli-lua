@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSoundIndex(${1:Sound *})]]></content>
+	<tabTrigger>Node_getSoundIndex</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 Node::getSoundIndex(Sound * object)</description>
+</snippet>

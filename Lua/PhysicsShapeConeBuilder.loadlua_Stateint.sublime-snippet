@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeConeBuilder.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>PhysicsShapeConeBuilder__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsShapeConeBuilder::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

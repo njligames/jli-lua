@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[disableDebugDraw()]]></content>
+	<tabTrigger>World_disableDebugDraw</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void World::disableDebugDraw()</description>
+</snippet>

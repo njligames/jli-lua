@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.ActionBuilder.destroy(${1: *})]]></content>
+	<tabTrigger>ActionBuilder__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void ActionBuilder::destroy( * object)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[~AbstractBuilder()]]></content>
+	<tabTrigger>AbstractBuilder_~AbstractBuilder</tabTrigger>
+	<scope>source.lua</scope>
+	<description> AbstractBuilder::~AbstractBuilder()</description>
+</snippet>

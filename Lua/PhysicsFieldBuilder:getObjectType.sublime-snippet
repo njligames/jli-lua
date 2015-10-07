@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getObjectType()]]></content>
+	<tabTrigger>PhysicsFieldBuilder_getObjectType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>u32 PhysicsFieldBuilder::getObjectType()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setWorldTransform(${1:const btTransform &})]]></content>
+	<tabTrigger>PhysicsBodyRigid_setWorldTransform</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsBodyRigid::setWorldTransform(const btTransform & transform)</description>
+</snippet>

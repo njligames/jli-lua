@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>PhysicsShapeSphereBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeSphereBuilder::serialize()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>TextboxHUDBuilder_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 TextboxHUDBuilder::getType()</description>
+</snippet>

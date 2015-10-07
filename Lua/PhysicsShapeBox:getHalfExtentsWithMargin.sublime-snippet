@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getHalfExtentsWithMargin()]]></content>
+	<tabTrigger>PhysicsShapeBox_getHalfExtentsWithMargin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btVector3 PhysicsShapeBox::getHalfExtentsWithMargin()</description>
+</snippet>

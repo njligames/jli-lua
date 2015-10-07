@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getFrameOffsetB()]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6Dof_getFrameOffsetB</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const btTransform & PhysicsConstraintGeneric6Dof::getFrameOffsetB()</description>
+</snippet>

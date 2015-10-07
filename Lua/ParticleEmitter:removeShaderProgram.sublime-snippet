@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeShaderProgram()]]></content>
+	<tabTrigger>ParticleEmitter_removeShaderProgram</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void ParticleEmitter::removeShaderProgram()</description>
+</snippet>

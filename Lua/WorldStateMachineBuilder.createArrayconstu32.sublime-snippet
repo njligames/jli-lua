@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.WorldStateMachineBuilder.createArray(${1:const u32})]]></content>
+	<tabTrigger>WorldStateMachineBuilder__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** WorldStateMachineBuilder::createArray(const u32 size)</description>
+</snippet>

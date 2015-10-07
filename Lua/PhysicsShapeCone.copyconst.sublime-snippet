@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeCone.copy(${1:const  &})]]></content>
+	<tabTrigger>PhysicsShapeCone__copy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShapeCone::copy(const  & object)</description>
+</snippet>

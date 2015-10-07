@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getRepeatCount()]]></content>
+	<tabTrigger>Action_getRepeatCount</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 Action::getRepeatCount()</description>
+</snippet>

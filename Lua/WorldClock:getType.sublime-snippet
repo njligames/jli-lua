@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>WorldClock_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 WorldClock::getType()</description>
+</snippet>

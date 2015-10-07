@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calculateSerializeBufferSize()]]></content>
+	<tabTrigger>PhysicsShapeHeightfieldTerrainBuilder_calculateSerializeBufferSize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 PhysicsShapeHeightfieldTerrainBuilder::calculateSerializeBufferSize()</description>
+</snippet>

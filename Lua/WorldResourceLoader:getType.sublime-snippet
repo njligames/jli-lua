@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>WorldResourceLoader_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 WorldResourceLoader::getType()</description>
+</snippet>

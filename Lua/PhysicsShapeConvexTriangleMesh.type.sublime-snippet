@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeConvexTriangleMesh.type()]]></content>
+	<tabTrigger>PhysicsShapeConvexTriangleMesh__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PhysicsShapeConvexTriangleMesh::type()</description>
+</snippet>

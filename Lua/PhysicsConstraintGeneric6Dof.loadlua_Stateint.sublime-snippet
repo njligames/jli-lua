@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintGeneric6Dof.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6Dof__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsConstraintGeneric6Dof::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

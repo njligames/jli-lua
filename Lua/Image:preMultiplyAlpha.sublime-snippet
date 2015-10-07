@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[preMultiplyAlpha()]]></content>
+	<tabTrigger>Image_preMultiplyAlpha</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Image::preMultiplyAlpha()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SliderHUDBuilder.createArray(${1:const u32})]]></content>
+	<tabTrigger>SliderHUDBuilder__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** SliderHUDBuilder::createArray(const u32 size)</description>
+</snippet>

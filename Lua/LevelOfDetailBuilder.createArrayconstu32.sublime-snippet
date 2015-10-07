@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.LevelOfDetailBuilder.createArray(${1:const u32})]]></content>
+	<tabTrigger>LevelOfDetailBuilder__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** LevelOfDetailBuilder::createArray(const u32 size)</description>
+</snippet>

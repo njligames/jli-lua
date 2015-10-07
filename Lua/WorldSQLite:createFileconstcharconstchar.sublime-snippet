@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[createFile(${1:const char *},${2:const char *})]]></content>
+	<tabTrigger>WorldSQLite_createFile</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool WorldSQLite::createFile(const char * filename,const char * buffer)</description>
+</snippet>

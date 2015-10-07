@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getViewPort(${1:s32 *})]]></content>
+	<tabTrigger>World_getViewPort</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void World::getViewPort(s32 * viewPort)</description>
+</snippet>

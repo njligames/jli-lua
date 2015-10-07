@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.LabelHUD.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>LabelHUD__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void LabelHUD::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

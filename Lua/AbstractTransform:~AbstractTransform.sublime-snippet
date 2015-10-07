@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[~AbstractTransform()]]></content>
+	<tabTrigger>AbstractTransform_~AbstractTransform</tabTrigger>
+	<scope>source.lua</scope>
+	<description> AbstractTransform::~AbstractTransform()</description>
+</snippet>

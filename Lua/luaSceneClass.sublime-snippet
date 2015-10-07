@@ -1,0 +1,127 @@
+<snippet>
+	<content><![CDATA[
+local arg={...}
+
+local addUserData = function(self, key, value)
+    self.userdata[key] = value
+end
+
+local getUserData = function(self, key)
+    return self.userdata[key]
+end
+
+local push = function(self)
+    JLI.World.getInstance():getScene():getStateMachine():pushState(self.sceneState)
+end
+
+local renderHUD = function(self)
+end
+
+local enter = function(self, scene)
+
+    print("enter (" .. self.sceneState:getName() .. ")")
+
+    --local testNode = require "testNode"
+    --self.nodes["test"] = testNode.new("test", self.geometry)
+
+	return self.nodes
+end
+
+local update = function(self, scene, timeStep)
+
+    -- print("update (" .. self.sceneState:getName() .. ")")
+
+    return self.nodes
+end
+
+local exit = function(self, scene)
+    
+    print("exit (" .. self.sceneState:getName() .. ")")
+
+	for k,v in pairs(self.nodes) do
+        self.nodes[k]:exit()
+		self.nodes[k]:__gc()
+	end
+	self.nodes = {}
+
+    return self.nodes
+end
+
+local onMessage = function(self, scene, message)
+end
+
+local touchDown = function(self, touches)
+end
+
+local touchUp = function(self, touches)
+end
+
+local touchMove = function(self, touches)
+end
+
+local touchCancelled = function(self, touches)
+end
+
+local delete = function(self)
+    print("delete (" .. self.sceneState:getName() .. ")")
+
+    for k,v in pairs(self.nodes) do
+        self.nodes[k]:__gc()
+    end
+    self.nodes = {}
+
+    self.geometry = destroyObject(self.geometry)
+    self.sceneState = destroyObject(self.sceneState)
+end
+
+local methods = 
+{   
+    addUserData = addUserData,
+    getUserData = getUserData,
+
+    push = push,
+    renderHUD = renderHUD,
+    enter = enter,
+	update = update,
+	exit = exit,
+	onMessage = onMessage,
+
+    touchDown = touchDown,
+    touchUp = touchUp,
+    touchMove = touchMove,
+    touchCancelled = touchCancelled,
+	__gc = delete
+}
+
+local new = function(name)
+
+	local sceneState = JLI.SceneState.create()
+    sceneState:setName(name)
+
+    print("new (" .. sceneState:getName() .. ")")
+
+    geometry = JLI.Sprite2D.create()
+
+    geometry:addShaderProgram(getShaderProgram())
+
+    local properties = 
+    {
+    	sceneState = sceneState,
+        nodes = {},
+        userdata = {},
+
+        geometry = geometry,
+    }
+    return setmetatable(properties, {__index = methods})
+end
+
+return {
+  new = new,
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>luaSceneClass</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.lua</scope>
+</snippet>

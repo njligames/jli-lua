@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setNodes(${1: *},${2: *},${3:const btVector3 &},${4:const btVector3 &},${5:const btVector3 &},${6:const btVector3 &},${7:bool})]]></content>
+	<tabTrigger>PhysicsConstraintHinge_setNodes</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintHinge::setNodes( * nodeA, * nodeB,const btVector3 & pivotInA,const btVector3 & pivotInB,const btVector3 & axisInA,const btVector3 & axisInB,bool useReferenceFrameA)</description>
+</snippet>

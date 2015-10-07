@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.MaterialProperty.destroy(${1: *})]]></content>
+	<tabTrigger>MaterialProperty__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void MaterialProperty::destroy( * object)</description>
+</snippet>

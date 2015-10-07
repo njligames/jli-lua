@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getVertexCount()]]></content>
+	<tabTrigger>PhysicsShapeBox2D_getVertexCount</tabTrigger>
+	<scope>source.lua</scope>
+	<description>int PhysicsShapeBox2D::getVertexCount()</description>
+</snippet>

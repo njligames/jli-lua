@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[applyShape(${1: *},${2: *})]]></content>
+	<tabTrigger>Geometry_applyShape</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Geometry::applyShape( * node, * physicsShape)</description>
+</snippet>

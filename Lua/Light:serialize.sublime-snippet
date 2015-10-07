@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>Light_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Light::serialize()</description>
+</snippet>

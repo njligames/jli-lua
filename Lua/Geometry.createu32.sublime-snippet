@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Geometry.create(${1:u32})]]></content>
+	<tabTrigger>Geometry__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * Geometry::create(u32 type)</description>
+</snippet>

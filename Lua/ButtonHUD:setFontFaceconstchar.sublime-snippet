@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setFontFace(${1:const char *})]]></content>
+	<tabTrigger>ButtonHUD_setFontFace</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void ButtonHUD::setFontFace(const char * face)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTextureCoordinateOffsets(${1: *})]]></content>
+	<tabTrigger>Sprite2D_getTextureCoordinateOffsets</tabTrigger>
+	<scope>source.lua</scope>
+	<description> Sprite2D::getTextureCoordinateOffsets( * node)</description>
+</snippet>

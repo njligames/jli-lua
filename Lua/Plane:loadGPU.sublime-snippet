@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[loadGPU()]]></content>
+	<tabTrigger>Plane_loadGPU</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Plane::loadGPU()</description>
+</snippet>

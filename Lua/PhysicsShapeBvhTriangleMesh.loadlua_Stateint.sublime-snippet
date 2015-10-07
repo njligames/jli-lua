@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeBvhTriangleMesh.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>PhysicsShapeBvhTriangleMesh__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsShapeBvhTriangleMesh::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

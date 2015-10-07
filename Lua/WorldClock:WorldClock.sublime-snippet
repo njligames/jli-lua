@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldClock()]]></content>
+	<tabTrigger>WorldClock_WorldClock</tabTrigger>
+	<scope>source.lua</scope>
+	<description> WorldClock::WorldClock()</description>
+</snippet>

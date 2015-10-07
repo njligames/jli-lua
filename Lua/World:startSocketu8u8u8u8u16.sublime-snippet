@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[startSocket(${1:u8},${2:u8},${3:u8},${4:u8},${5:u16})]]></content>
+	<tabTrigger>World_startSocket</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void World::startSocket(u8 n0,u8 n1,u8 n2,u8 n3,u16 port)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeCylinder.copy(${1:const  &})]]></content>
+	<tabTrigger>PhysicsShapeCylinder__copy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShapeCylinder::copy(const  & object)</description>
+</snippet>

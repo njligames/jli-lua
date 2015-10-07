@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.ParticleEmitterBuilder.destroyArray(${1: **})]]></content>
+	<tabTrigger>ParticleEmitterBuilder__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void ParticleEmitterBuilder::destroyArray( ** array)</description>
+</snippet>

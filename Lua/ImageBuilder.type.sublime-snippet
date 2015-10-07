@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.ImageBuilder.type()]]></content>
+	<tabTrigger>ImageBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 ImageBuilder::type()</description>
+</snippet>

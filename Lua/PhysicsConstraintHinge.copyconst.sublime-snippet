@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsConstraintHinge.copy(${1:const  &})]]></content>
+	<tabTrigger>PhysicsConstraintHinge__copy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsConstraintHinge::copy(const  & object)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[absolute()]]></content>
+	<tabTrigger>tVector2_absolute</tabTrigger>
+	<scope>source.lua</scope>
+	<description>SIMD_FORCE_INLINE  tVector2::absolute()</description>
+</snippet>

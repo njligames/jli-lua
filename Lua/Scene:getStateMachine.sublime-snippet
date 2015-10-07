@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getStateMachine()]]></content>
+	<tabTrigger>Scene_getStateMachine</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * Scene::getStateMachine()</description>
+</snippet>

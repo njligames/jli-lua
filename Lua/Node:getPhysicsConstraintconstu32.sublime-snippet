@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPhysicsConstraint(${1:const u32})]]></content>
+	<tabTrigger>Node_getPhysicsConstraint</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * Node::getPhysicsConstraint(const u32 index)</description>
+</snippet>

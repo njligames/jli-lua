@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lookAt(${1:const btVector3 &},${2:const btVector3 &})]]></content>
+	<tabTrigger>Camera_lookAt</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Camera::lookAt(const btVector3 & pos,const btVector3 & up)</description>
+</snippet>

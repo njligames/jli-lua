@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isPastSwingLimit()]]></content>
+	<tabTrigger>PhysicsConstraintConeTwist_isPastSwingLimit</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool PhysicsConstraintConeTwist::isPastSwingLimit()</description>
+</snippet>

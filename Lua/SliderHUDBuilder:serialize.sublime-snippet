@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>SliderHUDBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void SliderHUDBuilder::serialize()</description>
+</snippet>

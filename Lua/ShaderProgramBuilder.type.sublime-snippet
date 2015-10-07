@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.ShaderProgramBuilder.type()]]></content>
+	<tabTrigger>ShaderProgramBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 ShaderProgramBuilder::type()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addChildNode(${1: *})]]></content>
+	<tabTrigger>Node_addChildNode</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::addChildNode( * object)</description>
+</snippet>

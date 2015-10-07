@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[transformVertices(${1:const btTransform &})]]></content>
+	<tabTrigger>Node_transformVertices</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::transformVertices(const btTransform & transfrom)</description>
+</snippet>

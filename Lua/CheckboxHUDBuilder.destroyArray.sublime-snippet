@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.CheckboxHUDBuilder.destroyArray(${1: **})]]></content>
+	<tabTrigger>CheckboxHUDBuilder__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void CheckboxHUDBuilder::destroyArray( ** array)</description>
+</snippet>

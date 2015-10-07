@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hasActions()]]></content>
+	<tabTrigger>AbstractActionable_hasActions</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool AbstractActionable::hasActions()</description>
+</snippet>

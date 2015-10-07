@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setRadialAccelVariance(${1:const f32 &})]]></content>
+	<tabTrigger>ParticleEmitter_setRadialAccelVariance</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void ParticleEmitter::setRadialAccelVariance(const f32 & value)</description>
+</snippet>

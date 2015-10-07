@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Sprite2D.destroyArray(${1: **})]]></content>
+	<tabTrigger>Sprite2D__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void Sprite2D::destroyArray( ** array)</description>
+</snippet>

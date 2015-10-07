@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[transformVertices(${1: *},${2:const btTransform &})]]></content>
+	<tabTrigger>Sprite2D_transformVertices</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Sprite2D::transformVertices( * node,const btTransform & transfrom)</description>
+</snippet>

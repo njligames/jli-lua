@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.CameraBuilder.type()]]></content>
+	<tabTrigger>CameraBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 CameraBuilder::type()</description>
+</snippet>

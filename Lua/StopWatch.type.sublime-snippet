@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.StopWatch.type()]]></content>
+	<tabTrigger>StopWatch__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 StopWatch::type()</description>
+</snippet>

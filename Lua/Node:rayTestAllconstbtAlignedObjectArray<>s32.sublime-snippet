@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rayTestAll(${1:const  &},${2:btAlignedObjectArray<  * > &},${3:s32 &},${4:},${5:})]]></content>
+	<tabTrigger>Node_rayTestAll</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool Node::rayTestAll(const  & screenPosition,btAlignedObjectArray<  * > & rayContacts,s32 & numContacts, collisionGroup, collisionMask)</description>
+</snippet>

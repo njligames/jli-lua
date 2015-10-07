@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AbstractClock()]]></content>
+	<tabTrigger>AbstractClock_AbstractClock</tabTrigger>
+	<scope>source.lua</scope>
+	<description> AbstractClock::AbstractClock()</description>
+</snippet>

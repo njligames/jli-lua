@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isResting()]]></content>
+	<tabTrigger>PhysicsBody_isResting</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool PhysicsBody::isResting()</description>
+</snippet>

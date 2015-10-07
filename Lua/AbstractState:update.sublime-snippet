@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[update()]]></content>
+	<tabTrigger>AbstractState_update</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void AbstractState::update()</description>
+</snippet>

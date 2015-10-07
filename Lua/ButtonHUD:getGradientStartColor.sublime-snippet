@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getGradientStartColor()]]></content>
+	<tabTrigger>ButtonHUD_getGradientStartColor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const btVector4 & ButtonHUD::getGradientStartColor()</description>
+</snippet>

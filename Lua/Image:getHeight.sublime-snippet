@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getHeight()]]></content>
+	<tabTrigger>Image_getHeight</tabTrigger>
+	<scope>source.lua</scope>
+	<description>u32 Image::getHeight()</description>
+</snippet>

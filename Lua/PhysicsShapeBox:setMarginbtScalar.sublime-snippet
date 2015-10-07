@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setMargin(${1:btScalar})]]></content>
+	<tabTrigger>PhysicsShapeBox_setMargin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsShapeBox::setMargin(btScalar collisionMargin)</description>
+</snippet>

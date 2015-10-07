@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsWorldBuilder.createArray(${1:const u32})]]></content>
+	<tabTrigger>PhysicsWorldBuilder__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** PhysicsWorldBuilder::createArray(const u32 size)</description>
+</snippet>

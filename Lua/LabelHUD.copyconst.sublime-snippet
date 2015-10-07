@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.LabelHUD.copy(${1:const  &})]]></content>
+	<tabTrigger>LabelHUD__copy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * LabelHUD::copy(const  & object)</description>
+</snippet>

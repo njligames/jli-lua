@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeHeightfieldTerrain.copy(${1:const  &})]]></content>
+	<tabTrigger>PhysicsShapeHeightfieldTerrain__copy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShapeHeightfieldTerrain::copy(const  & object)</description>
+</snippet>

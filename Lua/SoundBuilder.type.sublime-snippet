@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SoundBuilder.type()]]></content>
+	<tabTrigger>SoundBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 SoundBuilder::type()</description>
+</snippet>

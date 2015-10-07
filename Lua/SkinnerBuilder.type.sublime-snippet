@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SkinnerBuilder.type()]]></content>
+	<tabTrigger>SkinnerBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 SkinnerBuilder::type()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeCapsule.type()]]></content>
+	<tabTrigger>PhysicsShapeCapsule__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 PhysicsShapeCapsule::type()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calculateSerializeBufferSize()]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6DofSpringBuilder_calculateSerializeBufferSize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 PhysicsConstraintGeneric6DofSpringBuilder::calculateSerializeBufferSize()</description>
+</snippet>

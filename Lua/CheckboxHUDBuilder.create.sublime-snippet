@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.CheckboxHUDBuilder.create()]]></content>
+	<tabTrigger>CheckboxHUDBuilder__create</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * CheckboxHUDBuilder::create()</description>
+</snippet>

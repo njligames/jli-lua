@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getType()]]></content>
+	<tabTrigger>DropdownHUD_getType</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 DropdownHUD::getType()</description>
+</snippet>

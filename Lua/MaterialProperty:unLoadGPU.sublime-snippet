@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[unLoadGPU()]]></content>
+	<tabTrigger>MaterialProperty_unLoadGPU</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void MaterialProperty::unLoadGPU()</description>
+</snippet>

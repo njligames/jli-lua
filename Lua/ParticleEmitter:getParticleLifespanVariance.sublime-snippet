@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getParticleLifespanVariance()]]></content>
+	<tabTrigger>ParticleEmitter_getParticleLifespanVariance</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const f32 & ParticleEmitter::getParticleLifespanVariance()</description>
+</snippet>

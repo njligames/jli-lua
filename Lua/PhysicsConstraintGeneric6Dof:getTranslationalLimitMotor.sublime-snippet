@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTranslationalLimitMotor()]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6Dof_getTranslationalLimitMotor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>btTranslationalLimitMotor * PhysicsConstraintGeneric6Dof::getTranslationalLimitMotor()</description>
+</snippet>

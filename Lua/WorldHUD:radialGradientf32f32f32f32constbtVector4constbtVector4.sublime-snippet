@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[radialGradient(${1:f32},${2:f32},${3:f32},${4:f32},${5:const btVector4 &},${6:const btVector4 &})]]></content>
+	<tabTrigger>WorldHUD_radialGradient</tabTrigger>
+	<scope>source.lua</scope>
+	<description> WorldHUD::radialGradient(f32 centerx,f32 centery,f32 innerRadius,f32 outerRadius,const btVector4 & startColor,const btVector4 & endColor)</description>
+</snippet>

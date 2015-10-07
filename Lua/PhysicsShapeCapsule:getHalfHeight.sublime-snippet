@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getHalfHeight()]]></content>
+	<tabTrigger>PhysicsShapeCapsule_getHalfHeight</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsShapeCapsule::getHalfHeight()</description>
+</snippet>

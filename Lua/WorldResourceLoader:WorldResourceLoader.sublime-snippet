@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldResourceLoader()]]></content>
+	<tabTrigger>WorldResourceLoader_WorldResourceLoader</tabTrigger>
+	<scope>source.lua</scope>
+	<description> WorldResourceLoader::WorldResourceLoader()</description>
+</snippet>

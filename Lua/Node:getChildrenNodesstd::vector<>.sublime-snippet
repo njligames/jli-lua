@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getChildrenNodes(${1:std::vector<  * > &})]]></content>
+	<tabTrigger>Node_getChildrenNodes</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::getChildrenNodes(std::vector<  * > & children)</description>
+</snippet>

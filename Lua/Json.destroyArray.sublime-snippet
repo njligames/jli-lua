@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Json.destroyArray(${1: **})]]></content>
+	<tabTrigger>Json__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void Json::destroyArray( ** array)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[runAction(${1: *},${2:bool})]]></content>
+	<tabTrigger>Node_runAction</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::runAction( * action,bool callCompletionFunction)</description>
+</snippet>

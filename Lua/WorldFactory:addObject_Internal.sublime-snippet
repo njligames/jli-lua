@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addObject_Internal()]]></content>
+	<tabTrigger>WorldFactory_addObject_Internal</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldFactory::addObject_Internal()</description>
+</snippet>

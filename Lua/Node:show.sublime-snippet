@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[show(${1: *})]]></content>
+	<tabTrigger>Node_show</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::show( * camera)</description>
+</snippet>

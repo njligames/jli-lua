@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneRenderer(${1: *})]]></content>
+	<tabTrigger>SceneRenderer_SceneRenderer</tabTrigger>
+	<scope>source.lua</scope>
+	<description> SceneRenderer::SceneRenderer( * camera)</description>
+</snippet>

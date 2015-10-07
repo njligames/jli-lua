@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getCentroid()]]></content>
+	<tabTrigger>PhysicsShapeBox2D_getCentroid</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const btVector3 & PhysicsShapeBox2D::getCentroid()</description>
+</snippet>

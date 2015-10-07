@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getTextIcon()]]></content>
+	<tabTrigger>CheckboxHUD_getTextIcon</tabTrigger>
+	<scope>source.lua</scope>
+	<description>const char * CheckboxHUD::getTextIcon()</description>
+</snippet>

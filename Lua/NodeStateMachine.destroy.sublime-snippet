@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.NodeStateMachine.destroy(${1: *})]]></content>
+	<tabTrigger>NodeStateMachine__destroy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void NodeStateMachine::destroy( * object)</description>
+</snippet>

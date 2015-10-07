@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setPoweredAngMotor(${1:bool})]]></content>
+	<tabTrigger>PhysicsConstraintSlider_setPoweredAngMotor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintSlider::setPoweredAngMotor(bool onOff)</description>
+</snippet>

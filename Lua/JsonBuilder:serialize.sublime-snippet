@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>JsonBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void JsonBuilder::serialize()</description>
+</snippet>

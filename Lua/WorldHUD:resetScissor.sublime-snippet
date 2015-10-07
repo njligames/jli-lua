@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resetScissor()]]></content>
+	<tabTrigger>WorldHUD_resetScissor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::resetScissor()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isLimited(${1:int})]]></content>
+	<tabTrigger>PhysicsConstraintGeneric6Dof_isLimited</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool PhysicsConstraintGeneric6Dof::isLimited(int limitIndex)</description>
+</snippet>

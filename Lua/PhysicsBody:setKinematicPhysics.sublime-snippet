@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setKinematicPhysics()]]></content>
+	<tabTrigger>PhysicsBody_setKinematicPhysics</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsBody::setKinematicPhysics()</description>
+</snippet>

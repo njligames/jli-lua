@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getFontAlign()]]></content>
+	<tabTrigger>CheckboxHUD_getFontAlign</tabTrigger>
+	<scope>source.lua</scope>
+	<description> CheckboxHUD::getFontAlign()</description>
+</snippet>

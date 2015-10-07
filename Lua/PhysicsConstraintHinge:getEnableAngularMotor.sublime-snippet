@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getEnableAngularMotor()]]></content>
+	<tabTrigger>PhysicsConstraintHinge_getEnableAngularMotor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>bool PhysicsConstraintHinge::getEnableAngularMotor()</description>
+</snippet>

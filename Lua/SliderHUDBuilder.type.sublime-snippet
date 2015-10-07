@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.SliderHUDBuilder.type()]]></content>
+	<tabTrigger>SliderHUDBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 SliderHUDBuilder::type()</description>
+</snippet>

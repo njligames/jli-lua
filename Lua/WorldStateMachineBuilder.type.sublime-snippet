@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.WorldStateMachineBuilder.type()]]></content>
+	<tabTrigger>WorldStateMachineBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 WorldStateMachineBuilder::type()</description>
+</snippet>

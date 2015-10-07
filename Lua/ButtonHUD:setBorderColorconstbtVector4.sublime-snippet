@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setBorderColor(${1:const btVector4 &})]]></content>
+	<tabTrigger>ButtonHUD_setBorderColor</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void ButtonHUD::setBorderColor(const btVector4 & color)</description>
+</snippet>

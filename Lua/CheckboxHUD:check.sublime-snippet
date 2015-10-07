@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[check()]]></content>
+	<tabTrigger>CheckboxHUD_check</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void CheckboxHUD::check()</description>
+</snippet>

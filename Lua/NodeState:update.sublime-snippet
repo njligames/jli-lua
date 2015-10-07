@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[update()]]></content>
+	<tabTrigger>NodeState_update</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void NodeState::update()</description>
+</snippet>

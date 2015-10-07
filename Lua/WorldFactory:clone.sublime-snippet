@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clone()]]></content>
+	<tabTrigger>WorldFactory_clone</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * WorldFactory::clone()</description>
+</snippet>

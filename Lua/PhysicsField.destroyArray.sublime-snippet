@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsField.destroyArray(${1: **})]]></content>
+	<tabTrigger>PhysicsField__destroyArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void PhysicsField::destroyArray( ** array)</description>
+</snippet>

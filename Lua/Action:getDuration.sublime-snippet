@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getDuration()]]></content>
+	<tabTrigger>Action_getDuration</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 Action::getDuration()</description>
+</snippet>

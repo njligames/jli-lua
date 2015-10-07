@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getRenderCategory()]]></content>
+	<tabTrigger>Camera_getRenderCategory</tabTrigger>
+	<scope>source.lua</scope>
+	<description> Camera::getRenderCategory()</description>
+</snippet>

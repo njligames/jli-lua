@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setParentNode(${1: *})]]></content>
+	<tabTrigger>Node_setParentNode</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Node::setParentNode( * parent)</description>
+</snippet>

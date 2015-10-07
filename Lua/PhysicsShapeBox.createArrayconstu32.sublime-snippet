@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeBox.createArray(${1:const u32})]]></content>
+	<tabTrigger>PhysicsShapeBox__createArray</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  ** PhysicsShapeBox::createArray(const u32 size)</description>
+</snippet>

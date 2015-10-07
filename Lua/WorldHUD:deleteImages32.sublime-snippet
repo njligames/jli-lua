@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[deleteImage(${1:s32})]]></content>
+	<tabTrigger>WorldHUD_deleteImage</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::deleteImage(s32 imageHandle)</description>
+</snippet>

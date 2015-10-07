@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setRenderCategory(${1:const })]]></content>
+	<tabTrigger>Camera_setRenderCategory</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Camera::setRenderCategory(const  category)</description>
+</snippet>

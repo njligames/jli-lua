@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>SoundBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void SoundBuilder::serialize()</description>
+</snippet>

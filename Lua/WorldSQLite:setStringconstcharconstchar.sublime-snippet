@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setString(${1:const char *},${2:const char *})]]></content>
+	<tabTrigger>WorldSQLite_setString</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldSQLite::setString(const char * key,const char * value)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.Timer.load(${1: &},${2:lua_State *},${3:int})]]></content>
+	<tabTrigger>Timer__load</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void Timer::load( & object,lua_State * L,int stack_index)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAlign()]]></content>
+	<tabTrigger>LabelHUD_getAlign</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 LabelHUD::getAlign()</description>
+</snippet>

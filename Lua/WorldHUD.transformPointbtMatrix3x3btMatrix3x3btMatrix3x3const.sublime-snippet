@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.WorldHUD.transformPoint(${1:btMatrix3x3 &},${2:btMatrix3x3 &},${3:btMatrix3x3 &},${4:const  &})]]></content>
+	<tabTrigger>WorldHUD__transformPoint</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static void WorldHUD::transformPoint(btMatrix3x3 & dstx,btMatrix3x3 & dsty,btMatrix3x3 & xform,const  & sourcePos)</description>
+</snippet>

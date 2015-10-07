@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>PhysicsConstraintHinge_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void PhysicsConstraintHinge::serialize()</description>
+</snippet>

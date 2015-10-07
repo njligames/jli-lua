@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getParticleEmitterIndex(${1: *})]]></content>
+	<tabTrigger>Scene_getParticleEmitterIndex</tabTrigger>
+	<scope>source.lua</scope>
+	<description>s32 Scene::getParticleEmitterIndex( * object)</description>
+</snippet>

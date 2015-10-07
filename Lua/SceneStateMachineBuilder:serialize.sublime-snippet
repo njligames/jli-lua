@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[serialize()]]></content>
+	<tabTrigger>SceneStateMachineBuilder_serialize</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void SceneStateMachineBuilder::serialize()</description>
+</snippet>

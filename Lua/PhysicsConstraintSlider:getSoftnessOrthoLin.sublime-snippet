@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSoftnessOrthoLin()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_getSoftnessOrthoLin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintSlider::getSoftnessOrthoLin()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeAllClocks()]]></content>
+	<tabTrigger>Scene_removeAllClocks</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Scene::removeAllClocks()</description>
+</snippet>

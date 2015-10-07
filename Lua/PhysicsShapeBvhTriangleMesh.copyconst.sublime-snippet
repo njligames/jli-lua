@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.PhysicsShapeBvhTriangleMesh.copy(${1:const  &})]]></content>
+	<tabTrigger>PhysicsShapeBvhTriangleMesh__copy</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static  * PhysicsShapeBvhTriangleMesh::copy(const  & object)</description>
+</snippet>

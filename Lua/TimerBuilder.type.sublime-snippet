@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JLI.TimerBuilder.type()]]></content>
+	<tabTrigger>TimerBuilder__type</tabTrigger>
+	<scope>source.lua</scope>
+	<description>static u32 TimerBuilder::type()</description>
+</snippet>

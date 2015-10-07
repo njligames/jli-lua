@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reLoadGPU(${1:const  &},${2:const  &})]]></content>
+	<tabTrigger>MaterialProperty_reLoadGPU</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void MaterialProperty::reLoadGPU(const  & img,const  & offset)</description>
+</snippet>

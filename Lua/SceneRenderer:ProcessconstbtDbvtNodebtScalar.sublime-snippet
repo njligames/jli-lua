@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Process(${1:const btDbvtNode *},${2:btScalar})]]></content>
+	<tabTrigger>SceneRenderer_Process</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void SceneRenderer::Process(const btDbvtNode * node,btScalar depth)</description>
+</snippet>

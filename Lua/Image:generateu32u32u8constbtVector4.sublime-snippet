@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[generate(${1:u32},${2:u32},${3:u8},${4:const btVector4 &})]]></content>
+	<tabTrigger>Image_generate</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void Image::generate(u32 width,u32 height,u8 numberOfComponents,const btVector4 & fillColor)</description>
+</snippet>

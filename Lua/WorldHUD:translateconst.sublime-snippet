@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[translate(${1:const  &})]]></content>
+	<tabTrigger>WorldHUD_translate</tabTrigger>
+	<scope>source.lua</scope>
+	<description>void WorldHUD::translate(const  & pos)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSoftnessDirLin()]]></content>
+	<tabTrigger>PhysicsConstraintSlider_getSoftnessDirLin</tabTrigger>
+	<scope>source.lua</scope>
+	<description>f32 PhysicsConstraintSlider::getSoftnessDirLin()</description>
+</snippet>

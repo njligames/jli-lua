@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getStateMachine()]]></content>
+	<tabTrigger>World_getStateMachine</tabTrigger>
+	<scope>source.lua</scope>
+	<description> * World::getStateMachine()</description>
+</snippet>
