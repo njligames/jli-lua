@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getDataRaw()]]></content>
-	<tabTrigger>Image_getDataRaw</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const u8 * Image::getDataRaw()</description>
-</snippet>

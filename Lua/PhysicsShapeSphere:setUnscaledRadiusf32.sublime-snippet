@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setUnscaledRadius(${1:f32})]]></content>
-	<tabTrigger>PhysicsShapeSphere_setUnscaledRadius</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsShapeSphere::setUnscaledRadius(f32 radius)</description>
-</snippet>

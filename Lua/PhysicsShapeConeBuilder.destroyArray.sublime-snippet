@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeConeBuilder.destroyArray(${1: **})]]></content>
-	<tabTrigger>PhysicsShapeConeBuilder__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsShapeConeBuilder::destroyArray( ** array)</description>
-</snippet>

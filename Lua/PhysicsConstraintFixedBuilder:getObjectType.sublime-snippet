@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getObjectType()]]></content>
-	<tabTrigger>PhysicsConstraintFixedBuilder_getObjectType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u32 PhysicsConstraintFixedBuilder::getObjectType()</description>
-</snippet>

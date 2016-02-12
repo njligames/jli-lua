@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getMaxRadiusVariance()]]></content>
-	<tabTrigger>ParticleEmitter_getMaxRadiusVariance</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const f32 & ParticleEmitter::getMaxRadiusVariance()</description>
-</snippet>

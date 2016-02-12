@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[touchCancelled(${1:DeviceTouch **})]]></content>
-	<tabTrigger>WorldState_touchCancelled</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldState::touchCancelled(DeviceTouch ** m_CurrentTouches)</description>
-</snippet>

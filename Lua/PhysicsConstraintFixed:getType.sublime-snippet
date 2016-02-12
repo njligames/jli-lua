@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>PhysicsConstraintFixed_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 PhysicsConstraintFixed::getType()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[text(${1:const  &},${2:const s8 *},${3:const s8 *})]]></content>
-	<tabTrigger>WorldHUD_text</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 WorldHUD::text(const  & position,const s8 * string,const s8 * end)</description>
-</snippet>

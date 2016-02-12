@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getLinDepth()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getLinDepth</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintSlider::getLinDepth()</description>
-</snippet>

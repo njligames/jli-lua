@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeAction(${1:const char *})]]></content>
-	<tabTrigger>AbstractActionable_removeAction</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool AbstractActionable::removeAction(const char * key)</description>
-</snippet>

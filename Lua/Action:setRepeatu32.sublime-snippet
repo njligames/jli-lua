@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setRepeat(${1:u32})]]></content>
-	<tabTrigger>Action_setRepeat</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Action::setRepeat(u32 count)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enter()]]></content>
-	<tabTrigger>NodeState_enter</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void NodeState::enter()</description>
-</snippet>

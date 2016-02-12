@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.JsonBuilder.destroy(${1: *})]]></content>
-	<tabTrigger>JsonBuilder__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void JsonBuilder::destroy( * object)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getShaderProgram()]]></content>
-	<tabTrigger>ParticleEmitter_getShaderProgram</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const  * ParticleEmitter::getShaderProgram()</description>
-</snippet>

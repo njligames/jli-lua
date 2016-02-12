@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.CubeBuilder.destroy(${1: *})]]></content>
-	<tabTrigger>CubeBuilder__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void CubeBuilder::destroy( * object)</description>
-</snippet>

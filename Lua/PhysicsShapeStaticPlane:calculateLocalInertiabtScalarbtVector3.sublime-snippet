@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[calculateLocalInertia(${1:btScalar},${2:btVector3 &})]]></content>
-	<tabTrigger>PhysicsShapeStaticPlane_calculateLocalInertia</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsShapeStaticPlane::calculateLocalInertia(btScalar mass,btVector3 & inertia)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldHUD.transformPremultiply(${1:f32 *},${2:f32 *})]]></content>
-	<tabTrigger>WorldHUD__transformPremultiply</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void WorldHUD::transformPremultiply(f32 * floats,f32 * src)</description>
-</snippet>

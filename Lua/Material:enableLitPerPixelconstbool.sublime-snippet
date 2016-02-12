@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enableLitPerPixel(${1:const bool})]]></content>
-	<tabTrigger>Material_enableLitPerPixel</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Material::enableLitPerPixel(const bool enable)</description>
-</snippet>

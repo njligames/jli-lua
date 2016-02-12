@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[handleMessage()]]></content>
-	<tabTrigger>AbstractStateMachine_handleMessage</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool AbstractStateMachine::handleMessage()</description>
-</snippet>

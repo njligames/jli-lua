@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rayTestClosest(${1:const btVector3 &},${2:const btVector3 &},${3: &},${4:},${5:})]]></content>
-	<tabTrigger>Node_rayTestClosest</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool Node::rayTestClosest(const btVector3 & from,const btVector3 & to, & rayContact, collisionGroup, collisionMask)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumVertices()]]></content>
-	<tabTrigger>PhysicsShapeSphere_getNumVertices</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int PhysicsShapeSphere::getNumVertices()</description>
-</snippet>

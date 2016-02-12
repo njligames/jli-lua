@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Plane.destroyArray(${1: **})]]></content>
-	<tabTrigger>Plane__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void Plane::destroyArray( ** array)</description>
-</snippet>

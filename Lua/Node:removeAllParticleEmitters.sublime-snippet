@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeAllParticleEmitters()]]></content>
-	<tabTrigger>Node_removeAllParticleEmitters</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::removeAllParticleEmitters()</description>
-</snippet>

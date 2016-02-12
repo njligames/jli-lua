@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+deSerializeDouble(${1:dataIn})
+]]></content>
+<tabTrigger>btVector2:deSerializeDouble</tabTrigger>
+<scope>source.lua</scope>
+</snippet>
+

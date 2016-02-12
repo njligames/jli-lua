@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getTangentialAccelVariance()]]></content>
-	<tabTrigger>ParticleEmitter_getTangentialAccelVariance</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const f32 & ParticleEmitter::getTangentialAccelVariance()</description>
-</snippet>

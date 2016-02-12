@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldHUD.transformScale(${1:f32 *},${2:f32},${3:f32})]]></content>
-	<tabTrigger>WorldHUD__transformScale</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void WorldHUD::transformScale(f32 * floats,f32 sx,f32 sy)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setSourcePositionVariance(${1:const btVector3 &})]]></content>
-	<tabTrigger>ParticleEmitter_setSourcePositionVariance</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ParticleEmitter::setSourcePositionVariance(const btVector3 & value)</description>
-</snippet>

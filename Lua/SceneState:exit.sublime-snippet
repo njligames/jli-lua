@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[exit()]]></content>
-	<tabTrigger>SceneState_exit</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void SceneState::exit()</description>
-</snippet>

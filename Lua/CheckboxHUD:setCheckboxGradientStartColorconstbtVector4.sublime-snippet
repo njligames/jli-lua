@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setCheckboxGradientStartColor(${1:const btVector4 &})]]></content>
-	<tabTrigger>CheckboxHUD_setCheckboxGradientStartColor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void CheckboxHUD::setCheckboxGradientStartColor(const btVector4 & start)</description>
-</snippet>

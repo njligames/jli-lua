@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeAllActions()]]></content>
-	<tabTrigger>AbstractActionable_removeAllActions</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractActionable::removeAllActions()</description>
-</snippet>

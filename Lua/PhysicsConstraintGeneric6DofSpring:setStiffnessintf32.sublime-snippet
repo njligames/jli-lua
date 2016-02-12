@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setStiffness(${1:int},${2:f32})]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6DofSpring_setStiffness</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintGeneric6DofSpring::setStiffness(int index,f32 stiffness)</description>
-</snippet>

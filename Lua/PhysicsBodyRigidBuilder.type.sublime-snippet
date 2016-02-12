@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsBodyRigidBuilder.type()]]></content>
-	<tabTrigger>PhysicsBodyRigidBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 PhysicsBodyRigidBuilder::type()</description>
-</snippet>

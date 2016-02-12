@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[calculateSerializeBufferSize()]]></content>
-	<tabTrigger>WorldState_calculateSerializeBufferSize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 WorldState::calculateSerializeBufferSize()</description>
-</snippet>

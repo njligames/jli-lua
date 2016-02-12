@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.StopWatchBuilder.create()]]></content>
-	<tabTrigger>StopWatchBuilder__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * StopWatchBuilder::create()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[blur()]]></content>
-	<tabTrigger>Image_blur</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Image::blur()</description>
-</snippet>

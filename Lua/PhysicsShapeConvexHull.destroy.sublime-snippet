@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeConvexHull.destroy(${1: *})]]></content>
-	<tabTrigger>PhysicsShapeConvexHull__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsShapeConvexHull::destroy( * object)</description>
-</snippet>

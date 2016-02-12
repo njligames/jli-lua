@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[textGlyphPositions(${1:const  &},${2:const s8 *},${3:const s8 *},${4:btAlignedObjectArray<  > &})]]></content>
-	<tabTrigger>WorldHUD_textGlyphPositions</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::textGlyphPositions(const  & position,const s8 * string,const s8 * end,btAlignedObjectArray<  > & glyphPositions)</description>
-</snippet>

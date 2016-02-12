@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldState.copy(${1:const  &})]]></content>
-	<tabTrigger>WorldState__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * WorldState::copy(const  & object)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumEdges()]]></content>
-	<tabTrigger>PhysicsShapeHeightfieldTerrain_getNumEdges</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int PhysicsShapeHeightfieldTerrain::getNumEdges()</description>
-</snippet>

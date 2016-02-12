@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AbstractFactoryObject(${1:const void *})]]></content>
-	<tabTrigger>AbstractFactoryObject_AbstractFactoryObject</tabTrigger>
-	<scope>source.lua</scope>
-	<description> AbstractFactoryObject::AbstractFactoryObject(const void * ptr)</description>
-</snippet>

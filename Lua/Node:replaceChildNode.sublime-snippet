@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[replaceChildNode(${1: *},${2: *})]]></content>
-	<tabTrigger>Node_replaceChildNode</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::replaceChildNode( * oldChild, * newChild)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getSourceFilename()]]></content>
-	<tabTrigger>SpriteFrameAtlas_getSourceFilename</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const std::string & SpriteFrameAtlas::getSourceFilename()</description>
-</snippet>

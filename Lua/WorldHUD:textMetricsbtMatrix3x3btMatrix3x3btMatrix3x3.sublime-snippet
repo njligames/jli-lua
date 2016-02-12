@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[textMetrics(${1:btMatrix3x3 &},${2:btMatrix3x3 &},${3:btMatrix3x3 &})]]></content>
-	<tabTrigger>WorldHUD_textMetrics</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::textMetrics(btMatrix3x3 & ascender,btMatrix3x3 & descender,btMatrix3x3 & lineh)</description>
-</snippet>

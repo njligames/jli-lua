@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isTexture2D()]]></content>
-	<tabTrigger>MaterialProperty_isTexture2D</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool MaterialProperty::isTexture2D()</description>
-</snippet>

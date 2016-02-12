@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsBodyGhostBuilder.type()]]></content>
-	<tabTrigger>PhysicsBodyGhostBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 PhysicsBodyGhostBuilder::type()</description>
-</snippet>

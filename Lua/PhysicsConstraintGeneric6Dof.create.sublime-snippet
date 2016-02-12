@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintGeneric6Dof.create()]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6Dof__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsConstraintGeneric6Dof::create()</description>
-</snippet>

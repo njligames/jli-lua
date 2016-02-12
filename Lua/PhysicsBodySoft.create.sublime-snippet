@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsBodySoft.create()]]></content>
-	<tabTrigger>PhysicsBodySoft__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsBodySoft::create()</description>
-</snippet>

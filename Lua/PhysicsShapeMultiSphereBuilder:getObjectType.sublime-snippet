@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getObjectType()]]></content>
-	<tabTrigger>PhysicsShapeMultiSphereBuilder_getObjectType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u32 PhysicsShapeMultiSphereBuilder::getObjectType()</description>
-</snippet>

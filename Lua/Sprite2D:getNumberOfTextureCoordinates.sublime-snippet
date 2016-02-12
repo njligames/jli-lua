@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumberOfTextureCoordinates(${1: *},${2: *})]]></content>
-	<tabTrigger>Sprite2D_getNumberOfTextureCoordinates</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u64 Sprite2D::getNumberOfTextureCoordinates( * geometry, * node)</description>
-</snippet>

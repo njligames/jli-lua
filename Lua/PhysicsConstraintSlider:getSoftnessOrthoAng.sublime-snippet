@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getSoftnessOrthoAng()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getSoftnessOrthoAng</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintSlider::getSoftnessOrthoAng()</description>
-</snippet>

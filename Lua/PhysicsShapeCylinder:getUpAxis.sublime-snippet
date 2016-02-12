@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getUpAxis()]]></content>
-	<tabTrigger>PhysicsShapeCylinder_getUpAxis</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int PhysicsShapeCylinder::getUpAxis()</description>
-</snippet>

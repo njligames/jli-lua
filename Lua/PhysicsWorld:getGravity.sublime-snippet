@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getGravity()]]></content>
-	<tabTrigger>PhysicsWorld_getGravity</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btVector3 PhysicsWorld::getGravity()</description>
-</snippet>

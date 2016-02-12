@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setNodes(${1: *},${2:const btTransform &},${3:bool})]]></content>
-	<tabTrigger>PhysicsConstraintSlider_setNodes</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintSlider::setNodes( * nodeB,const btTransform & frameInB,bool useLinearReferenceFrameA)</description>
-</snippet>

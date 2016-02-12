@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getVertexColors(${1: *},${2:btVector4 **})]]></content>
-	<tabTrigger>Geometry_getVertexColors</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Geometry::getVertexColors( * geometry,btVector4 ** colorVertices)</description>
-</snippet>

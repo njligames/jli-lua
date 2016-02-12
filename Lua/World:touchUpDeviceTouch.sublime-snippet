@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[touchUp(${1:DeviceTouch **})]]></content>
-	<tabTrigger>World_touchUp</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void World::touchUp(DeviceTouch ** m_CurrentTouches)</description>
-</snippet>

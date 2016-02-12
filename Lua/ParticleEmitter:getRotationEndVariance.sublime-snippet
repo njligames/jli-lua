@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getRotationEndVariance()]]></content>
-	<tabTrigger>ParticleEmitter_getRotationEndVariance</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const f32 & ParticleEmitter::getRotationEndVariance()</description>
-</snippet>

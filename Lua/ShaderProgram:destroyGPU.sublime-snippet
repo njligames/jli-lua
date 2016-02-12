@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[destroyGPU()]]></content>
-	<tabTrigger>ShaderProgram_destroyGPU</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ShaderProgram::destroyGPU()</description>
-</snippet>

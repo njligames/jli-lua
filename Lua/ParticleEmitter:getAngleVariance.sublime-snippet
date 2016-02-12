@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getAngleVariance()]]></content>
-	<tabTrigger>ParticleEmitter_getAngleVariance</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const f32 & ParticleEmitter::getAngleVariance()</description>
-</snippet>

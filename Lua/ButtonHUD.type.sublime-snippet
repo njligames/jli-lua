@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ButtonHUD.type()]]></content>
-	<tabTrigger>ButtonHUD__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 ButtonHUD::type()</description>
-</snippet>

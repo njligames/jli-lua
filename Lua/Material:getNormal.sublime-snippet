@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNormal()]]></content>
-	<tabTrigger>Material_getNormal</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * Material::getNormal()</description>
-</snippet>

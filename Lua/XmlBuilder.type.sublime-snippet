@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.XmlBuilder.type()]]></content>
-	<tabTrigger>XmlBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 XmlBuilder::type()</description>
-</snippet>

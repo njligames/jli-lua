@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getObjectType()]]></content>
-	<tabTrigger>TextboxHUDBuilder_getObjectType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u32 TextboxHUDBuilder::getObjectType()</description>
-</snippet>

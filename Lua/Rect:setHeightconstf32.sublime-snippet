@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setHeight(${1:const f32})]]></content>
-	<tabTrigger>Rect_setHeight</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Rect::setHeight(const f32 height)</description>
-</snippet>

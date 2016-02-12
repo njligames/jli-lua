@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getVertices(${1: *},${2:btVector3 **})]]></content>
-	<tabTrigger>Geometry_getVertices</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Geometry::getVertices( * geometry,btVector3 ** vertices)</description>
-</snippet>

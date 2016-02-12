@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getWorldSocket()]]></content>
-	<tabTrigger>World_getWorldSocket</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * World::getWorldSocket()</description>
-</snippet>

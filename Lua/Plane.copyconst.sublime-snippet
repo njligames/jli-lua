@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Plane.copy(${1:const  &})]]></content>
-	<tabTrigger>Plane__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * Plane::copy(const  & object)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[textBox(${1:const  &},${2:f32},${3:const s8 *},${4:const s8 *})]]></content>
-	<tabTrigger>WorldHUD_textBox</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::textBox(const  & position,f32 breakRowWidth,const s8 * string,const s8 * end)</description>
-</snippet>

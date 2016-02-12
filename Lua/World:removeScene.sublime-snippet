@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeScene()]]></content>
-	<tabTrigger>World_removeScene</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void World::removeScene()</description>
-</snippet>

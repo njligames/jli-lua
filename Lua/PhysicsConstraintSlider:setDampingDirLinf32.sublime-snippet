@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setDampingDirLin(${1:f32})]]></content>
-	<tabTrigger>PhysicsConstraintSlider_setDampingDirLin</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintSlider::setDampingDirLin(f32 dampingDirLin)</description>
-</snippet>

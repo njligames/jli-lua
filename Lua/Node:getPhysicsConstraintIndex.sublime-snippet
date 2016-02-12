@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getPhysicsConstraintIndex(${1: *})]]></content>
-	<tabTrigger>Node_getPhysicsConstraintIndex</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 Node::getPhysicsConstraintIndex( * object)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Light.clone(${1:const  &})]]></content>
-	<tabTrigger>Light__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * Light::clone(const  & object)</description>
-</snippet>

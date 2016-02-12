@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ButtonHUD.destroy(${1: *})]]></content>
-	<tabTrigger>ButtonHUD__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void ButtonHUD::destroy( * object)</description>
-</snippet>

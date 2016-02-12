@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[calculateSerializeBufferSize()]]></content>
-	<tabTrigger>ClockBuilder_calculateSerializeBufferSize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 ClockBuilder::calculateSerializeBufferSize()</description>
-</snippet>

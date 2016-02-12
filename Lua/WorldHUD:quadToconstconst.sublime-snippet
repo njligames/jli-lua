@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[quadTo(${1:const  &},${2:const  &})]]></content>
-	<tabTrigger>WorldHUD_quadTo</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::quadTo(const  & controlPoint,const  & pos)</description>
-</snippet>

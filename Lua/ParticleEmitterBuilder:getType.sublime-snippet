@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>ParticleEmitterBuilder_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 ParticleEmitterBuilder::getType()</description>
-</snippet>

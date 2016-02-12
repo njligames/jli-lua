@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getPlane(${1:btVector3 &},${2:btVector3 &},${3:int})]]></content>
-	<tabTrigger>PhysicsShapeBvhTriangleMesh_getPlane</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsShapeBvhTriangleMesh::getPlane(btVector3 & planeNormal,btVector3 & planeSupport,int i)</description>
-</snippet>

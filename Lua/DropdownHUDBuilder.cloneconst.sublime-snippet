@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.DropdownHUDBuilder.clone(${1:const  &})]]></content>
-	<tabTrigger>DropdownHUDBuilder__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * DropdownHUDBuilder::clone(const  & object)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getPlaneNormal()]]></content>
-	<tabTrigger>PhysicsShapeStaticPlane_getPlaneNormal</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const btVector3 & PhysicsShapeStaticPlane::getPlaneNormal()</description>
-</snippet>

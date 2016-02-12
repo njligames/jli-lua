@@ -1,15 +1,14 @@
 {
 	"file_regex": "^(?:(?:\t)|(?:.+: ))(.+):([0-9]+): (.*)$",
 	"selector": "source.lua",
-	"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli", "$file"],
+	"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli", "$file", "build"],
 
 	"variants": [
 		{	"name": "Run",
-			"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli", "$file"]
+			"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajli", "$file", "run"]
 		},
 		{	"name": "JLILua",
 			"shell": true,
-			"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajliProj", "$project_path"],
 			"osx":
 			{
 				"cmd": ["/Users/jamesfolk/Dropbox/GameDevelopment/mygames/third_party/jli_game_engine/version-1.0/bin/luajliProj $project_path"]

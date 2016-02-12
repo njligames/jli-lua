@@ -1,0 +1,148 @@
+<snippet>
+	<content><![CDATA[
+local addUserData = function(self, key, value)
+    self.userdata[key] = value
+end
+
+local getUserData = function(self, key)
+    return self.userdata[key]
+end
+
+local push = function(self)
+    JLI.World.getInstance():getScene():getStateMachine():pushState(self.sceneState)
+end
+
+local renderHUD = function(self)
+end
+
+local enter = function(self, scene)
+
+    print("enter (" .. self.sceneState:getName() .. ")")
+
+    self.currentFunctionIndex = 1
+
+    JLI.World.getInstance():getScene():getPhysicsWorld():enablePause()
+    JLI.World.getInstance():enablePauseAnimation()
+
+    --TODO: Implement enter logic for the scene
+
+    return self.nodes
+end
+
+local update = function(self, scene, timeStep)
+
+    if self.currentFunctionIndex <= #self.loadingFunctions then
+        self.loadingFunctions[self.currentFunctionIndex](self)
+        self.currentFunctionIndex = self.currentFunctionIndex + 1
+    else
+        --update scene state.
+        JLI.World.getInstance():getScene():getPhysicsWorld():enablePause(false)
+        JLI.World.getInstance():enablePauseAnimation(false)
+
+        --TODO: Implement update logic for the scene
+
+        print("update (" .. self.sceneState:getName() .. ")")
+    end
+
+    return self.nodes
+end
+
+local exit = function(self, scene)
+    local sceneName = self.sceneState:getName()
+
+    --TODO: Implement exit logic for the scene
+
+    self.unloadFunction(self)
+
+    for k,v in pairs(self.nodes) do
+        removeNodeObject(self.nodes[k])
+    end
+    self.nodes = {}
+
+    print("exit (" .. sceneName .. ")")
+
+    return self.nodes
+end
+
+local onMessage = function(self, scene, message)
+end
+
+local touchDown = function(self, touches)
+end
+
+local touchUp = function(self, touches)
+end
+
+local touchMove = function(self, touches)
+end
+
+local touchCancelled = function(self, touches)
+end
+
+local delete = function(self)
+    local sceneName = self.sceneState:getName()
+
+    JLI.SceneState.destroy(self.sceneState)
+
+    print("delete (" .. sceneName .. ")")
+end
+
+local methods = 
+{   
+    addUserData = addUserData,
+    getUserData = getUserData,
+
+    push = push,
+    renderHUD = renderHUD,
+    enter = enter,
+    update = update,
+    exit = exit,
+    onMessage = onMessage,
+
+    touchDown = touchDown,
+    touchUp = touchUp,
+    touchMove = touchMove,
+    touchCancelled = touchCancelled,
+    __gc = delete
+}
+
+local new = function(name, params)
+    print("new (" .. name .. ")")
+
+    local sceneState = JLI.SceneState.create()
+    sceneState:setName(name)
+
+    local loadingFunctions =
+    {
+        function(self)
+            -- TODO: Create the scene one piece at a time...
+            
+        end,
+    }
+
+    local unloadFunction = function(self)
+        -- TODO: Destroy the scene...
+    end
+
+    local properties = 
+    {
+        sceneState = sceneState,
+        nodes = {},
+        userdata = {},
+        loadingFunctions = loadingFunctions,
+        unloadFunction = unloadFunction,
+        params = params,
+    }
+    return setmetatable(properties, {__index = methods})
+end
+
+return {
+  new = new,
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>luaSceneStateObjectClass</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.lua</scope>
+</snippet>

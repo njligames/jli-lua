@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pathWinding(${1:})]]></content>
-	<tabTrigger>WorldHUD_pathWinding</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::pathWinding( dir)</description>
-</snippet>

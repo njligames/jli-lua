@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeHeightfieldTerrain.type()]]></content>
-	<tabTrigger>PhysicsShapeHeightfieldTerrain__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 PhysicsShapeHeightfieldTerrain::type()</description>
-</snippet>

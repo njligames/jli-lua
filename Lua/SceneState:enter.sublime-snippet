@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enter()]]></content>
-	<tabTrigger>SceneState_enter</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void SceneState::enter()</description>
-</snippet>

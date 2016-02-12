@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setRadius(${1:f32})]]></content>
-	<tabTrigger>PhysicsShapeCapsule_setRadius</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsShapeCapsule::setRadius(f32 radius)</description>
-</snippet>

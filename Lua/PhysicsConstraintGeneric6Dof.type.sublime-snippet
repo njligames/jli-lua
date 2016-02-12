@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintGeneric6Dof.type()]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6Dof__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 PhysicsConstraintGeneric6Dof::type()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getSideVector()]]></content>
-	<tabTrigger>Camera_getSideVector</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btVector3 Camera::getSideVector()</description>
-</snippet>

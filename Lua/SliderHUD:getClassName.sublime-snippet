@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getClassName()]]></content>
-	<tabTrigger>SliderHUD_getClassName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * SliderHUD::getClassName()</description>
-</snippet>

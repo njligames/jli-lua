@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getPlaneConstant()]]></content>
-	<tabTrigger>PhysicsShapeStaticPlane_getPlaneConstant</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const btScalar & PhysicsShapeStaticPlane::getPlaneConstant()</description>
-</snippet>

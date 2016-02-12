@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.MaterialBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>MaterialBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** MaterialBuilder::createArray(const u32 size)</description>
-</snippet>

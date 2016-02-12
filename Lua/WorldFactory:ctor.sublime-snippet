@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ctor()]]></content>
-	<tabTrigger>WorldFactory_ctor</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * WorldFactory::ctor()</description>
-</snippet>

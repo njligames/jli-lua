@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintSliderBuilder.clone(${1:const  &})]]></content>
-	<tabTrigger>PhysicsConstraintSliderBuilder__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsConstraintSliderBuilder::clone(const  & object)</description>
-</snippet>

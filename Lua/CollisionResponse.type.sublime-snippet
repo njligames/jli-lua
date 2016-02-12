@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.CollisionResponse.type()]]></content>
-	<tabTrigger>CollisionResponse__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 CollisionResponse::type()</description>
-</snippet>

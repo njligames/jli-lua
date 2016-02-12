@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsBodySoftBuilder.load(${1: &},${2:lua_State *},${3:int})]]></content>
-	<tabTrigger>PhysicsBodySoftBuilder__load</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsBodySoftBuilder::load( & object,lua_State * L,int stack_index)</description>
-</snippet>

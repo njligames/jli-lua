@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[calculateSerializeBufferSize()]]></content>
-	<tabTrigger>Font_calculateSerializeBufferSize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 Font::calculateSerializeBufferSize()</description>
-</snippet>

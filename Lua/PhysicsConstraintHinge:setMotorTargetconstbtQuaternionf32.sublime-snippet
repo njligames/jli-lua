@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setMotorTarget(${1:const btQuaternion &},${2:f32})]]></content>
-	<tabTrigger>PhysicsConstraintHinge_setMotorTarget</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintHinge::setMotorTarget(const btQuaternion & qAinB,f32 dt)</description>
-</snippet>

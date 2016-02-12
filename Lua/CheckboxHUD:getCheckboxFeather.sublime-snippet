@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getCheckboxFeather()]]></content>
-	<tabTrigger>CheckboxHUD_getCheckboxFeather</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 CheckboxHUD::getCheckboxFeather()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeRootNode()]]></content>
-	<tabTrigger>Scene_removeRootNode</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Scene::removeRootNode()</description>
-</snippet>

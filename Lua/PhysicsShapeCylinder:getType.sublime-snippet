@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>PhysicsShapeCylinder_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 PhysicsShapeCylinder::getType()</description>
-</snippet>

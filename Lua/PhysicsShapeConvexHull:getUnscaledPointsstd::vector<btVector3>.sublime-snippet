@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getUnscaledPoints(${1:std::vector< btVector3 > &})]]></content>
-	<tabTrigger>PhysicsShapeConvexHull_getUnscaledPoints</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsShapeConvexHull::getUnscaledPoints(std::vector< btVector3 > & points)</description>
-</snippet>

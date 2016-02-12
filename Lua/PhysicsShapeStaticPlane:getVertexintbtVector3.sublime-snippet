@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getVertex(${1:int},${2:btVector3 &})]]></content>
-	<tabTrigger>PhysicsShapeStaticPlane_getVertex</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsShapeStaticPlane::getVertex(int i,btVector3 & vtx)</description>
-</snippet>

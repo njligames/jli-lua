@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getAngle(${1:int})]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6Dof_getAngle</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintGeneric6Dof::getAngle(int axis_index)</description>
-</snippet>

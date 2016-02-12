@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.CubeBuilder.create()]]></content>
-	<tabTrigger>CubeBuilder__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * CubeBuilder::create()</description>
-</snippet>

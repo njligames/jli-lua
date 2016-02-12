@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.StopWatchBuilder.clone(${1:const  &})]]></content>
-	<tabTrigger>StopWatchBuilder__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * StopWatchBuilder::clone(const  & object)</description>
-</snippet>

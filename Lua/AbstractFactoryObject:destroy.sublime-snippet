@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[destroy()]]></content>
-	<tabTrigger>AbstractFactoryObject_destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractFactoryObject::destroy()</description>
-</snippet>

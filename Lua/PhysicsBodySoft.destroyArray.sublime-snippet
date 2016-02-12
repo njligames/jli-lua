@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsBodySoft.destroyArray(${1: **})]]></content>
-	<tabTrigger>PhysicsBodySoft__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsBodySoft::destroyArray( ** array)</description>
-</snippet>

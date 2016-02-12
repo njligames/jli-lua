@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeParticleEmitter(${1: *})]]></content>
-	<tabTrigger>Node_removeParticleEmitter</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool Node::removeParticleEmitter( * emitter)</description>
-</snippet>

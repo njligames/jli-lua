@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.MaterialPropertyBuilder.clone(${1:const  &})]]></content>
-	<tabTrigger>MaterialPropertyBuilder__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * MaterialPropertyBuilder::clone(const  & object)</description>
-</snippet>

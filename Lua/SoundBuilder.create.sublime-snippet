@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.SoundBuilder.create()]]></content>
-	<tabTrigger>SoundBuilder__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * SoundBuilder::create()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>LuaBuilder_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void LuaBuilder::serialize()</description>
-</snippet>

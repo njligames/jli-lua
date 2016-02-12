@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintPointToPoint.type()]]></content>
-	<tabTrigger>PhysicsConstraintPointToPoint__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 PhysicsConstraintPointToPoint::type()</description>
-</snippet>

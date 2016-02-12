@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ImageBuilder.clone(${1:const  &})]]></content>
-	<tabTrigger>ImageBuilder__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * ImageBuilder::clone(const  & object)</description>
-</snippet>

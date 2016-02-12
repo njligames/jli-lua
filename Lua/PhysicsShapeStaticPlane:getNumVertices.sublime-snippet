@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumVertices()]]></content>
-	<tabTrigger>PhysicsShapeStaticPlane_getNumVertices</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int PhysicsShapeStaticPlane::getNumVertices()</description>
-</snippet>

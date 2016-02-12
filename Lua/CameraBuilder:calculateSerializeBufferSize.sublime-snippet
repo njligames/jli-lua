@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[calculateSerializeBufferSize()]]></content>
-	<tabTrigger>CameraBuilder_calculateSerializeBufferSize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 CameraBuilder::calculateSerializeBufferSize()</description>
-</snippet>

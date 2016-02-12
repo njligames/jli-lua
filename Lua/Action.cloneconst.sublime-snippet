@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Action.clone(${1:const  &})]]></content>
-	<tabTrigger>Action__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * Action::clone(const  & object)</description>
-</snippet>

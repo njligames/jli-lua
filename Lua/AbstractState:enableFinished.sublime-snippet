@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enableFinished()]]></content>
-	<tabTrigger>AbstractState_enableFinished</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractState::enableFinished()</description>
-</snippet>

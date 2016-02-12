@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>MaterialPropertyBuilder_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 MaterialPropertyBuilder::getType()</description>
-</snippet>

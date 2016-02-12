@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldState.clone(${1:const  &})]]></content>
-	<tabTrigger>WorldState__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * WorldState::clone(const  & object)</description>
-</snippet>

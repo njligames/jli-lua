@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getParticleEmitters(${1:std::vector<  * > &})]]></content>
-	<tabTrigger>Scene_getParticleEmitters</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Scene::getParticleEmitters(std::vector<  * > & particleEmitters)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setLocalScaling(${1:const btVector3 &})]]></content>
-	<tabTrigger>PhysicsShape_setLocalScaling</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsShape::setLocalScaling(const btVector3 & scaling)</description>
-</snippet>

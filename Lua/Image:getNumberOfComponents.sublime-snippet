@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumberOfComponents()]]></content>
-	<tabTrigger>Image_getNumberOfComponents</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u8 Image::getNumberOfComponents()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isInWorld()]]></content>
-	<tabTrigger>PhysicsBodySoft_isInWorld</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool PhysicsBodySoft::isInWorld()</description>
-</snippet>

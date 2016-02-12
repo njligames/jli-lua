@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintConeTwist.destroy(${1: *})]]></content>
-	<tabTrigger>PhysicsConstraintConeTwist__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsConstraintConeTwist::destroy( * object)</description>
-</snippet>

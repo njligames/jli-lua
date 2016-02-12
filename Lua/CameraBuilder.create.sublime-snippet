@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.CameraBuilder.create()]]></content>
-	<tabTrigger>CameraBuilder__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * CameraBuilder::create()</description>
-</snippet>

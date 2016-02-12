@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraint.copy(${1:const  &})]]></content>
-	<tabTrigger>PhysicsConstraint__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsConstraint::copy(const  & object)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setDimensions(${1:const  &})]]></content>
-	<tabTrigger>ButtonHUD_setDimensions</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ButtonHUD::setDimensions(const  & dim)</description>
-</snippet>

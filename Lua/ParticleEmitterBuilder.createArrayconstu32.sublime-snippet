@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ParticleEmitterBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>ParticleEmitterBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** ParticleEmitterBuilder::createArray(const u32 size)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getPoweredLinMotor()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getPoweredLinMotor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool PhysicsConstraintSlider::getPoweredLinMotor()</description>
-</snippet>

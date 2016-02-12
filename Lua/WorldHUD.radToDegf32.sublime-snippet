@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldHUD.radToDeg(${1:f32})]]></content>
-	<tabTrigger>WorldHUD__radToDeg</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static f32 WorldHUD::radToDeg(f32 rad)</description>
-</snippet>

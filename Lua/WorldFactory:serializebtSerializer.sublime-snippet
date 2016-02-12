@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize(${1:btSerializer *})]]></content>
-	<tabTrigger>WorldFactory_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldFactory::serialize(btSerializer * serializer)</description>
-</snippet>

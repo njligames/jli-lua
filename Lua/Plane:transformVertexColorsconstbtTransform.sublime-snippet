@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[transformVertexColors(${1: *},${2:const btTransform &})]]></content>
-	<tabTrigger>Plane_transformVertexColors</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Plane::transformVertexColors( * node,const btTransform & transform)</description>
-</snippet>

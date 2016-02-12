@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ParticleEmitterBuilder.type()]]></content>
-	<tabTrigger>ParticleEmitterBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 ParticleEmitterBuilder::type()</description>
-</snippet>

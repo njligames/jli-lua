@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isLoadedGPU()]]></content>
-	<tabTrigger>Geometry_isLoadedGPU</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool Geometry::isLoadedGPU()</description>
-</snippet>

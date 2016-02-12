@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setAngle(${1:const f32 &})]]></content>
-	<tabTrigger>ParticleEmitter_setAngle</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ParticleEmitter::setAngle(const f32 & value)</description>
-</snippet>

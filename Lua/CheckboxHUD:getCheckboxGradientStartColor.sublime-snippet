@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getCheckboxGradientStartColor()]]></content>
-	<tabTrigger>CheckboxHUD_getCheckboxGradientStartColor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const btVector4 & CheckboxHUD::getCheckboxGradientStartColor()</description>
-</snippet>

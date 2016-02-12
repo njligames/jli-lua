@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getMinRadiusVariance()]]></content>
-	<tabTrigger>ParticleEmitter_getMinRadiusVariance</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const f32 & ParticleEmitter::getMinRadiusVariance()</description>
-</snippet>

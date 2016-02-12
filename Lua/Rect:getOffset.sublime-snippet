@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getOffset()]]></content>
-	<tabTrigger>Rect_getOffset</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const  & Rect::getOffset()</description>
-</snippet>

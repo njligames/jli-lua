@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ShaderProgram.copy(${1:const  &})]]></content>
-	<tabTrigger>ShaderProgram__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * ShaderProgram::copy(const  & object)</description>
-</snippet>

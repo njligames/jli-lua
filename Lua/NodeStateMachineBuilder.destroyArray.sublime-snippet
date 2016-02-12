@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.NodeStateMachineBuilder.destroyArray(${1: **})]]></content>
-	<tabTrigger>NodeStateMachineBuilder__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void NodeStateMachineBuilder::destroyArray( ** array)</description>
-</snippet>

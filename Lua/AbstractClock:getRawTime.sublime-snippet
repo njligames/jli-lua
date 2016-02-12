@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getRawTime()]]></content>
-	<tabTrigger>AbstractClock_getRawTime</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s64 AbstractClock::getRawTime()</description>
-</snippet>

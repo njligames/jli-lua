@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[normalize()]]></content>
-	<tabTrigger>tVector2_normalize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>SIMD_FORCE_INLINE  & tVector2::normalize()</description>
-</snippet>

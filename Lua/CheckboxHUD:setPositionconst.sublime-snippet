@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setPosition(${1:const  &})]]></content>
-	<tabTrigger>CheckboxHUD_setPosition</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void CheckboxHUD::setPosition(const  & pos)</description>
-</snippet>

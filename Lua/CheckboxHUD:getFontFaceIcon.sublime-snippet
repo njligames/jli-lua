@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getFontFaceIcon()]]></content>
-	<tabTrigger>CheckboxHUD_getFontFaceIcon</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * CheckboxHUD::getFontFaceIcon()</description>
-</snippet>

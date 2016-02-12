@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[calculateSerializeBufferSize()]]></content>
-	<tabTrigger>PhysicsShapeSphereBuilder_calculateSerializeBufferSize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 PhysicsShapeSphereBuilder::calculateSerializeBufferSize()</description>
-</snippet>

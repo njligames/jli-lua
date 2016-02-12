@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.StopWatch.destroyArray(${1: **})]]></content>
-	<tabTrigger>StopWatch__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void StopWatch::destroyArray( ** array)</description>
-</snippet>

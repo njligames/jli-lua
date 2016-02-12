@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setCheckboxGradientEndColor(${1:const btVector4 &})]]></content>
-	<tabTrigger>CheckboxHUD_setCheckboxGradientEndColor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void CheckboxHUD::setCheckboxGradientEndColor(const btVector4 & end)</description>
-</snippet>

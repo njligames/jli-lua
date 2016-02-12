@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getClosestHitFraction()]]></content>
-	<tabTrigger>PhysicsRayContact_getClosestHitFraction</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsRayContact::getClosestHitFraction()</description>
-</snippet>

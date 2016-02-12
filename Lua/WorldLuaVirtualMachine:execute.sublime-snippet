@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[execute()]]></content>
-	<tabTrigger>WorldLuaVirtualMachine_execute</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool WorldLuaVirtualMachine::execute()</description>
-</snippet>

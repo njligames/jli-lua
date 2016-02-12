@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumPreferredPenetrationDirections()]]></content>
-	<tabTrigger>PhysicsShapeBox2D_getNumPreferredPenetrationDirections</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int PhysicsShapeBox2D::getNumPreferredPenetrationDirections()</description>
-</snippet>

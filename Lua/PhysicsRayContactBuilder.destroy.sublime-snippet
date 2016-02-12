@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsRayContactBuilder.destroy(${1: *})]]></content>
-	<tabTrigger>PhysicsRayContactBuilder__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsRayContactBuilder::destroy( * object)</description>
-</snippet>

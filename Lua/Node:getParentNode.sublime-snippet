@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getParentNode()]]></content>
-	<tabTrigger>Node_getParentNode</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * Node::getParentNode()</description>
-</snippet>

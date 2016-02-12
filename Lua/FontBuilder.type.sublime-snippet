@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.FontBuilder.type()]]></content>
-	<tabTrigger>FontBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 FontBuilder::type()</description>
-</snippet>

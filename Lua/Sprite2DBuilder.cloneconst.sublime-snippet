@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Sprite2DBuilder.clone(${1:const  &})]]></content>
-	<tabTrigger>Sprite2DBuilder__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * Sprite2DBuilder::clone(const  & object)</description>
-</snippet>

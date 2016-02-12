@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldStateMachine.create()]]></content>
-	<tabTrigger>WorldStateMachine__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * WorldStateMachine::create()</description>
-</snippet>

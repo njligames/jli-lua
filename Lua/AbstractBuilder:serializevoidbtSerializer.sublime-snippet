@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize(${1:void *},${2:btSerializer *})]]></content>
-	<tabTrigger>AbstractBuilder_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractBuilder::serialize(void * dataBuffer,btSerializer * serializer)</description>
-</snippet>

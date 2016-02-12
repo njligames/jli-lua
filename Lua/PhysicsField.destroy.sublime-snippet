@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsField.destroy(${1: *})]]></content>
-	<tabTrigger>PhysicsField__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsField::destroy( * object)</description>
-</snippet>

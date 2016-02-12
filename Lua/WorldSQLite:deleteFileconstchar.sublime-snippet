@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[deleteFile(${1:const char *})]]></content>
-	<tabTrigger>WorldSQLite_deleteFile</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool WorldSQLite::deleteFile(const char * filename)</description>
-</snippet>

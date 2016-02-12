@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumObjectsDrawn()]]></content>
-	<tabTrigger>SceneRenderer_getNumObjectsDrawn</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 SceneRenderer::getNumObjectsDrawn()</description>
-</snippet>

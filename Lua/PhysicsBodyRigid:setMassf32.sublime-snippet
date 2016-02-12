@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setMass(${1:f32})]]></content>
-	<tabTrigger>PhysicsBodyRigid_setMass</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsBodyRigid::setMass(f32 mass)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getMargin()]]></content>
-	<tabTrigger>PhysicsShapeSphere_getMargin</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsShapeSphere::getMargin()</description>
-</snippet>

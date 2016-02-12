@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>ShaderProgram_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 ShaderProgram::getType()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.SliderHUD.create()]]></content>
-	<tabTrigger>SliderHUD__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * SliderHUD::create()</description>
-</snippet>

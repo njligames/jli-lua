@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.LightBuilder.type()]]></content>
-	<tabTrigger>LightBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 LightBuilder::type()</description>
-</snippet>

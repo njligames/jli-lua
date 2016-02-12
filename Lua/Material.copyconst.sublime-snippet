@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Material.copy(${1:const  &})]]></content>
-	<tabTrigger>Material__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * Material::copy(const  & object)</description>
-</snippet>

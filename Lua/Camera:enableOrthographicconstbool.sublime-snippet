@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enableOrthographic(${1:const bool})]]></content>
-	<tabTrigger>Camera_enableOrthographic</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Camera::enableOrthographic(const bool enable)</description>
-</snippet>

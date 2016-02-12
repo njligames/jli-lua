@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[clear()]]></content>
-	<tabTrigger>ForceAndPosition_clear</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ForceAndPosition::clear()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hide()]]></content>
-	<tabTrigger>AbstractFrameBufferObject_hide</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractFrameBufferObject::hide()</description>
-</snippet>

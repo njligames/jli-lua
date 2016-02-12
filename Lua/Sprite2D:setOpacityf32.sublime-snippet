@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setOpacity(${1: *},${2:f32})]]></content>
-	<tabTrigger>Sprite2D_setOpacity</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Sprite2D::setOpacity( * node,f32 opacity)</description>
-</snippet>

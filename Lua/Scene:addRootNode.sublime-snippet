@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addRootNode(${1: *})]]></content>
-	<tabTrigger>Scene_addRootNode</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Scene::addRootNode( * node)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getCharge()]]></content>
-	<tabTrigger>PhysicsBodyRigid_getCharge</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsBodyRigid::getCharge()</description>
-</snippet>

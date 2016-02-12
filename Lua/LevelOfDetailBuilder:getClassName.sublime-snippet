@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getClassName()]]></content>
-	<tabTrigger>LevelOfDetailBuilder_getClassName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * LevelOfDetailBuilder::getClassName()</description>
-</snippet>

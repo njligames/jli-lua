@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getForce()]]></content>
-	<tabTrigger>ForceAndPosition_getForce</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const btVector3 & ForceAndPosition::getForce()</description>
-</snippet>

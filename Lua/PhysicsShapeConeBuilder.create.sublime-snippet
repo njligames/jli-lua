@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeConeBuilder.create()]]></content>
-	<tabTrigger>PhysicsShapeConeBuilder__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsShapeConeBuilder::create()</description>
-</snippet>

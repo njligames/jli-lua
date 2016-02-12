@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getAngDepth()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getAngDepth</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintSlider::getAngDepth()</description>
-</snippet>

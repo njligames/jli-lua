@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setFresnelExponenet(${1:const f32})]]></content>
-	<tabTrigger>Material_setFresnelExponenet</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Material::setFresnelExponenet(const f32 val)</description>
-</snippet>

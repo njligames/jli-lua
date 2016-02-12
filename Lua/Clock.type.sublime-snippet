@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Clock.type()]]></content>
-	<tabTrigger>Clock__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 Clock::type()</description>
-</snippet>

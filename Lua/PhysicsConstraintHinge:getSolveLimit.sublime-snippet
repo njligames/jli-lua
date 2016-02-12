@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getSolveLimit()]]></content>
-	<tabTrigger>PhysicsConstraintHinge_getSolveLimit</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int PhysicsConstraintHinge::getSolveLimit()</description>
-</snippet>

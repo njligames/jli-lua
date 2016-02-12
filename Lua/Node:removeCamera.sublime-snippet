@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeCamera()]]></content>
-	<tabTrigger>Node_removeCamera</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::removeCamera()</description>
-</snippet>

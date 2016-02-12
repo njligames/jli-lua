@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[textBreakLines(${1:const s8 *},${2:const s8 *},${3:f32})]]></content>
-	<tabTrigger>WorldHUD_textBreakLines</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btAlignedObjectArray<  > WorldHUD::textBreakLines(const s8 * string,const s8 * end,f32 breakRowWidth)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Scene.copy(${1:const  &})]]></content>
-	<tabTrigger>Scene__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * Scene::copy(const  & object)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setMinRadius(${1:const f32 &})]]></content>
-	<tabTrigger>ParticleEmitter_setMinRadius</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ParticleEmitter::setMinRadius(const f32 & value)</description>
-</snippet>

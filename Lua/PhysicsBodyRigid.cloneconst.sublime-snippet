@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsBodyRigid.clone(${1:const  &})]]></content>
-	<tabTrigger>PhysicsBodyRigid__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsBodyRigid::clone(const  & object)</description>
-</snippet>

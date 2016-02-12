@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumberOfVertexColors(${1: *},${2: *})]]></content>
-	<tabTrigger>Sprite2D_getNumberOfVertexColors</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u64 Sprite2D::getNumberOfVertexColors( * geometry, * node)</description>
-</snippet>

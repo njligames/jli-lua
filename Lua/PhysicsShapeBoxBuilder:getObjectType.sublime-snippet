@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getObjectType()]]></content>
-	<tabTrigger>PhysicsShapeBoxBuilder_getObjectType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u32 PhysicsShapeBoxBuilder::getObjectType()</description>
-</snippet>

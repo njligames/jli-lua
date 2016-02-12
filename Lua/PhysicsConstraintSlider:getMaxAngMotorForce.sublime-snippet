@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getMaxAngMotorForce()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getMaxAngMotorForce</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintSlider::getMaxAngMotorForce()</description>
-</snippet>

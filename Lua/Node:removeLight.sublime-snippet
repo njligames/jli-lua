@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeLight()]]></content>
-	<tabTrigger>Node_removeLight</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::removeLight()</description>
-</snippet>

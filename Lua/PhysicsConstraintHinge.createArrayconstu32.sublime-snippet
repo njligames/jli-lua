@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintHinge.createArray(${1:const u32})]]></content>
-	<tabTrigger>PhysicsConstraintHinge__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** PhysicsConstraintHinge::createArray(const u32 size)</description>
-</snippet>

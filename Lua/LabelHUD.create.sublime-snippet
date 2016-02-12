@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.LabelHUD.create()]]></content>
-	<tabTrigger>LabelHUD__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * LabelHUD::create()</description>
-</snippet>

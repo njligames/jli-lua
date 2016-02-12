@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintHingeBuilder.type()]]></content>
-	<tabTrigger>PhysicsConstraintHingeBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 PhysicsConstraintHingeBuilder::type()</description>
-</snippet>

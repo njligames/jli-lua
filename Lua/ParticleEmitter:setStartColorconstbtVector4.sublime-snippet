@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setStartColor(${1:const btVector4 &})]]></content>
-	<tabTrigger>ParticleEmitter_setStartColor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ParticleEmitter::setStartColor(const btVector4 & value)</description>
-</snippet>

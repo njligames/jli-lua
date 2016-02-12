@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[testLimit(${1:const btTransform &},${2:const btTransform &})]]></content>
-	<tabTrigger>PhysicsConstraintHinge_testLimit</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintHinge::testLimit(const btTransform & transA,const btTransform & transB)</description>
-</snippet>

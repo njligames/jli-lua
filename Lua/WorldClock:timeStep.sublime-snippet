@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[timeStep()]]></content>
-	<tabTrigger>WorldClock_timeStep</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 WorldClock::timeStep()</description>
-</snippet>

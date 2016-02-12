@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.LuaBuilder.type()]]></content>
-	<tabTrigger>LuaBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 LuaBuilder::type()</description>
-</snippet>

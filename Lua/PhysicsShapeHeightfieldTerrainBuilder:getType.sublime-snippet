@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>PhysicsShapeHeightfieldTerrainBuilder_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 PhysicsShapeHeightfieldTerrainBuilder::getType()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[show()]]></content>
-	<tabTrigger>AbstractFrameBufferObject_show</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractFrameBufferObject::show()</description>
-</snippet>

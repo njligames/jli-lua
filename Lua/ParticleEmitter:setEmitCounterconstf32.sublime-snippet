@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setEmitCounter(${1:const f32 &})]]></content>
-	<tabTrigger>ParticleEmitter_setEmitCounter</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ParticleEmitter::setEmitCounter(const f32 & value)</description>
-</snippet>

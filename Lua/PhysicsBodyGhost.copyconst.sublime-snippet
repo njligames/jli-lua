@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsBodyGhost.copy(${1:const  &})]]></content>
-	<tabTrigger>PhysicsBodyGhost__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsBodyGhost::copy(const  & object)</description>
-</snippet>

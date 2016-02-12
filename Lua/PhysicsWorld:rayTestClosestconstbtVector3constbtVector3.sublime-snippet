@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[rayTestClosest(${1:const btVector3 &},${2:const btVector3 &},${3: &},${4:},${5:})]]></content>
-	<tabTrigger>PhysicsWorld_rayTestClosest</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool PhysicsWorld::rayTestClosest(const btVector3 & rayFromWorld,const btVector3 & rayToWorld, & rayContact, collisionGroup, collisionMask)</description>
-</snippet>

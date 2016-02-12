@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lineTo(${1:const  &})]]></content>
-	<tabTrigger>WorldHUD_lineTo</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::lineTo(const  & position)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ForceAndPosition(${1:const  &})]]></content>
-	<tabTrigger>ForceAndPosition_ForceAndPosition</tabTrigger>
-	<scope>source.lua</scope>
-	<description> ForceAndPosition::ForceAndPosition(const  & copy)</description>
-</snippet>

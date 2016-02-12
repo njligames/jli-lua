@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>PlaneBuilder_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PlaneBuilder::serialize()</description>
-</snippet>

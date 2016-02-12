@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getWorldInput()]]></content>
-	<tabTrigger>World_getWorldInput</tabTrigger>
-	<scope>source.lua</scope>
-	<description>WorldInput * World::getWorldInput()</description>
-</snippet>

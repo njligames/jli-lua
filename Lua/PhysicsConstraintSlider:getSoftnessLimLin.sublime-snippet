@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getSoftnessLimLin()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getSoftnessLimLin</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintSlider::getSoftnessLimLin()</description>
-</snippet>

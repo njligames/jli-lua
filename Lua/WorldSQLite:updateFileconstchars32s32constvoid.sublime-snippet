@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[updateFile(${1:const char *},${2:s32},${3:s32},${4:const void *})]]></content>
-	<tabTrigger>WorldSQLite_updateFile</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool WorldSQLite::updateFile(const char * filename,s32 offset,s32 size,const void * buffer)</description>
-</snippet>

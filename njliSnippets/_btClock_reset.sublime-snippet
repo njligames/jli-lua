@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+reset()
+]]></content>
+<tabTrigger>btClock:reset</tabTrigger>
+<scope>source.lua</scope>
+</snippet>
+

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[calculateLocalInertia(${1:f32},${2:btVector3 &})]]></content>
-	<tabTrigger>PhysicsShapeCylinder_calculateLocalInertia</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsShapeCylinder::calculateLocalInertia(f32 mass,btVector3 & inertia)</description>
-</snippet>

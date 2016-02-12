@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeBvhTriangleMeshBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>PhysicsShapeBvhTriangleMeshBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** PhysicsShapeBvhTriangleMeshBuilder::createArray(const u32 size)</description>
-</snippet>

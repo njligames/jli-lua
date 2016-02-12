@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getLevelOfDetail(${1:const u32})]]></content>
-	<tabTrigger>Geometry_getLevelOfDetail</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * Geometry::getLevelOfDetail(const u32 index)</description>
-</snippet>

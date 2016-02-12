@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getName()]]></content>
-	<tabTrigger>AbstractDecorator_getName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * AbstractDecorator::getName()</description>
-</snippet>

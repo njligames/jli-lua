@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Light.create()]]></content>
-	<tabTrigger>Light__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * Light::create()</description>
-</snippet>

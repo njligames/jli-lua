@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>Clock_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Clock::serialize()</description>
-</snippet>

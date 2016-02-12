@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getClassName()]]></content>
-	<tabTrigger>PhysicsShapeBvhTriangleMesh_getClassName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * PhysicsShapeBvhTriangleMesh::getClassName()</description>
-</snippet>

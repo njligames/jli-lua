@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[execute(${1:const char *},${2:DeviceTouch **})]]></content>
-	<tabTrigger>WorldLuaVirtualMachine_execute</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool WorldLuaVirtualMachine::execute(const char * code,DeviceTouch ** m_CurrentTouches)</description>
-</snippet>

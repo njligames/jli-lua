@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setMaxMotorImpulse(${1:f32})]]></content>
-	<tabTrigger>PhysicsConstraintConeTwist_setMaxMotorImpulse</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintConeTwist::setMaxMotorImpulse(f32 maxMotorImpulse)</description>
-</snippet>

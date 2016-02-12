@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsWorldBuilder.create()]]></content>
-	<tabTrigger>PhysicsWorldBuilder__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsWorldBuilder::create()</description>
-</snippet>

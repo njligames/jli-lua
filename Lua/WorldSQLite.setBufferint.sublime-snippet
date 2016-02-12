@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldSQLite.setBuffer(${1:int})]]></content>
-	<tabTrigger>WorldSQLite__setBuffer</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void WorldSQLite::setBuffer(int size)</description>
-</snippet>

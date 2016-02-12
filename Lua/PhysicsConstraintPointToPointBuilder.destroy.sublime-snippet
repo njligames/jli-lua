@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintPointToPointBuilder.destroy(${1: *})]]></content>
-	<tabTrigger>PhysicsConstraintPointToPointBuilder__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsConstraintPointToPointBuilder::destroy( * object)</description>
-</snippet>

@@ -1,0 +1,154 @@
+<snippet>
+	<content><![CDATA[
+local actionUpdate = function(self, action, timeStep)
+    local node = action:getParent()
+    local nodeName = node:getName()
+    local nodeStateName = node:getStateMachine():getState():getName()
+end
+
+local actionComplete = function(self, action)
+end
+
+local hide = function(self, camera)
+    self.node:hide(camera)
+end
+
+local enter = function(self)
+    local nodeName = self.node:getName()
+    local nodeStateName = self.node:getStateMachine():getState():getName()
+    print("enter (" .. nodeName .. "->" .. nodeStateName .. ")")
+
+end
+
+local update = function(self, timeStep)
+    local nodeName = self.node:getName()
+    local nodeStateName = self.node:getStateMachine():getState():getName()
+    print("update (" .. nodeName .. "->" .. nodeStateName .. ")")
+
+end
+
+local exit = function(self)
+    local nodeName = self.node:getName()
+    local nodeStateName = self.node:getStateMachine():getState():getName()
+    print("exit (" .. nodeName .. "->" .. nodeStateName .. ")")
+
+end
+
+local onMessage = function(self, message)
+end
+
+local collide = function(self, otherNode, collisionPoint)
+    local myGroup = self.node:getPhysicsBody():getCollisionGroup()
+    local otherGroup = otherNode:getPhysicsBody():getCollisionGroup()
+    local nodeStateName = self.node:getStateMachine():getState():getName()
+    local otherStateName = otherNode:getStateMachine():getState():getName()
+end
+
+local near = function(self, otherNode)
+end
+
+local touchDown = function(self, rayContact)
+end
+
+local touchUp = function(self, rayContact)
+end
+
+local touchMove = function(self, rayContact)
+end
+
+local touchCancelled = function(self, rayContact)
+end
+
+local delete = function(self)
+    local nodeName = self.node:getName()
+
+    JLI.PhysicsShape.destroy(self.physicsShape)
+    self.physicsShape = nil
+
+    JLI.PhysicsBody.destroy(self.physicsBody)
+    self.physicsBody = nil
+
+    JLI.Node.destroy(self.node)
+    self.node = nil
+
+    for k,v in pairs(self.nodeStates) do
+        JLI.NodeState.destroy(self.nodeStates[k])
+        self.nodeStates[k] = nil
+    end
+    self.nodeStates = nil
+
+    print("delete (" .. nodeName .. ")")
+end
+
+local methods = 
+{
+    actionUpdate = actionUpdate,
+    actionComplete = actionComplete,
+    hide = hide,
+    enter = enter,
+    update = update,
+    exit = exit,
+    onMessage = onMessage,
+    collide = collide,
+    near = near,
+    touchDown = touchDown,
+    touchUp = touchUp,
+    touchMove = touchMove,
+    touchCancelled = touchCancelled,
+    __gc = delete
+}
+
+local new = function(name, geometry)
+    print("new (" .. name .. ")")
+
+    local node = JLI.Node.create()
+    node:setName(name)
+
+    local names =
+    {
+        display = name,
+    }
+    local nodeStates = {}
+
+    for k,v in pairs(names) do
+        nodeStates[k] = JLI.NodeState.create()
+        nodeStates[k]:setName(names[k])
+    end
+
+    node:addGeometry(geometry)
+
+    local physicsBody = JLI.PhysicsBodyRigid.create()
+    physicsBody:setStaticPhysics()
+    node:addPhysicsBody(physicsBody)
+
+    local physicsShape = JLI.PhysicsShapeBox.create()
+    physicsShape:setMargin(1)
+    physicsBody:addPhysicsShape(physicsShape)
+
+    node:getStateMachine():pushState(nodeStates.display)
+
+    JLI.World.getInstance():getScene():getRootNode():addChildNode(node)
+    
+    local properties = 
+    {
+        node = node,
+        nodeStates = nodeStates,
+        nodeStateNames = names,
+
+        physicsBody = physicsBody,
+        physicsShape = physicsShape,
+
+    }
+    return setmetatable(properties, {__index = methods})
+end
+
+return {
+  new = new,
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>luaNodeObjectClass</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.lua</scope>
+</snippet>

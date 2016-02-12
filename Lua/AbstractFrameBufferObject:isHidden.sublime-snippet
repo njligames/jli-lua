@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isHidden()]]></content>
-	<tabTrigger>AbstractFrameBufferObject_isHidden</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool AbstractFrameBufferObject::isHidden()</description>
-</snippet>

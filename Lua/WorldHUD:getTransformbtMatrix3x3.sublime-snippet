@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getTransform(${1:btMatrix3x3 &})]]></content>
-	<tabTrigger>WorldHUD_getTransform</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::getTransform(btMatrix3x3 & xform)</description>
-</snippet>

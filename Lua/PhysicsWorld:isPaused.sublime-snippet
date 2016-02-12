@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isPaused()]]></content>
-	<tabTrigger>PhysicsWorld_isPaused</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool PhysicsWorld::isPaused()</description>
-</snippet>

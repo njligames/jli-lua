@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsField.copy(${1:const  &})]]></content>
-	<tabTrigger>PhysicsField__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsField::copy(const  & object)</description>
-</snippet>

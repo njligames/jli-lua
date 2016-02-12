@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Action.createSequence(${1: **},${2:u32})]]></content>
-	<tabTrigger>Action__createSequence</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * Action::createSequence( ** actions,u32 size)</description>
-</snippet>

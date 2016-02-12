@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeCapsule.create()]]></content>
-	<tabTrigger>PhysicsShapeCapsule__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsShapeCapsule::create()</description>
-</snippet>

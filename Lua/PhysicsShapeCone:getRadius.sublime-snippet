@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getRadius()]]></content>
-	<tabTrigger>PhysicsShapeCone_getRadius</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsShapeCone::getRadius()</description>
-</snippet>

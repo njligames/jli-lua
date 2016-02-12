@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getMass()]]></content>
-	<tabTrigger>PhysicsBodyRigid_getMass</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsBodyRigid::getMass()</description>
-</snippet>

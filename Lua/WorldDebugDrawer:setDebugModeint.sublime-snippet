@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setDebugMode(${1:int})]]></content>
-	<tabTrigger>WorldDebugDrawer_setDebugMode</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldDebugDrawer::setDebugMode(int debugMode)</description>
-</snippet>

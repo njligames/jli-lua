@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[set(${1:const btVector3 &},${2:const btVector3 &})]]></content>
-	<tabTrigger>ForceAndPosition_set</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ForceAndPosition::set(const btVector3 & force,const btVector3 & position)</description>
-</snippet>

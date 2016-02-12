@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[compile(${1:const char *},${2:})]]></content>
-	<tabTrigger>ShaderProgram_compile</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool ShaderProgram::compile(const char * fileContent, type)</description>
-</snippet>

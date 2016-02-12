@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removePhysicsBody()]]></content>
-	<tabTrigger>Node_removePhysicsBody</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::removePhysicsBody()</description>
-</snippet>

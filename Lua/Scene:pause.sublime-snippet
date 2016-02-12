@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pause()]]></content>
-	<tabTrigger>Scene_pause</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Scene::pause()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[bindAttribute(${1:const char *})]]></content>
-	<tabTrigger>ShaderProgram_bindAttribute</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ShaderProgram::bindAttribute(const char * attributeName)</description>
-</snippet>

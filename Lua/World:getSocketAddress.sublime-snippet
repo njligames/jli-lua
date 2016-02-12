@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getSocketAddress()]]></content>
-	<tabTrigger>World_getSocketAddress</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * World::getSocketAddress()</description>
-</snippet>

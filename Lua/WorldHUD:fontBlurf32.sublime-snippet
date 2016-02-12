@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fontBlur(${1:f32})]]></content>
-	<tabTrigger>WorldHUD_fontBlur</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::fontBlur(f32 blur)</description>
-</snippet>

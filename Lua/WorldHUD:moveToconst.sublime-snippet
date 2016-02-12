@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[moveTo(${1:const  &})]]></content>
-	<tabTrigger>WorldHUD_moveTo</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::moveTo(const  & position)</description>
-</snippet>

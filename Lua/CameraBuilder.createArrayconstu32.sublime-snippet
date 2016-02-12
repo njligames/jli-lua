@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.CameraBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>CameraBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** CameraBuilder::createArray(const u32 size)</description>
-</snippet>

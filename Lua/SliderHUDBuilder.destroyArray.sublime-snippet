@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.SliderHUDBuilder.destroyArray(${1: **})]]></content>
-	<tabTrigger>SliderHUDBuilder__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void SliderHUDBuilder::destroyArray( ** array)</description>
-</snippet>

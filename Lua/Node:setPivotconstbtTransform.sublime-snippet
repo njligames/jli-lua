@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setPivot(${1:const btTransform &})]]></content>
-	<tabTrigger>Node_setPivot</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::setPivot(const btTransform & pivot)</description>
-</snippet>

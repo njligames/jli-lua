@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setAngularVelocityFactor(${1:const btVector3 &})]]></content>
-	<tabTrigger>PhysicsBodyRigid_setAngularVelocityFactor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsBodyRigid::setAngularVelocityFactor(const btVector3 & factor)</description>
-</snippet>

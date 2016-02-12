@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getTransform()]]></content>
-	<tabTrigger>AbstractTransform_getTransform</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btTransform & AbstractTransform::getTransform()</description>
-</snippet>

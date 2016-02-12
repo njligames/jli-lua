@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getHitNode()]]></content>
-	<tabTrigger>PhysicsRayContact_getHitNode</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * PhysicsRayContact::getHitNode()</description>
-</snippet>

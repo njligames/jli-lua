@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[onMessage()]]></content>
-	<tabTrigger>WorldState_onMessage</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool WorldState::onMessage()</description>
-</snippet>

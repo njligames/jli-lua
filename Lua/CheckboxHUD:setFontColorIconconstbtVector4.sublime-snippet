@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setFontColorIcon(${1:const btVector4 &})]]></content>
-	<tabTrigger>CheckboxHUD_setFontColorIcon</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void CheckboxHUD::setFontColorIcon(const btVector4 & color)</description>
-</snippet>

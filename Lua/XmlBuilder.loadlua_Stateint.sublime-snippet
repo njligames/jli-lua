@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.XmlBuilder.load(${1: &},${2:lua_State *},${3:int})]]></content>
-	<tabTrigger>XmlBuilder__load</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void XmlBuilder::load( & object,lua_State * L,int stack_index)</description>
-</snippet>

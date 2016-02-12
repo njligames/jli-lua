@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ShaderProgramBuilder.load(${1: &},${2:lua_State *},${3:int})]]></content>
-	<tabTrigger>ShaderProgramBuilder__load</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void ShaderProgramBuilder::load( & object,lua_State * L,int stack_index)</description>
-</snippet>

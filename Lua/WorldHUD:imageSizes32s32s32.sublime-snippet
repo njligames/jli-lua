@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[imageSize(${1:s32},${2:s32 &},${3:s32 &})]]></content>
-	<tabTrigger>WorldHUD_imageSize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::imageSize(s32 imageHandle,s32 & w,s32 & h)</description>
-</snippet>

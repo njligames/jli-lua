@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setCullMode(${1:const })]]></content>
-	<tabTrigger>Material_setCullMode</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Material::setCullMode(const  mode)</description>
-</snippet>

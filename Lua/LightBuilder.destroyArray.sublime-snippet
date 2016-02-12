@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.LightBuilder.destroyArray(${1: **})]]></content>
-	<tabTrigger>LightBuilder__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void LightBuilder::destroyArray( ** array)</description>
-</snippet>

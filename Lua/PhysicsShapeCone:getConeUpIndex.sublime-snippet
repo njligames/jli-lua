@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getConeUpIndex()]]></content>
-	<tabTrigger>PhysicsShapeCone_getConeUpIndex</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int PhysicsShapeCone::getConeUpIndex()</description>
-</snippet>

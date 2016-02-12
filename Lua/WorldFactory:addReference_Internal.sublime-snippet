@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addReference_Internal()]]></content>
-	<tabTrigger>WorldFactory_addReference_Internal</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool WorldFactory::addReference_Internal()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeConvexHull.copy(${1:const  &})]]></content>
-	<tabTrigger>PhysicsShapeConvexHull__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsShapeConvexHull::copy(const  & object)</description>
-</snippet>

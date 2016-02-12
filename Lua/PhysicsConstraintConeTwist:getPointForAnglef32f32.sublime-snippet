@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getPointForAngle(${1:f32},${2:f32})]]></content>
-	<tabTrigger>PhysicsConstraintConeTwist_getPointForAngle</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btVector3 PhysicsConstraintConeTwist::getPointForAngle(f32 fAngleInRadians,f32 fLength)</description>
-</snippet>

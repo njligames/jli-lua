@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enableContactResponse(${1:bool})]]></content>
-	<tabTrigger>PhysicsBody_enableContactResponse</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsBody::enableContactResponse(bool enable)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeSphere.copy(${1:const  &})]]></content>
-	<tabTrigger>PhysicsShapeSphere__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsShapeSphere::copy(const  & object)</description>
-</snippet>

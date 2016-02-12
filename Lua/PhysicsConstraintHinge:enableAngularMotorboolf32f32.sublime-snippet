@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enableAngularMotor(${1:bool},${2:f32},${3:f32})]]></content>
-	<tabTrigger>PhysicsConstraintHinge_enableAngularMotor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintHinge::enableAngularMotor(bool enableMotor,f32 targetVelocity,f32 maxMotorImpulse)</description>
-</snippet>

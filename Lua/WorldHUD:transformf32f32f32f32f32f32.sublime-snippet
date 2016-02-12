@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[transform(${1:f32},${2:f32},${3:f32},${4:f32},${5:f32},${6:f32})]]></content>
-	<tabTrigger>WorldHUD_transform</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::transform(f32 scaleX,f32 skewY,f32 skewX,f32 scaleY,f32 x,f32 y)</description>
-</snippet>

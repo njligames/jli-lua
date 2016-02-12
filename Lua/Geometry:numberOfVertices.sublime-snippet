@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[numberOfVertices()]]></content>
-	<tabTrigger>Geometry_numberOfVertices</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 Geometry::numberOfVertices()</description>
-</snippet>

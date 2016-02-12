@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getObjectType()]]></content>
-	<tabTrigger>PhysicsConstraintSliderBuilder_getObjectType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u32 PhysicsConstraintSliderBuilder::getObjectType()</description>
-</snippet>

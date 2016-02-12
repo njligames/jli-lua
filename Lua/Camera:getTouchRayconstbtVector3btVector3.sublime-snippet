@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getTouchRay(${1:const  &},${2:btVector3 &},${3:btVector3 &})]]></content>
-	<tabTrigger>Camera_getTouchRay</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Camera::getTouchRay(const  & windowPosition,btVector3 & from,btVector3 & to)</description>
-</snippet>

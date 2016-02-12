@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ClockBuilder.create()]]></content>
-	<tabTrigger>ClockBuilder__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * ClockBuilder::create()</description>
-</snippet>

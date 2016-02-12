@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumberOfVertexColors(${1: *})]]></content>
-	<tabTrigger>Geometry_getNumberOfVertexColors</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u64 Geometry::getNumberOfVertexColors( * geometry)</description>
-</snippet>

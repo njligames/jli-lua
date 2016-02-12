@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[createFont(${1:const s8 *},${2:const s8 *})]]></content>
-	<tabTrigger>WorldHUD_createFont</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 WorldHUD::createFont(const s8 * name,const s8 * filename)</description>
-</snippet>

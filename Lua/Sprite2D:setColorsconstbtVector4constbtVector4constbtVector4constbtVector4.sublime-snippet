@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setColors(${1: *},${2:const btVector4 &},${3:const btVector4 &},${4:const btVector4 &},${5:const btVector4 &})]]></content>
-	<tabTrigger>Sprite2D_setColors</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Sprite2D::setColors( * node,const btVector4 & bottomLeft,const btVector4 & bottomRight,const btVector4 & topLeft,const btVector4 & topRight)</description>
-</snippet>

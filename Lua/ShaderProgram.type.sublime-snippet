@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ShaderProgram.type()]]></content>
-	<tabTrigger>ShaderProgram__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 ShaderProgram::type()</description>
-</snippet>

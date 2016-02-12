@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setRestitutionLimLin(${1:f32})]]></content>
-	<tabTrigger>PhysicsConstraintSlider_setRestitutionLimLin</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintSlider::setRestitutionLimLin(f32 restitutionLimLin)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>WorldStateBuilder_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldStateBuilder::serialize()</description>
-</snippet>

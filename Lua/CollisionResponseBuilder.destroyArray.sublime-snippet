@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.CollisionResponseBuilder.destroyArray(${1: **})]]></content>
-	<tabTrigger>CollisionResponseBuilder__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void CollisionResponseBuilder::destroyArray( ** array)</description>
-</snippet>

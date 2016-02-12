@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+btClock()
+]]></content>
+<tabTrigger>btClock:btClock</tabTrigger>
+<scope>source.lua</scope>
+</snippet>
+

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Image.createSubImage(${1:const  &},${2:const  &},${3:const  &})]]></content>
-	<tabTrigger>Image__createSubImage</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * Image::createSubImage(const  & imageSource,const  & position,const  & dimensions)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[handleCollide(${1: *},${2:const btManifoldPoint &})]]></content>
-	<tabTrigger>PhysicsBody_handleCollide</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsBody::handleCollide( * body,const btManifoldPoint & pt)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeConvexTriangleMeshBuilder.clone(${1:const  &})]]></content>
-	<tabTrigger>PhysicsShapeConvexTriangleMeshBuilder__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsShapeConvexTriangleMeshBuilder::clone(const  & object)</description>
-</snippet>

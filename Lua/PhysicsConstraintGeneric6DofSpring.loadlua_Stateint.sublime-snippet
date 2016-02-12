@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintGeneric6DofSpring.load(${1: &},${2:lua_State *},${3:int})]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6DofSpring__load</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsConstraintGeneric6DofSpring::load( & object,lua_State * L,int stack_index)</description>
-</snippet>

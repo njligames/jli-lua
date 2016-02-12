@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[calculateSerializeBufferSize()]]></content>
-	<tabTrigger>PhysicsConstraintPointToPointBuilder_calculateSerializeBufferSize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 PhysicsConstraintPointToPointBuilder::calculateSerializeBufferSize()</description>
-</snippet>

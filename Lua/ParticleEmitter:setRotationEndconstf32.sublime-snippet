@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setRotationEnd(${1:const f32 &})]]></content>
-	<tabTrigger>ParticleEmitter_setRotationEnd</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ParticleEmitter::setRotationEnd(const f32 & value)</description>
-</snippet>

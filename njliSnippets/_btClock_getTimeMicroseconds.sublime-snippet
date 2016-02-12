@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+getTimeMicroseconds()
+]]></content>
+<tabTrigger>btClock:getTimeMicroseconds</tabTrigger>
+<scope>source.lua</scope>
+</snippet>
+

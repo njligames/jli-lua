@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getHitNormalWorld()]]></content>
-	<tabTrigger>PhysicsRayContact_getHitNormalWorld</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const btVector3 & PhysicsRayContact::getHitNormalWorld()</description>
-</snippet>

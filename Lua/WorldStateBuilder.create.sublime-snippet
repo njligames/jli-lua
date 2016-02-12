@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldStateBuilder.create()]]></content>
-	<tabTrigger>WorldStateBuilder__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * WorldStateBuilder::create()</description>
-</snippet>

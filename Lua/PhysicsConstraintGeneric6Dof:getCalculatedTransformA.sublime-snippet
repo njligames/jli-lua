@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getCalculatedTransformA()]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6Dof_getCalculatedTransformA</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const btTransform & PhysicsConstraintGeneric6Dof::getCalculatedTransformA()</description>
-</snippet>

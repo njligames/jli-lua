@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldHUD.transformPremultiply(${1:btMatrix3x3 &},${2:const btMatrix3x3 &})]]></content>
-	<tabTrigger>WorldHUD__transformPremultiply</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void WorldHUD::transformPremultiply(btMatrix3x3 & floats,const btMatrix3x3 & src)</description>
-</snippet>

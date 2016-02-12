@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setSoftnessDirLin(${1:f32})]]></content>
-	<tabTrigger>PhysicsConstraintSlider_setSoftnessDirLin</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintSlider::setSoftnessDirLin(f32 softnessDirLin)</description>
-</snippet>

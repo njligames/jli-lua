@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[has()]]></content>
-	<tabTrigger>WorldFactory_has</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool WorldFactory::has()</description>
-</snippet>

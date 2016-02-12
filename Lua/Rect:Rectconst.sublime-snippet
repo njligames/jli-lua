@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Rect(${1:const  &})]]></content>
-	<tabTrigger>Rect_Rect</tabTrigger>
-	<scope>source.lua</scope>
-	<description> Rect::Rect(const  & copy)</description>
-</snippet>

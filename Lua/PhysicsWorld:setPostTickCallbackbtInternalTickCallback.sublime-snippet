@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setPostTickCallback(${1:btInternalTickCallback})]]></content>
-	<tabTrigger>PhysicsWorld_setPostTickCallback</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsWorld::setPostTickCallback(btInternalTickCallback callback)</description>
-</snippet>

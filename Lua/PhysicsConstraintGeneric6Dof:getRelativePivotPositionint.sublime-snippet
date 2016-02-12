@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getRelativePivotPosition(${1:int})]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6Dof_getRelativePivotPosition</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintGeneric6Dof::getRelativePivotPosition(int axis_index)</description>
-</snippet>

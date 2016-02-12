@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getLevelOfDetails(${1:std::vector<  * > &})]]></content>
-	<tabTrigger>Geometry_getLevelOfDetails</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Geometry::getLevelOfDetails(std::vector<  * > & geometries)</description>
-</snippet>

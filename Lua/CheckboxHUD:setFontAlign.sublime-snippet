@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setFontAlign(${1:})]]></content>
-	<tabTrigger>CheckboxHUD_setFontAlign</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void CheckboxHUD::setFontAlign( align)</description>
-</snippet>

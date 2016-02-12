@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[destroyArray()]]></content>
-	<tabTrigger>WorldFactory_destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldFactory::destroyArray()</description>
-</snippet>

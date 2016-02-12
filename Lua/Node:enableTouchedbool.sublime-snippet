@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enableTouched(${1:bool})]]></content>
-	<tabTrigger>Node_enableTouched</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::enableTouched(bool enable)</description>
-</snippet>

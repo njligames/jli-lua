@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addClock(${1: *})]]></content>
-	<tabTrigger>Scene_addClock</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 Scene::addClock( * clock)</description>
-</snippet>

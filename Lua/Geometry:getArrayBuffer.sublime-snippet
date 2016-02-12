@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getArrayBuffer()]]></content>
-	<tabTrigger>Geometry_getArrayBuffer</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const void * Geometry::getArrayBuffer()</description>
-</snippet>

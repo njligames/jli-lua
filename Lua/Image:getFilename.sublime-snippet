@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getFilename()]]></content>
-	<tabTrigger>Image_getFilename</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * Image::getFilename()</description>
-</snippet>

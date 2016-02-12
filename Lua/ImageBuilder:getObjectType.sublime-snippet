@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getObjectType()]]></content>
-	<tabTrigger>ImageBuilder_getObjectType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u32 ImageBuilder::getObjectType()</description>
-</snippet>

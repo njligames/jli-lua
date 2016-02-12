@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.TextboxHUD.clone(${1:const  &})]]></content>
-	<tabTrigger>TextboxHUD__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * TextboxHUD::clone(const  & object)</description>
-</snippet>

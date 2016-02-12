@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Telegram()]]></content>
-	<tabTrigger>Telegram_Telegram</tabTrigger>
-	<scope>source.lua</scope>
-	<description> Telegram::Telegram()</description>
-</snippet>

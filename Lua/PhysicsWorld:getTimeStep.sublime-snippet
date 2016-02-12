@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getTimeStep()]]></content>
-	<tabTrigger>PhysicsWorld_getTimeStep</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsWorld::getTimeStep()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getClassName()]]></content>
-	<tabTrigger>PhysicsShapeConeBuilder_getClassName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * PhysicsShapeConeBuilder::getClassName()</description>
-</snippet>

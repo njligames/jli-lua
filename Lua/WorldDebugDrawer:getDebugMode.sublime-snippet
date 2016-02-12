@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getDebugMode()]]></content>
-	<tabTrigger>WorldDebugDrawer_getDebugMode</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int WorldDebugDrawer::getDebugMode()</description>
-</snippet>

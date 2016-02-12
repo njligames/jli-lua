@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[textLineHeight(${1:f32})]]></content>
-	<tabTrigger>WorldHUD_textLineHeight</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::textLineHeight(f32 lineHeight)</description>
-</snippet>

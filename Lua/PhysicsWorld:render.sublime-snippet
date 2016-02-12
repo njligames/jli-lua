@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[render(${1: *})]]></content>
-	<tabTrigger>PhysicsWorld_render</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsWorld::render( * camera)</description>
-</snippet>

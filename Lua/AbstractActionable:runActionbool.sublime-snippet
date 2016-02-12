@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[runAction(${1: *},${2:bool})]]></content>
-	<tabTrigger>AbstractActionable_runAction</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractActionable::runAction( * action,bool callCompletionFunction)</description>
-</snippet>

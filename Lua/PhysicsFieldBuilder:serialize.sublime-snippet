@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>PhysicsFieldBuilder_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsFieldBuilder::serialize()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getDuration()]]></content>
-	<tabTrigger>ParticleEmitter_getDuration</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const f32 & ParticleEmitter::getDuration()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getFinishColorVariance()]]></content>
-	<tabTrigger>ParticleEmitter_getFinishColorVariance</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const btVector4 & ParticleEmitter::getFinishColorVariance()</description>
-</snippet>

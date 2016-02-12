@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getPivot()]]></content>
-	<tabTrigger>AbstractTransform_getPivot</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btTransform & AbstractTransform::getPivot()</description>
-</snippet>

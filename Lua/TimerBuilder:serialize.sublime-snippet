@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>TimerBuilder_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void TimerBuilder::serialize()</description>
-</snippet>

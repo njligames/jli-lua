@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setFixThresh(${1:f32})]]></content>
-	<tabTrigger>PhysicsConstraintConeTwist_setFixThresh</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintConeTwist::setFixThresh(f32 fixThresh)</description>
-</snippet>

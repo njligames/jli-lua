@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[resetTransform()]]></content>
-	<tabTrigger>WorldHUD_resetTransform</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::resetTransform()</description>
-</snippet>

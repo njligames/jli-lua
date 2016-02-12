@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumPlanes()]]></content>
-	<tabTrigger>PhysicsShapeStaticPlane_getNumPlanes</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int PhysicsShapeStaticPlane::getNumPlanes()</description>
-</snippet>

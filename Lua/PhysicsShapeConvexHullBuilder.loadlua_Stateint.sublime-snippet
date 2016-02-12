@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeConvexHullBuilder.load(${1: &},${2:lua_State *},${3:int})]]></content>
-	<tabTrigger>PhysicsShapeConvexHullBuilder__load</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsShapeConvexHullBuilder::load( & object,lua_State * L,int stack_index)</description>
-</snippet>

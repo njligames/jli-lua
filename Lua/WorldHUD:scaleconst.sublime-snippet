@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[scale(${1:const  &})]]></content>
-	<tabTrigger>WorldHUD_scale</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::scale(const  & scale)</description>
-</snippet>

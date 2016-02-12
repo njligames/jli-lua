@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getParent()]]></content>
-	<tabTrigger>Camera_getParent</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * Camera::getParent()</description>
-</snippet>

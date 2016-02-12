@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+NJLI.LuaBuilder.type()
+]]></content>
+<tabTrigger>LuaBuilder.type</tabTrigger>
+<scope>source.lua</scope>
+</snippet>
+

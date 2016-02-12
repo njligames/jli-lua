@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[moveTo(${1:f32},${2:f32})]]></content>
-	<tabTrigger>WorldHUD_moveTo</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::moveTo(f32 x,f32 y)</description>
-</snippet>

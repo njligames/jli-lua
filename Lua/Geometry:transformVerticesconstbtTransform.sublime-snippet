@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[transformVertices(${1: *},${2:const btTransform &})]]></content>
-	<tabTrigger>Geometry_transformVertices</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Geometry::transformVertices( * node,const btTransform & transfrom)</description>
-</snippet>

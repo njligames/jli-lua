@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLITransform()]]></content>
-	<tabTrigger>LITransform_JLITransform</tabTrigger>
-	<scope>source.lua</scope>
-	<description> LITransform::JLITransform()</description>
-</snippet>

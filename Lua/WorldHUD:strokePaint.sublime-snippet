@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[strokePaint(${1:})]]></content>
-	<tabTrigger>WorldHUD_strokePaint</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::strokePaint( paint)</description>
-</snippet>

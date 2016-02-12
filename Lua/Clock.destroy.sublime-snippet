@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Clock.destroy(${1: *})]]></content>
-	<tabTrigger>Clock__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void Clock::destroy( * object)</description>
-</snippet>

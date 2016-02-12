@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Scene.destroy(${1: *})]]></content>
-	<tabTrigger>Scene__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void Scene::destroy( * object)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getWidth()]]></content>
-	<tabTrigger>MaterialProperty_getWidth</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u32 MaterialProperty::getWidth()</description>
-</snippet>

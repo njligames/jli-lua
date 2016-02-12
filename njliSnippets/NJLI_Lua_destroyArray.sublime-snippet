@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+NJLI.Lua.destroyArray(${1:array})
+]]></content>
+<tabTrigger>Lua.destroyArray</tabTrigger>
+<scope>source.lua</scope>
+</snippet>
+

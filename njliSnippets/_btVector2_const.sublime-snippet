@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+const()
+]]></content>
+<tabTrigger>btVector2:const</tabTrigger>
+<scope>source.lua</scope>
+</snippet>
+

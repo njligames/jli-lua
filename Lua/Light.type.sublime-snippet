@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Light.type()]]></content>
-	<tabTrigger>Light__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 Light::type()</description>
-</snippet>

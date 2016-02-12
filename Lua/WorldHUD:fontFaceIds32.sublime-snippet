@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fontFaceId(${1:s32})]]></content>
-	<tabTrigger>WorldHUD_fontFaceId</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::fontFaceId(s32 fontHandle)</description>
-</snippet>

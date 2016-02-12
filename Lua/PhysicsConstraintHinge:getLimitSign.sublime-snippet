@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getLimitSign()]]></content>
-	<tabTrigger>PhysicsConstraintHinge_getLimitSign</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintHinge::getLimitSign()</description>
-</snippet>

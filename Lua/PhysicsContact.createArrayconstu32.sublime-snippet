@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsContact.createArray(${1:const u32})]]></content>
-	<tabTrigger>PhysicsContact__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** PhysicsContact::createArray(const u32 size)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.StopWatchBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>StopWatchBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** StopWatchBuilder::createArray(const u32 size)</description>
-</snippet>

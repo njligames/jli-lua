@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getParticleEmitterIndex(${1: *})]]></content>
-	<tabTrigger>Node_getParticleEmitterIndex</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 Node::getParticleEmitterIndex( * object)</description>
-</snippet>

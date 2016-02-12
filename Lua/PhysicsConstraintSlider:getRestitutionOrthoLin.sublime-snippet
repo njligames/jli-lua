@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getRestitutionOrthoLin()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getRestitutionOrthoLin</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintSlider::getRestitutionOrthoLin()</description>
-</snippet>

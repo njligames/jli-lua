@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Cube.type()]]></content>
-	<tabTrigger>Cube__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 Cube::type()</description>
-</snippet>

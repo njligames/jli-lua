@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setEulerAngles(${1:const btVector3 &})]]></content>
-	<tabTrigger>Node_setEulerAngles</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::setEulerAngles(const btVector3 & angles)</description>
-</snippet>

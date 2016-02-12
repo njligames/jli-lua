@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getCheckboxRadius()]]></content>
-	<tabTrigger>CheckboxHUD_getCheckboxRadius</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 CheckboxHUD::getCheckboxRadius()</description>
-</snippet>

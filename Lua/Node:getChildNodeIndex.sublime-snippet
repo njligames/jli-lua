@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getChildNodeIndex(${1: *})]]></content>
-	<tabTrigger>Node_getChildNodeIndex</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 Node::getChildNodeIndex( * object)</description>
-</snippet>

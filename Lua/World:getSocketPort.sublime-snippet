@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getSocketPort()]]></content>
-	<tabTrigger>World_getSocketPort</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u16 World::getSocketPort()</description>
-</snippet>

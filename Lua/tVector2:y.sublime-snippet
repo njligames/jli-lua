@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[y()]]></content>
-	<tabTrigger>tVector2_y</tabTrigger>
-	<scope>source.lua</scope>
-	<description>SIMD_FORCE_INLINE const btScalar & tVector2::y()</description>
-</snippet>

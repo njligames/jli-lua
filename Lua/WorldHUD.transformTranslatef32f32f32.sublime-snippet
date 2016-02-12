@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldHUD.transformTranslate(${1:f32 *},${2:f32},${3:f32})]]></content>
-	<tabTrigger>WorldHUD__transformTranslate</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void WorldHUD::transformTranslate(f32 * floats,f32 tx,f32 ty)</description>
-</snippet>

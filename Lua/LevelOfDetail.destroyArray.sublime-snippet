@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.LevelOfDetail.destroyArray(${1: **})]]></content>
-	<tabTrigger>LevelOfDetail__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void LevelOfDetail::destroyArray( ** array)</description>
-</snippet>

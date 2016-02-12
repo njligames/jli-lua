@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[handleCollisionNear(${1: *},${2:const btDispatcherInfo &})]]></content>
-	<tabTrigger>PhysicsBody_handleCollisionNear</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsBody::handleCollisionNear( * body,const btDispatcherInfo & dispatchInfo)</description>
-</snippet>

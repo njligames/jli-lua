@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsContact.clone(${1:const  &})]]></content>
-	<tabTrigger>PhysicsContact__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsContact::clone(const  & object)</description>
-</snippet>

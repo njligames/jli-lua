@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getClockIndex(${1: *})]]></content>
-	<tabTrigger>Scene_getClockIndex</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 Scene::getClockIndex( * clock)</description>
-</snippet>

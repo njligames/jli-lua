@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setAxis(${1:btVector3 &})]]></content>
-	<tabTrigger>PhysicsConstraintHinge_setAxis</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintHinge::setAxis(btVector3 & axisInA)</description>
-</snippet>

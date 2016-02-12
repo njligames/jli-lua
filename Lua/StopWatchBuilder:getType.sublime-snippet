@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>StopWatchBuilder_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 StopWatchBuilder::getType()</description>
-</snippet>

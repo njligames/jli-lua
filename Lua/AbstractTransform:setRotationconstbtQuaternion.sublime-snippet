@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setRotation(${1:const btQuaternion &})]]></content>
-	<tabTrigger>AbstractTransform_setRotation</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractTransform::setRotation(const btQuaternion & rotation)</description>
-</snippet>

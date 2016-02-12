@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[~AbstractStateMachine()]]></content>
-	<tabTrigger>AbstractStateMachine_~AbstractStateMachine</tabTrigger>
-	<scope>source.lua</scope>
-	<description> AbstractStateMachine::~AbstractStateMachine()</description>
-</snippet>

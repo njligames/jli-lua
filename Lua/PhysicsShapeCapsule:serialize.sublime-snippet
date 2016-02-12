@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>PhysicsShapeCapsule_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsShapeCapsule::serialize()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setAlpha(${1:f32})]]></content>
-	<tabTrigger>Image_setAlpha</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool Image::setAlpha(f32 alpha)</description>
-</snippet>

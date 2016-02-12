@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[~WorldDebugDrawer()]]></content>
-	<tabTrigger>WorldDebugDrawer_~WorldDebugDrawer</tabTrigger>
-	<scope>source.lua</scope>
-	<description> WorldDebugDrawer::~WorldDebugDrawer()</description>
-</snippet>

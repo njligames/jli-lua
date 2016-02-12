@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.SceneState.type()]]></content>
-	<tabTrigger>SceneState__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 SceneState::type()</description>
-</snippet>

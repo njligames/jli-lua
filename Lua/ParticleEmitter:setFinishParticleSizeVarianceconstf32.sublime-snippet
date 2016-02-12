@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setFinishParticleSizeVariance(${1:const f32 &})]]></content>
-	<tabTrigger>ParticleEmitter_setFinishParticleSizeVariance</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ParticleEmitter::setFinishParticleSizeVariance(const f32 & value)</description>
-</snippet>

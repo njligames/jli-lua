@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getLowerLinLimit()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getLowerLinLimit</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintSlider::getLowerLinLimit()</description>
-</snippet>

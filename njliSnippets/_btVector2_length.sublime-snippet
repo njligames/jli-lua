@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+length()
+]]></content>
+<tabTrigger>btVector2:length</tabTrigger>
+<scope>source.lua</scope>
+</snippet>
+

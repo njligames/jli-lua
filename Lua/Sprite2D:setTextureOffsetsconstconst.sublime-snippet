@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setTextureOffsets(${1: *},${2:const  &},${3:const  &})]]></content>
-	<tabTrigger>Sprite2D_setTextureOffsets</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Sprite2D::setTextureOffsets( * node,const  & textureCoordOffset,const  & textureCoordDimensions)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[numberOfIndices()]]></content>
-	<tabTrigger>Plane_numberOfIndices</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 Plane::numberOfIndices()</description>
-</snippet>

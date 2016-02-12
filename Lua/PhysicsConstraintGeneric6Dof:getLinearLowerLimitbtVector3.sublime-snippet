@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getLinearLowerLimit(${1:btVector3 &})]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6Dof_getLinearLowerLimit</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintGeneric6Dof::getLinearLowerLimit(btVector3 & linearLower)</description>
-</snippet>

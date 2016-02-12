@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isInUse()]]></content>
-	<tabTrigger>AbstractState_isInUse</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool AbstractState::isInUse()</description>
-</snippet>

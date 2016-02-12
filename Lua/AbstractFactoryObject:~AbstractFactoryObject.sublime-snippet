@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[~AbstractFactoryObject()]]></content>
-	<tabTrigger>AbstractFactoryObject_~AbstractFactoryObject</tabTrigger>
-	<scope>source.lua</scope>
-	<description> AbstractFactoryObject::~AbstractFactoryObject()</description>
-</snippet>

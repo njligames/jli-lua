@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getClassName()]]></content>
-	<tabTrigger>Camera_getClassName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * Camera::getClassName()</description>
-</snippet>

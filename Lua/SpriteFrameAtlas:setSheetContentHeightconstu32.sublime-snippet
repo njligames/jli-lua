@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setSheetContentHeight(${1:const u32})]]></content>
-	<tabTrigger>SpriteFrameAtlas_setSheetContentHeight</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void SpriteFrameAtlas::setSheetContentHeight(const u32 height)</description>
-</snippet>

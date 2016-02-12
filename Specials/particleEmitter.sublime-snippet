@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+local ${1:particleNode} = JLI.Node.create()
+local ${2:particleNodeState} = JLI.NodeState.create()
+local ${3:particleEmitter} = JLI.ParticleEmitter.create()
+local theRootNode = ${4:JLI.World.getInstance():getScene():getRootNode()}
+${1:particleNode}:show(getOrthoCamera())
+${1:particleNode}:addGeometry(${5:self.geometry})
+${1:particleNode}:getStateMachine():pushState(${2:particleNodeState})
+theRootNode:addChildNode(${1:particleNode})
+
+if JLI.World.getInstance():getWorldResourceLoader():load("particles/${6:particle_water_splash.pex}", ${3:particleEmitter}) then
+    ${1:particleNode}:addParticleEmitter(${3:particleEmitter})
+
+    ${1:particleNode}:getGeometry():setSpriteAtlasFrame(${1:particleNode}, ${7:self.spriteAtlas}, ${3:particleEmitter}:getTextureFilename(), true)
+
+    ${3:particleEmitter}:setup(theRootNode, ${1:particleNode}:getGeometry())
+end
+
+${1:particleNode}:setOrigin(JLI.btVector3(0, 0, 0))
+
+${3:particleEmitter}:setScale(1.0)
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>luaParticleEmitter</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.lua</scope>
+</snippet>

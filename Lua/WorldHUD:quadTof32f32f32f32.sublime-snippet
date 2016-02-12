@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[quadTo(${1:f32},${2:f32},${3:f32},${4:f32})]]></content>
-	<tabTrigger>WorldHUD_quadTo</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::quadTo(f32 controlPointx,f32 controlPointy,f32 x,f32 y)</description>
-</snippet>

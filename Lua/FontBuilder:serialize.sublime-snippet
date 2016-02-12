@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>FontBuilder_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void FontBuilder::serialize()</description>
-</snippet>

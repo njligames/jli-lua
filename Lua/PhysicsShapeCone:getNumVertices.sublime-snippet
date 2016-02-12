@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumVertices()]]></content>
-	<tabTrigger>PhysicsShapeCone_getNumVertices</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int PhysicsShapeCone::getNumVertices()</description>
-</snippet>

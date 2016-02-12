@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldHUD.cpToUTF8(${1:s32})]]></content>
-	<tabTrigger>WorldHUD__cpToUTF8</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static s8 * WorldHUD::cpToUTF8(s32 cp)</description>
-</snippet>

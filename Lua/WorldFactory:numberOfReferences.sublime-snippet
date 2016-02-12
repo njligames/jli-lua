@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[numberOfReferences()]]></content>
-	<tabTrigger>WorldFactory_numberOfReferences</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 WorldFactory::numberOfReferences()</description>
-</snippet>

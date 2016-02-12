@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>Camera_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Camera::serialize()</description>
-</snippet>

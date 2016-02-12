@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getCheckboxDimensions()]]></content>
-	<tabTrigger>CheckboxHUD_getCheckboxDimensions</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const  & CheckboxHUD::getCheckboxDimensions()</description>
-</snippet>

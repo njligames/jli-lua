@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.SpriteFrameAtlas.type()]]></content>
-	<tabTrigger>SpriteFrameAtlas__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 SpriteFrameAtlas::type()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[~GameClock()]]></content>
-	<tabTrigger>GameClock_~GameClock</tabTrigger>
-	<scope>source.lua</scope>
-	<description> GameClock::~GameClock()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[textBoxBounds(${1:f32},${2:f32},${3:f32},${4: &},${5:const s8 *},${6:const s8 *})]]></content>
-	<tabTrigger>WorldHUD_textBoxBounds</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::textBoxBounds(f32 x,f32 y,f32 breakRowWidth, & bounds,const s8 * string,const s8 * end)</description>
-</snippet>

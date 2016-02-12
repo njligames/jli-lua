@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeStaticPlaneBuilder.create()]]></content>
-	<tabTrigger>PhysicsShapeStaticPlaneBuilder__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsShapeStaticPlaneBuilder::create()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[loadFile(${1:const char *})]]></content>
-	<tabTrigger>WorldLuaVirtualMachine_loadFile</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldLuaVirtualMachine::loadFile(const char * filePath)</description>
-</snippet>

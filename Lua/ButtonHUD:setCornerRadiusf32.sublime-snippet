@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setCornerRadius(${1:f32})]]></content>
-	<tabTrigger>ButtonHUD_setCornerRadius</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ButtonHUD::setCornerRadius(f32 radius)</description>
-</snippet>

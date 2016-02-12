@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setMotorTarget(${1:f32},${2:f32})]]></content>
-	<tabTrigger>PhysicsConstraintHinge_setMotorTarget</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintHinge::setMotorTarget(f32 targetAngle,f32 dt)</description>
-</snippet>

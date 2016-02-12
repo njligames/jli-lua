@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addMaterial(${1: *})]]></content>
-	<tabTrigger>Geometry_addMaterial</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Geometry::addMaterial( * material)</description>
-</snippet>

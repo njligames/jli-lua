@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintConeTwistBuilder.type()]]></content>
-	<tabTrigger>PhysicsConstraintConeTwistBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 PhysicsConstraintConeTwistBuilder::type()</description>
-</snippet>

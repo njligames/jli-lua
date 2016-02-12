@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeStaticPlaneBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>PhysicsShapeStaticPlaneBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** PhysicsShapeStaticPlaneBuilder::createArray(const u32 size)</description>
-</snippet>

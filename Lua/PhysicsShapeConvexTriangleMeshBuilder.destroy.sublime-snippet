@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeConvexTriangleMeshBuilder.destroy(${1: *})]]></content>
-	<tabTrigger>PhysicsShapeConvexTriangleMeshBuilder__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsShapeConvexTriangleMeshBuilder::destroy( * object)</description>
-</snippet>

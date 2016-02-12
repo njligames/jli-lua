@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getRestitution()]]></content>
-	<tabTrigger>PhysicsBody_getRestitution</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsBody::getRestitution()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintSlider.create(${1:const  &})]]></content>
-	<tabTrigger>PhysicsConstraintSlider__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsConstraintSlider::create(const  & builder)</description>
-</snippet>

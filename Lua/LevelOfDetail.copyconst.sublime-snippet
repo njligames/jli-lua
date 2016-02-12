@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.LevelOfDetail.copy(${1:const  &})]]></content>
-	<tabTrigger>LevelOfDetail__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * LevelOfDetail::copy(const  & object)</description>
-</snippet>

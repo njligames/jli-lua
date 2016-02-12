@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[~WorldFactory()]]></content>
-	<tabTrigger>WorldFactory_~WorldFactory</tabTrigger>
-	<scope>source.lua</scope>
-	<description> WorldFactory::~WorldFactory()</description>
-</snippet>

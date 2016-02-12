@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getObjectType()]]></content>
-	<tabTrigger>MaterialPropertyBuilder_getObjectType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u32 MaterialPropertyBuilder::getObjectType()</description>
-</snippet>

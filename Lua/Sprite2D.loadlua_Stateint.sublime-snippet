@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Sprite2D.load(${1: &},${2:lua_State *},${3:int})]]></content>
-	<tabTrigger>Sprite2D__load</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void Sprite2D::load( & object,lua_State * L,int stack_index)</description>
-</snippet>

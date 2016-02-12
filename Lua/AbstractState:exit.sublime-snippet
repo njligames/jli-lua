@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[exit()]]></content>
-	<tabTrigger>AbstractState_exit</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractState::exit()</description>
-</snippet>

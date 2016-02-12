@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getDeviceName()]]></content>
-	<tabTrigger>World_getDeviceName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * World::getDeviceName()</description>
-</snippet>

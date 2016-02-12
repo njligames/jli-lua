@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[unLoadAll()]]></content>
-	<tabTrigger>WorldResourceLoader_unLoadAll</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool WorldResourceLoader::unLoadAll()</description>
-</snippet>

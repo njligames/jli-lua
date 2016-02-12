@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[stopSocket()]]></content>
-	<tabTrigger>World_stopSocket</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void World::stopSocket()</description>
-</snippet>

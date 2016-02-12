@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getAnisotropicRollingFrictionDirection()]]></content>
-	<tabTrigger>PhysicsShapeCapsule_getAnisotropicRollingFrictionDirection</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btVector3 PhysicsShapeCapsule::getAnisotropicRollingFrictionDirection()</description>
-</snippet>

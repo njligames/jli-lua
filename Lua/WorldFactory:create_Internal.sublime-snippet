@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[create_Internal()]]></content>
-	<tabTrigger>WorldFactory_create_Internal</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * WorldFactory::create_Internal()</description>
-</snippet>

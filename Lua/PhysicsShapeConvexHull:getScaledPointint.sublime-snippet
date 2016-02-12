@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getScaledPoint(${1:int})]]></content>
-	<tabTrigger>PhysicsShapeConvexHull_getScaledPoint</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btVector3 PhysicsShapeConvexHull::getScaledPoint(int i)</description>
-</snippet>

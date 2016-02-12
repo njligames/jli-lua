@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setMinificationFilter(${1:})]]></content>
-	<tabTrigger>MaterialProperty_setMinificationFilter</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void MaterialProperty::setMinificationFilter( val)</description>
-</snippet>

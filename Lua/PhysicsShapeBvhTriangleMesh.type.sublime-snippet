@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeBvhTriangleMesh.type()]]></content>
-	<tabTrigger>PhysicsShapeBvhTriangleMesh__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 PhysicsShapeBvhTriangleMesh::type()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintFixed.type()]]></content>
-	<tabTrigger>PhysicsConstraintFixed__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 PhysicsConstraintFixed::type()</description>
-</snippet>

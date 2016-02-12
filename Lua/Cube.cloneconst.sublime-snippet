@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Cube.clone(${1:const  &})]]></content>
-	<tabTrigger>Cube__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * Cube::clone(const  & object)</description>
-</snippet>

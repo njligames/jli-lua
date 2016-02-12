@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getFrame(${1:int})]]></content>
-	<tabTrigger>SpriteFrameAtlas_getFrame</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const  & SpriteFrameAtlas::getFrame(int index)</description>
-</snippet>

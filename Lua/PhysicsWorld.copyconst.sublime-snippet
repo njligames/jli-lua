@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsWorld.copy(${1:const  &})]]></content>
-	<tabTrigger>PhysicsWorld__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsWorld::copy(const  & object)</description>
-</snippet>

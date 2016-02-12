@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[loadGPU(${1:const  &},${2:const  &},${3:const  &},${4:const  &},${5:const  &},${6:const  &})]]></content>
-	<tabTrigger>MaterialProperty_loadGPU</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void MaterialProperty::loadGPU(const  & negativeX,const  & negativeY,const  & negativeZ,const  & positiveX,const  & positiveY,const  & positiveZ)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeMultiSphere.type()]]></content>
-	<tabTrigger>PhysicsShapeMultiSphere__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 PhysicsShapeMultiSphere::type()</description>
-</snippet>

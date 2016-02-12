@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addScene(${1: *})]]></content>
-	<tabTrigger>World_addScene</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void World::addScene( * scene)</description>
-</snippet>

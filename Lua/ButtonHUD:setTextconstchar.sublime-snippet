@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setText(${1:const char *})]]></content>
-	<tabTrigger>ButtonHUD_setText</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ButtonHUD::setText(const char * text)</description>
-</snippet>

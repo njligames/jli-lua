@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldHUD.transformRotate(${1:btMatrix3x3 &},${2:f32})]]></content>
-	<tabTrigger>WorldHUD__transformRotate</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void WorldHUD::transformRotate(btMatrix3x3 & floats,f32 a)</description>
-</snippet>

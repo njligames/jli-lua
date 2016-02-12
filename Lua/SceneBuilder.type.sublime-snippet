@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.SceneBuilder.type()]]></content>
-	<tabTrigger>SceneBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 SceneBuilder::type()</description>
-</snippet>

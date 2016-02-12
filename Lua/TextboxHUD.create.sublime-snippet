@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.TextboxHUD.create()]]></content>
-	<tabTrigger>TextboxHUD__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * TextboxHUD::create()</description>
-</snippet>

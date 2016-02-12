@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeLevelOfDetail(${1: *})]]></content>
-	<tabTrigger>Geometry_removeLevelOfDetail</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool Geometry::removeLevelOfDetail( * geometry)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.XmlBuilder.destroy(${1: *})]]></content>
-	<tabTrigger>XmlBuilder__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void XmlBuilder::destroy( * object)</description>
-</snippet>

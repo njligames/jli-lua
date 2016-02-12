@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.NodeStateMachine.type()]]></content>
-	<tabTrigger>NodeStateMachine__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 NodeStateMachine::type()</description>
-</snippet>

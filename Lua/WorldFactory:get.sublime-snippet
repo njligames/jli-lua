@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[get()]]></content>
-	<tabTrigger>WorldFactory_get</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * WorldFactory::get()</description>
-</snippet>

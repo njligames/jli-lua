@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Camera.destroyArray(${1: **})]]></content>
-	<tabTrigger>Camera__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void Camera::destroyArray( ** array)</description>
-</snippet>

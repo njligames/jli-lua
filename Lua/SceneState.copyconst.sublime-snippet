@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.SceneState.copy(${1:const  &})]]></content>
-	<tabTrigger>SceneState__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * SceneState::copy(const  & object)</description>
-</snippet>

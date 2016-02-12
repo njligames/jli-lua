@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>PhysicsShapeStaticPlaneBuilder_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsShapeStaticPlaneBuilder::serialize()</description>
-</snippet>

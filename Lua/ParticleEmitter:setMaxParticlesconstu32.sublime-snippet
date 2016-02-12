@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setMaxParticles(${1:const u32 &})]]></content>
-	<tabTrigger>ParticleEmitter_setMaxParticles</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ParticleEmitter::setMaxParticles(const u32 & value)</description>
-</snippet>

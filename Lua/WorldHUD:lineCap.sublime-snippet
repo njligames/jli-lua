@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[lineCap(${1:})]]></content>
-	<tabTrigger>WorldHUD_lineCap</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::lineCap( cap)</description>
-</snippet>

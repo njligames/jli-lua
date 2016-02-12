@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ActionBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>ActionBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** ActionBuilder::createArray(const u32 size)</description>
-</snippet>

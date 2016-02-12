@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getAngularFriction()]]></content>
-	<tabTrigger>PhysicsBody_getAngularFriction</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsBody::getAngularFriction()</description>
-</snippet>

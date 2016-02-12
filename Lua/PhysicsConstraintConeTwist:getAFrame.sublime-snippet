@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getAFrame()]]></content>
-	<tabTrigger>PhysicsConstraintConeTwist_getAFrame</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const btTransform & PhysicsConstraintConeTwist::getAFrame()</description>
-</snippet>

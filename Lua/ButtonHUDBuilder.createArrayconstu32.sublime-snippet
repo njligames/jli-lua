@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ButtonHUDBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>ButtonHUDBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** ButtonHUDBuilder::createArray(const u32 size)</description>
-</snippet>

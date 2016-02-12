@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enter()]]></content>
-	<tabTrigger>WorldState_enter</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldState::enter()</description>
-</snippet>

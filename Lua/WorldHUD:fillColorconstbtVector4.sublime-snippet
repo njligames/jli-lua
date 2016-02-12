@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fillColor(${1:const btVector4 &})]]></content>
-	<tabTrigger>WorldHUD_fillColor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::fillColor(const btVector4 & color)</description>
-</snippet>

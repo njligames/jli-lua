@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getSpecular()]]></content>
-	<tabTrigger>Material_getSpecular</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * Material::getSpecular()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.MaterialProperty.destroyArray(${1: **})]]></content>
-	<tabTrigger>MaterialProperty__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void MaterialProperty::destroyArray( ** array)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getCornerRadius()]]></content>
-	<tabTrigger>ButtonHUD_getCornerRadius</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 ButtonHUD::getCornerRadius()</description>
-</snippet>

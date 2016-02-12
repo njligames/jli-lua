@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getReflective()]]></content>
-	<tabTrigger>Material_getReflective</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * Material::getReflective()</description>
-</snippet>

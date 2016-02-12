@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Descent(${1:const btDbvtNode *})]]></content>
-	<tabTrigger>SceneRenderer_Descent</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool SceneRenderer::Descent(const btDbvtNode * node)</description>
-</snippet>

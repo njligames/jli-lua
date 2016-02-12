@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldHUD.hsl(${1:f32},${2:f32},${3:f32})]]></content>
-	<tabTrigger>WorldHUD__hsl</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static btVector4 WorldHUD::hsl(f32 h,f32 s,f32 l)</description>
-</snippet>

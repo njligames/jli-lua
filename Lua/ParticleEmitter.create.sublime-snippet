@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ParticleEmitter.create()]]></content>
-	<tabTrigger>ParticleEmitter__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * ParticleEmitter::create()</description>
-</snippet>

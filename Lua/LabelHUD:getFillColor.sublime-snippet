@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getFillColor()]]></content>
-	<tabTrigger>LabelHUD_getFillColor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const btVector4 & LabelHUD::getFillColor()</description>
-</snippet>

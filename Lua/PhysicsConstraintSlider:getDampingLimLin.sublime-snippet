@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getDampingLimLin()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getDampingLimLin</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintSlider::getDampingLimLin()</description>
-</snippet>

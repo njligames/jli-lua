@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Image.load(${1: &},${2:lua_State *},${3:int})]]></content>
-	<tabTrigger>Image__load</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void Image::load( & object,lua_State * L,int stack_index)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[createImageRGBA(${1:const  &},${2:})]]></content>
-	<tabTrigger>WorldHUD_createImageRGBA</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 WorldHUD::createImageRGBA(const  & image, imageFlags)</description>
-</snippet>

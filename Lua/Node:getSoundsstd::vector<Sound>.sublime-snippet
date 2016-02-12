@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getSounds(${1:std::vector< Sound * > &})]]></content>
-	<tabTrigger>Node_getSounds</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::getSounds(std::vector< Sound * > & sounds)</description>
-</snippet>

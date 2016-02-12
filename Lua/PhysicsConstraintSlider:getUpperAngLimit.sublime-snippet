@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getUpperAngLimit()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getUpperAngLimit</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintSlider::getUpperAngLimit()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getTransform(${1:const u64})]]></content>
-	<tabTrigger>Geometry_getTransform</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btTransform Geometry::getTransform(const u64 index)</description>
-</snippet>

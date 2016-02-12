@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeParticleEmitter(${1: *})]]></content>
-	<tabTrigger>Scene_removeParticleEmitter</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool Scene::removeParticleEmitter( * emitter)</description>
-</snippet>

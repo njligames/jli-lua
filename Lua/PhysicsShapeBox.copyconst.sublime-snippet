@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeBox.copy(${1:const  &})]]></content>
-	<tabTrigger>PhysicsShapeBox__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsShapeBox::copy(const  & object)</description>
-</snippet>

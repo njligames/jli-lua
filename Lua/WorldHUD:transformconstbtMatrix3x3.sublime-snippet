@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[transform(${1:const btMatrix3x3 &})]]></content>
-	<tabTrigger>WorldHUD_transform</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::transform(const btMatrix3x3 & mtx)</description>
-</snippet>

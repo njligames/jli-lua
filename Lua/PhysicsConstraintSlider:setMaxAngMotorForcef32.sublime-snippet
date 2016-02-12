@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setMaxAngMotorForce(${1:f32})]]></content>
-	<tabTrigger>PhysicsConstraintSlider_setMaxAngMotorForce</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintSlider::setMaxAngMotorForce(f32 maxAngMotorForce)</description>
-</snippet>

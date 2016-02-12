@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isTouched()]]></content>
-	<tabTrigger>Node_isTouched</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool Node::isTouched()</description>
-</snippet>

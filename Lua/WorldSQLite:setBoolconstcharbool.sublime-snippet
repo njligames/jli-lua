@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setBool(${1:const char *},${2:bool})]]></content>
-	<tabTrigger>WorldSQLite_setBool</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldSQLite::setBool(const char * key,bool value)</description>
-</snippet>

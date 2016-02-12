@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[findFont(${1:const s8 *})]]></content>
-	<tabTrigger>WorldHUD_findFont</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 WorldHUD::findFont(const s8 * name)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[transformTextureCoordinates(${1: *},${2:const btTransform &})]]></content>
-	<tabTrigger>Sprite2D_transformTextureCoordinates</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Sprite2D::transformTextureCoordinates( * node,const btTransform & transform)</description>
-</snippet>

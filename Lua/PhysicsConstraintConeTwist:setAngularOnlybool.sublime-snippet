@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setAngularOnly(${1:bool})]]></content>
-	<tabTrigger>PhysicsConstraintConeTwist_setAngularOnly</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintConeTwist::setAngularOnly(bool angularOnly)</description>
-</snippet>

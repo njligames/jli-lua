@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[unCheck()]]></content>
-	<tabTrigger>CheckboxHUD_unCheck</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void CheckboxHUD::unCheck()</description>
-</snippet>

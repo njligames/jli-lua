@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ActionBuilder.type()]]></content>
-	<tabTrigger>ActionBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 ActionBuilder::type()</description>
-</snippet>

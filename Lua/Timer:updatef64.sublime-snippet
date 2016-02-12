@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[update(${1:f64})]]></content>
-	<tabTrigger>Timer_update</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Timer::update(f64 milliseconds)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getCalculatedTransformA()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getCalculatedTransformA</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const btTransform & PhysicsConstraintSlider::getCalculatedTransformA()</description>
-</snippet>

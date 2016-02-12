@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.LevelOfDetail.type()]]></content>
-	<tabTrigger>LevelOfDetail__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 LevelOfDetail::type()</description>
-</snippet>

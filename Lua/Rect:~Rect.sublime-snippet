@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[~Rect()]]></content>
-	<tabTrigger>Rect_~Rect</tabTrigger>
-	<scope>source.lua</scope>
-	<description> Rect::~Rect()</description>
-</snippet>

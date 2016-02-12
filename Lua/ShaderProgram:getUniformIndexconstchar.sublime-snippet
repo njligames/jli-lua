@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getUniformIndex(${1:const char *})]]></content>
-	<tabTrigger>ShaderProgram_getUniformIndex</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u32 ShaderProgram::getUniformIndex(const char * uniformName)</description>
-</snippet>

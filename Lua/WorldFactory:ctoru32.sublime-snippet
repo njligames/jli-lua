@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ctor(${1:u32})]]></content>
-	<tabTrigger>WorldFactory_ctor</tabTrigger>
-	<scope>source.lua</scope>
-	<description> ** WorldFactory::ctor(u32 size)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[unLoad(${1:const char *})]]></content>
-	<tabTrigger>WorldResourceLoader_unLoad</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool WorldResourceLoader::unLoad(const char * file)</description>
-</snippet>

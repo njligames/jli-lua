@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>Light_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 Light::getType()</description>
-</snippet>

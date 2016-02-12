@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+setY(${1:y})
+]]></content>
+<tabTrigger>btVector2:setY</tabTrigger>
+<scope>source.lua</scope>
+</snippet>
+

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.CollisionResponse.copy(${1:const  &})]]></content>
-	<tabTrigger>CollisionResponse__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * CollisionResponse::copy(const  & object)</description>
-</snippet>

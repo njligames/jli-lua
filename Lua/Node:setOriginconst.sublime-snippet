@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setOrigin(${1:const  &})]]></content>
-	<tabTrigger>Node_setOrigin</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::setOrigin(const  & origin)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[openDatabase(${1:const char *})]]></content>
-	<tabTrigger>WorldSQLite_openDatabase</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool WorldSQLite::openDatabase(const char * database_name)</description>
-</snippet>

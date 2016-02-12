@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeMultiSphereBuilder.destroy(${1: *})]]></content>
-	<tabTrigger>PhysicsShapeMultiSphereBuilder__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsShapeMultiSphereBuilder::destroy( * object)</description>
-</snippet>

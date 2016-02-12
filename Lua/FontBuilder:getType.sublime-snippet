@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>FontBuilder_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 FontBuilder::getType()</description>
-</snippet>

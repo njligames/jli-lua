@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.TextboxHUD.type()]]></content>
-	<tabTrigger>TextboxHUD__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 TextboxHUD::type()</description>
-</snippet>

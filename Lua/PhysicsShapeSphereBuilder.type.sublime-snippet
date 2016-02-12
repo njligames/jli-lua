@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeSphereBuilder.type()]]></content>
-	<tabTrigger>PhysicsShapeSphereBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 PhysicsShapeSphereBuilder::type()</description>
-</snippet>

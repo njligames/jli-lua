@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getFontSize()]]></content>
-	<tabTrigger>LabelHUD_getFontSize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 LabelHUD::getFontSize()</description>
-</snippet>

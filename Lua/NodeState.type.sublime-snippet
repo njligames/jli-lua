@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.NodeState.type()]]></content>
-	<tabTrigger>NodeState__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 NodeState::type()</description>
-</snippet>

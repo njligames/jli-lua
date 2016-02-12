@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>ButtonHUDBuilder_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ButtonHUDBuilder::serialize()</description>
-</snippet>

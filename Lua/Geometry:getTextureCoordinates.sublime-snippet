@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getTextureCoordinates(${1: *},${2: **})]]></content>
-	<tabTrigger>Geometry_getTextureCoordinates</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Geometry::getTextureCoordinates( * geometry, ** textureCoordinates)</description>
-</snippet>

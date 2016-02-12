@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[calculateSerializeBufferSize()]]></content>
-	<tabTrigger>SpriteFrameAtlasBuilder_calculateSerializeBufferSize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 SpriteFrameAtlasBuilder::calculateSerializeBufferSize()</description>
-</snippet>

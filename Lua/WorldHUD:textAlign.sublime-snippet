@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[textAlign(${1:})]]></content>
-	<tabTrigger>WorldHUD_textAlign</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::textAlign( align)</description>
-</snippet>

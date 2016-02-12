@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>Xml_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Xml::serialize()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setEquilibriumPoint()]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6DofSpring_setEquilibriumPoint</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintGeneric6DofSpring::setEquilibriumPoint()</description>
-</snippet>

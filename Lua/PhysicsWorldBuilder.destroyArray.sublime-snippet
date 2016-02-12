@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsWorldBuilder.destroyArray(${1: **})]]></content>
-	<tabTrigger>PhysicsWorldBuilder__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsWorldBuilder::destroyArray( ** array)</description>
-</snippet>

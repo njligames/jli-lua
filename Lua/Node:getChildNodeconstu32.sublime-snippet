@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getChildNode(${1:const u32})]]></content>
-	<tabTrigger>Node_getChildNode</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * Node::getChildNode(const u32 index)</description>
-</snippet>

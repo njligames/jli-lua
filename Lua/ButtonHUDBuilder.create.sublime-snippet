@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ButtonHUDBuilder.create()]]></content>
-	<tabTrigger>ButtonHUDBuilder__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * ButtonHUDBuilder::create()</description>
-</snippet>

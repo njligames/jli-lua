@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[calculateSerializeBufferSize()]]></content>
-	<tabTrigger>PhysicsShapeConvexHull_calculateSerializeBufferSize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 PhysicsShapeConvexHull::calculateSerializeBufferSize()</description>
-</snippet>

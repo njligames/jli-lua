@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintHingeBuilder.destroyArray(${1: **})]]></content>
-	<tabTrigger>PhysicsConstraintHingeBuilder__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsConstraintHingeBuilder::destroyArray( ** array)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.MaterialPropertyBuilder.type()]]></content>
-	<tabTrigger>MaterialPropertyBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 MaterialPropertyBuilder::type()</description>
-</snippet>

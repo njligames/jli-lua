@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[~AbstractFrameBufferObject()]]></content>
-	<tabTrigger>AbstractFrameBufferObject_~AbstractFrameBufferObject</tabTrigger>
-	<scope>source.lua</scope>
-	<description> AbstractFrameBufferObject::~AbstractFrameBufferObject()</description>
-</snippet>

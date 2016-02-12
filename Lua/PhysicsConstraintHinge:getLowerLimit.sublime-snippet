@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getLowerLimit()]]></content>
-	<tabTrigger>PhysicsConstraintHinge_getLowerLimit</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintHinge::getLowerLimit()</description>
-</snippet>

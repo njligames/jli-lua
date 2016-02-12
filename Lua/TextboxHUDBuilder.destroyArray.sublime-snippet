@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.TextboxHUDBuilder.destroyArray(${1: **})]]></content>
-	<tabTrigger>TextboxHUDBuilder__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void TextboxHUDBuilder::destroyArray( ** array)</description>
-</snippet>

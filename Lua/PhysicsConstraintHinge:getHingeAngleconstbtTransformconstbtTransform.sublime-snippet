@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getHingeAngle(${1:const btTransform &},${2:const btTransform &})]]></content>
-	<tabTrigger>PhysicsConstraintHinge_getHingeAngle</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintHinge::getHingeAngle(const btTransform & transA,const btTransform & transB)</description>
-</snippet>

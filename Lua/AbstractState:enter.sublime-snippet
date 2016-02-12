@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enter()]]></content>
-	<tabTrigger>AbstractState_enter</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractState::enter()</description>
-</snippet>

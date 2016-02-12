@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getZFar()]]></content>
-	<tabTrigger>Camera_getZFar</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 Camera::getZFar()</description>
-</snippet>

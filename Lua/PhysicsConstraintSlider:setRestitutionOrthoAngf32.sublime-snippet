@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setRestitutionOrthoAng(${1:f32})]]></content>
-	<tabTrigger>PhysicsConstraintSlider_setRestitutionOrthoAng</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintSlider::setRestitutionOrthoAng(f32 restitutionOrthoAng)</description>
-</snippet>

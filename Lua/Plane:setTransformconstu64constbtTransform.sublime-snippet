@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setTransform(${1:const u64},${2:const btTransform &})]]></content>
-	<tabTrigger>Plane_setTransform</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Plane::setTransform(const u64 index,const btTransform & transform)</description>
-</snippet>

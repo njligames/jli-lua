@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[bezierTo(${1:f32},${2:f32},${3:f32},${4:f32},${5:f32},${6:f32})]]></content>
-	<tabTrigger>WorldHUD_bezierTo</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::bezierTo(f32 controlPoint1x,f32 controlPoint1y,f32 controlPoint2x,f32 controlPoint2y,f32 x,f32 y)</description>
-</snippet>

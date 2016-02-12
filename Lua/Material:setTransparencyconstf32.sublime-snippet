@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setTransparency(${1:const f32})]]></content>
-	<tabTrigger>Material_setTransparency</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Material::setTransparency(const f32 val)</description>
-</snippet>

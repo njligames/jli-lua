@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Material.create(${1:const  &})]]></content>
-	<tabTrigger>Material__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * Material::create(const  & builder)</description>
-</snippet>

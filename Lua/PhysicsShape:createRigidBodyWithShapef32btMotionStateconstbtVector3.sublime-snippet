@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[createRigidBodyWithShape(${1:f32},${2:btMotionState *},${3:const btVector3 &})]]></content>
-	<tabTrigger>PhysicsShape_createRigidBodyWithShape</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btRigidBody * PhysicsShape::createRigidBodyWithShape(f32 mass,btMotionState * motionState,const btVector3 & localInertia)</description>
-</snippet>

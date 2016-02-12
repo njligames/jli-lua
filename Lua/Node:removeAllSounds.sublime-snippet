@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeAllSounds()]]></content>
-	<tabTrigger>Node_removeAllSounds</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::removeAllSounds()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeMultiSphereBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>PhysicsShapeMultiSphereBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** PhysicsShapeMultiSphereBuilder::createArray(const u32 size)</description>
-</snippet>

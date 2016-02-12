@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setAlign(${1:s32})]]></content>
-	<tabTrigger>LabelHUD_setAlign</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void LabelHUD::setAlign(s32 align)</description>
-</snippet>

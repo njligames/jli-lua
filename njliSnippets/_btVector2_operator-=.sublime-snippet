@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+operator-=(${1:v})
+]]></content>
+<tabTrigger>btVector2:operator-=</tabTrigger>
+<scope>source.lua</scope>
+</snippet>
+

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeChildrenNodes()]]></content>
-	<tabTrigger>Node_removeChildrenNodes</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::removeChildrenNodes()</description>
-</snippet>

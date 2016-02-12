@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.DropdownHUD.type()]]></content>
-	<tabTrigger>DropdownHUD__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 DropdownHUD::type()</description>
-</snippet>

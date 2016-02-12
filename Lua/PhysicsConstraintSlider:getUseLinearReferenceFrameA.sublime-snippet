@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getUseLinearReferenceFrameA()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getUseLinearReferenceFrameA</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool PhysicsConstraintSlider::getUseLinearReferenceFrameA()</description>
-</snippet>

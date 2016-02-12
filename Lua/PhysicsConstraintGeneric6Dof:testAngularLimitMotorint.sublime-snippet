@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[testAngularLimitMotor(${1:int})]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6Dof_testAngularLimitMotor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool PhysicsConstraintGeneric6Dof::testAngularLimitMotor(int axis_index)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isKinematicPhysics()]]></content>
-	<tabTrigger>PhysicsBody_isKinematicPhysics</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool PhysicsBody::isKinematicPhysics()</description>
-</snippet>

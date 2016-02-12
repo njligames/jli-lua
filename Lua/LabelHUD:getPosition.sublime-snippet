@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getPosition()]]></content>
-	<tabTrigger>LabelHUD_getPosition</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const  & LabelHUD::getPosition()</description>
-</snippet>

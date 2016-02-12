@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setStartParticleSize(${1:const f32 &})]]></content>
-	<tabTrigger>ParticleEmitter_setStartParticleSize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ParticleEmitter::setStartParticleSize(const f32 & value)</description>
-</snippet>

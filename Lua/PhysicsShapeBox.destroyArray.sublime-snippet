@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeBox.destroyArray(${1: **})]]></content>
-	<tabTrigger>PhysicsShapeBox__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsShapeBox::destroyArray( ** array)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.SpriteFrameAtlas.create()]]></content>
-	<tabTrigger>SpriteFrameAtlas__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * SpriteFrameAtlas::create()</description>
-</snippet>

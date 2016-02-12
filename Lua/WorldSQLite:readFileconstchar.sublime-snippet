@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[readFile(${1:const char *})]]></content>
-	<tabTrigger>WorldSQLite_readFile</tabTrigger>
-	<scope>source.lua</scope>
-	<description>FileData WorldSQLite::readFile(const char * filename)</description>
-</snippet>

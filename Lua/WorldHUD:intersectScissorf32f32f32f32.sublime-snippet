@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[intersectScissor(${1:f32},${2:f32},${3:f32},${4:f32})]]></content>
-	<tabTrigger>WorldHUD_intersectScissor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::intersectScissor(f32 x,f32 y,f32 width,f32 height)</description>
-</snippet>

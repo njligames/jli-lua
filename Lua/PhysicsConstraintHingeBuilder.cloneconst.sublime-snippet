@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintHingeBuilder.clone(${1:const  &})]]></content>
-	<tabTrigger>PhysicsConstraintHingeBuilder__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsConstraintHingeBuilder::clone(const  & object)</description>
-</snippet>

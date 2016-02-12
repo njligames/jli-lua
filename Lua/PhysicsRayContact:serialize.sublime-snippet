@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>PhysicsRayContact_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsRayContact::serialize()</description>
-</snippet>

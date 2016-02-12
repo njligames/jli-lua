@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>Action_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 Action::getType()</description>
-</snippet>

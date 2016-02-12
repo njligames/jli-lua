@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setWrapS(${1:})]]></content>
-	<tabTrigger>MaterialProperty_setWrapS</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void MaterialProperty::setWrapS( val)</description>
-</snippet>

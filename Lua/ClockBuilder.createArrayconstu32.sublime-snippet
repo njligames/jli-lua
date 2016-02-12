@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ClockBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>ClockBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** ClockBuilder::createArray(const u32 size)</description>
-</snippet>

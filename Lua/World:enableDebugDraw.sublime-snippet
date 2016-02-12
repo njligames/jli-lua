@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[enableDebugDraw(${1: *},${2: *},${3: *})]]></content>
-	<tabTrigger>World_enableDebugDraw</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void World::enableDebugDraw( * camera, * shader, * material)</description>
-</snippet>

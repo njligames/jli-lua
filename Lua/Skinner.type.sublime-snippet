@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Skinner.type()]]></content>
-	<tabTrigger>Skinner__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 Skinner::type()</description>
-</snippet>

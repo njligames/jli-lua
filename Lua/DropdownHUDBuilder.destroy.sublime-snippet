@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.DropdownHUDBuilder.destroy(${1: *})]]></content>
-	<tabTrigger>DropdownHUDBuilder__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void DropdownHUDBuilder::destroy( * object)</description>
-</snippet>

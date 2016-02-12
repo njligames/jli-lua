@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getTargetAngMotorVelocity()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getTargetAngMotorVelocity</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 PhysicsConstraintSlider::getTargetAngMotorVelocity()</description>
-</snippet>

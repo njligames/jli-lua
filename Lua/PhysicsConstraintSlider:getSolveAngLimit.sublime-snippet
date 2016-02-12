@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getSolveAngLimit()]]></content>
-	<tabTrigger>PhysicsConstraintSlider_getSolveAngLimit</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool PhysicsConstraintSlider::getSolveAngLimit()</description>
-</snippet>

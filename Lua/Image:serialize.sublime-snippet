@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>Image_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Image::serialize()</description>
-</snippet>

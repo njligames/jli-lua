@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setTrimmedName(${1:const char *})]]></content>
-	<tabTrigger>Rect_setTrimmedName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Rect::setTrimmedName(const char * trimmedname)</description>
-</snippet>

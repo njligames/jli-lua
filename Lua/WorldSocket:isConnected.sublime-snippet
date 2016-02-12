@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isConnected()]]></content>
-	<tabTrigger>WorldSocket_isConnected</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool WorldSocket::isConnected()</description>
-</snippet>

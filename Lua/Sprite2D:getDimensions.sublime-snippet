@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getDimensions(${1: *})]]></content>
-	<tabTrigger>Sprite2D_getDimensions</tabTrigger>
-	<scope>source.lua</scope>
-	<description> Sprite2D::getDimensions( * node)</description>
-</snippet>

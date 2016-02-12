@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getDebugDrawer()]]></content>
-	<tabTrigger>World_getDebugDrawer</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * World::getDebugDrawer()</description>
-</snippet>

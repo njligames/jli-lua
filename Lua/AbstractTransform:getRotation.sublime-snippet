@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getRotation()]]></content>
-	<tabTrigger>AbstractTransform_getRotation</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btQuaternion AbstractTransform::getRotation()</description>
-</snippet>

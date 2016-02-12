@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getRotationalLimitMotor(${1:int})]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6Dof_getRotationalLimitMotor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btRotationalLimitMotor * PhysicsConstraintGeneric6Dof::getRotationalLimitMotor(int index)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[drawLine(${1:const  &},${2:const  &},${3:const  &})]]></content>
-	<tabTrigger>Image_drawLine</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Image::drawLine(const  & from,const  & to,const  & imageSource)</description>
-</snippet>

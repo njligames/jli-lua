@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>LevelOfDetail_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void LevelOfDetail::serialize()</description>
-</snippet>

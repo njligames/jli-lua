@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>PhysicsRayContact_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 PhysicsRayContact::getType()</description>
-</snippet>

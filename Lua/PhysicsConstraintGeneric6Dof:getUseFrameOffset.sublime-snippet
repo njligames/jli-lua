@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getUseFrameOffset()]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6Dof_getUseFrameOffset</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool PhysicsConstraintGeneric6Dof::getUseFrameOffset()</description>
-</snippet>

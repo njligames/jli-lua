@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsContact.load(${1: &},${2:lua_State *},${3:int})]]></content>
-	<tabTrigger>PhysicsContact__load</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsContact::load( & object,lua_State * L,int stack_index)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getEdge(${1:int},${2:btVector3 &},${3:btVector3 &})]]></content>
-	<tabTrigger>PhysicsShape_getEdge</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsShape::getEdge(int i,btVector3 & pa,btVector3 & pb)</description>
-</snippet>

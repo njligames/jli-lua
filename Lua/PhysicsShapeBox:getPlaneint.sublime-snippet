@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getPlane(${1:int})]]></content>
-	<tabTrigger>PhysicsShapeBox_getPlane</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btVector3 PhysicsShapeBox::getPlane(int i)</description>
-</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+getAllActionNames()
+]]></content>
+<tabTrigger>AbstractActionable:getAllActionNames</tabTrigger>
+<scope>source.lua</scope>
+</snippet>
+

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addParticleEmitter(${1: *})]]></content>
-	<tabTrigger>Node_addParticleEmitter</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 Node::addParticleEmitter( * emitter)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isConstraintEnabled()]]></content>
-	<tabTrigger>PhysicsConstraint_isConstraintEnabled</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool PhysicsConstraint::isConstraintEnabled()</description>
-</snippet>

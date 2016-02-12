@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setDamping(${1:int},${2:f32})]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6DofSpring_setDamping</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintGeneric6DofSpring::setDamping(int index,f32 damping)</description>
-</snippet>

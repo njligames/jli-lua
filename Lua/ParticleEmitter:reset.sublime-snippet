@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[reset()]]></content>
-	<tabTrigger>ParticleEmitter_reset</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ParticleEmitter::reset()</description>
-</snippet>

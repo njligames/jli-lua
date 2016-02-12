@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setOrigin(${1:const btVector3 &})]]></content>
-	<tabTrigger>AbstractTransform_setOrigin</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractTransform::setOrigin(const btVector3 & origin)</description>
-</snippet>

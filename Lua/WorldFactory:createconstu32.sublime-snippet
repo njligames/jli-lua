@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[create(${1:const u32})]]></content>
-	<tabTrigger>WorldFactory_create</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * WorldFactory::create(const u32 type)</description>
-</snippet>

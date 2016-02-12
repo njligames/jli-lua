@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ButtonHUD.clone(${1:const  &})]]></content>
-	<tabTrigger>ButtonHUD__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * ButtonHUD::clone(const  & object)</description>
-</snippet>

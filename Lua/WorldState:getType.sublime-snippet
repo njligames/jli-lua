@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>WorldState_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 WorldState::getType()</description>
-</snippet>

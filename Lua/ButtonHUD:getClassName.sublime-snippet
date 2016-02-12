@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getClassName()]]></content>
-	<tabTrigger>ButtonHUD_getClassName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * ButtonHUD::getClassName()</description>
-</snippet>

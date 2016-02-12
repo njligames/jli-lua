@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.CubeBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>CubeBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** CubeBuilder::createArray(const u32 size)</description>
-</snippet>

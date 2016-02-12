@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setX(${1:const btScalar &})]]></content>
-	<tabTrigger>tVector2_setX</tabTrigger>
-	<scope>source.lua</scope>
-	<description>SIMD_FORCE_INLINE void tVector2::setX(const btScalar & x)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintGeneric6DofSpring.type()]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6DofSpring__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 PhysicsConstraintGeneric6DofSpring::type()</description>
-</snippet>

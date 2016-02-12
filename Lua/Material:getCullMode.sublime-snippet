@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getCullMode()]]></content>
-	<tabTrigger>Material_getCullMode</tabTrigger>
-	<scope>source.lua</scope>
-	<description> Material::getCullMode()</description>
-</snippet>

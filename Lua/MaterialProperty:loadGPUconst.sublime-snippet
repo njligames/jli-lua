@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[loadGPU(${1:const  &})]]></content>
-	<tabTrigger>MaterialProperty_loadGPU</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void MaterialProperty::loadGPU(const  & img)</description>
-</snippet>

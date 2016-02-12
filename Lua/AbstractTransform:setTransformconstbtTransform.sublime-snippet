@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setTransform(${1:const btTransform &})]]></content>
-	<tabTrigger>AbstractTransform_setTransform</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractTransform::setTransform(const btTransform & transform)</description>
-</snippet>

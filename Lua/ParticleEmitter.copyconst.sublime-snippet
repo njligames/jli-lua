@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ParticleEmitter.copy(${1:const  &})]]></content>
-	<tabTrigger>ParticleEmitter__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * ParticleEmitter::copy(const  & object)</description>
-</snippet>

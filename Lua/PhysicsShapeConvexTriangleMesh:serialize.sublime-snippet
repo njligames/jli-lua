@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>PhysicsShapeConvexTriangleMesh_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsShapeConvexTriangleMesh::serialize()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[createImage(${1:const s8 *},${2:})]]></content>
-	<tabTrigger>WorldHUD_createImage</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 WorldHUD::createImage(const s8 * filename, imageFlags)</description>
-</snippet>

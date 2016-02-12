@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.LabelHUDBuilder.type()]]></content>
-	<tabTrigger>LabelHUDBuilder__type</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static u32 LabelHUDBuilder::type()</description>
-</snippet>

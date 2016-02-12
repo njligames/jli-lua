@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>SceneState_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 SceneState::getType()</description>
-</snippet>

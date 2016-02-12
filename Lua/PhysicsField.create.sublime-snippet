@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsField.create()]]></content>
-	<tabTrigger>PhysicsField__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsField::create()</description>
-</snippet>

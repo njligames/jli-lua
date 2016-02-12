@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+angle()
+]]></content>
+<tabTrigger>btVector2:angle</tabTrigger>
+<scope>source.lua</scope>
+</snippet>
+

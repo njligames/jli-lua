@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[fontSize(${1:f32})]]></content>
-	<tabTrigger>WorldHUD_fontSize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::fontSize(f32 size)</description>
-</snippet>

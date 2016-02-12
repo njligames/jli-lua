@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[textBounds(${1:const  &},${2: &},${3:const s8 *},${4:const s8 *})]]></content>
-	<tabTrigger>WorldHUD_textBounds</tabTrigger>
-	<scope>source.lua</scope>
-	<description>f32 WorldHUD::textBounds(const  & position, & bounds,const s8 * string,const s8 * end)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getTextShadowColor()]]></content>
-	<tabTrigger>ButtonHUD_getTextShadowColor</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const btVector4 & ButtonHUD::getTextShadowColor()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.SpriteFrameAtlasBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>SpriteFrameAtlasBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** SpriteFrameAtlasBuilder::createArray(const u32 size)</description>
-</snippet>

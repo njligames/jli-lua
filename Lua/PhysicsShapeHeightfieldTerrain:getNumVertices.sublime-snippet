@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumVertices()]]></content>
-	<tabTrigger>PhysicsShapeHeightfieldTerrain_getNumVertices</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int PhysicsShapeHeightfieldTerrain::getNumVertices()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsRayContact.create()]]></content>
-	<tabTrigger>PhysicsRayContact__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsRayContact::create()</description>
-</snippet>

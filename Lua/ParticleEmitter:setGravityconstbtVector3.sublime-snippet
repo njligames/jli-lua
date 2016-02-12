@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setGravity(${1:const btVector3 &})]]></content>
-	<tabTrigger>ParticleEmitter_setGravity</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ParticleEmitter::setGravity(const btVector3 & value)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getClassName()]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6Dof_getClassName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * PhysicsConstraintGeneric6Dof::getClassName()</description>
-</snippet>

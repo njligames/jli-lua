@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[numberOfFrames()]]></content>
-	<tabTrigger>SpriteFrameAtlas_numberOfFrames</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u32 SpriteFrameAtlas::numberOfFrames()</description>
-</snippet>

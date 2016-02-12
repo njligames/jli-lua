@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>CameraBuilder_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 CameraBuilder::getType()</description>
-</snippet>

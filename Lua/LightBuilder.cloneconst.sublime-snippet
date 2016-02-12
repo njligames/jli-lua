@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.LightBuilder.clone(${1:const  &})]]></content>
-	<tabTrigger>LightBuilder__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * LightBuilder::clone(const  & object)</description>
-</snippet>

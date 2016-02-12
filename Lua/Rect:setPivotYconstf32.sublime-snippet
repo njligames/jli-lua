@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setPivotY(${1:const f32})]]></content>
-	<tabTrigger>Rect_setPivotY</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Rect::setPivotY(const f32 y)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[~CustomFilterCallback()]]></content>
-	<tabTrigger>CustomFilterCallback_~CustomFilterCallback</tabTrigger>
-	<scope>source.lua</scope>
-	<description> CustomFilterCallback::~CustomFilterCallback()</description>
-</snippet>

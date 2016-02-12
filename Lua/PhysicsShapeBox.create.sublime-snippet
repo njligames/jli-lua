@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeBox.create()]]></content>
-	<tabTrigger>PhysicsShapeBox__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsShapeBox::create()</description>
-</snippet>

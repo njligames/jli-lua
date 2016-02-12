@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.LabelHUDBuilder.destroy(${1: *})]]></content>
-	<tabTrigger>LabelHUDBuilder__destroy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void LabelHUDBuilder::destroy( * object)</description>
-</snippet>

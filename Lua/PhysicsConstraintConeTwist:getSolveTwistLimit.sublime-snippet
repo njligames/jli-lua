@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getSolveTwistLimit()]]></content>
-	<tabTrigger>PhysicsConstraintConeTwist_getSolveTwistLimit</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int PhysicsConstraintConeTwist::getSolveTwistLimit()</description>
-</snippet>

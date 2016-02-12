@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumPoints()]]></content>
-	<tabTrigger>PhysicsShapeConvexHull_getNumPoints</tabTrigger>
-	<scope>source.lua</scope>
-	<description>int PhysicsShapeConvexHull::getNumPoints()</description>
-</snippet>

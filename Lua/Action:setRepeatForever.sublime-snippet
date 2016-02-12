@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setRepeatForever()]]></content>
-	<tabTrigger>Action_setRepeatForever</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Action::setRepeatForever()</description>
-</snippet>

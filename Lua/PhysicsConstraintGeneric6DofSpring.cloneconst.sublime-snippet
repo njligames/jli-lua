@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintGeneric6DofSpring.clone(${1:const  &})]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6DofSpring__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsConstraintGeneric6DofSpring::clone(const  & object)</description>
-</snippet>

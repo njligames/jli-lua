@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>PhysicsConstraintConeTwistBuilder_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 PhysicsConstraintConeTwistBuilder::getType()</description>
-</snippet>

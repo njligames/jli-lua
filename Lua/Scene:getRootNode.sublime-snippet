@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getRootNode()]]></content>
-	<tabTrigger>Scene_getRootNode</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * Scene::getRootNode()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>PlaneBuilder_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 PlaneBuilder::getType()</description>
-</snippet>

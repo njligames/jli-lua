@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getScale()]]></content>
-	<tabTrigger>AbstractTransform_getScale</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btVector3 AbstractTransform::getScale()</description>
-</snippet>

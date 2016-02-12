@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getForwardVector()]]></content>
-	<tabTrigger>Camera_getForwardVector</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btVector3 Camera::getForwardVector()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getType()]]></content>
-	<tabTrigger>AbstractBuilder_getType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>s32 AbstractBuilder::getType()</description>
-</snippet>

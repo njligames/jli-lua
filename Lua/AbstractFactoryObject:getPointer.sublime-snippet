@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getPointer()]]></content>
-	<tabTrigger>AbstractFactoryObject_getPointer</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const void * AbstractFactoryObject::getPointer()</description>
-</snippet>

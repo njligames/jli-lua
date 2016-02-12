@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setY(${1:const btScalar &})]]></content>
-	<tabTrigger>tVector2_setY</tabTrigger>
-	<scope>source.lua</scope>
-	<description>SIMD_FORCE_INLINE void tVector2::setY(const btScalar & y)</description>
-</snippet>

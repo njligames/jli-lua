@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setFrames(${1:const btTransform &},${2:const btTransform &})]]></content>
-	<tabTrigger>PhysicsConstraintSlider_setFrames</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsConstraintSlider::setFrames(const btTransform & frameA,const btTransform & frameB)</description>
-</snippet>

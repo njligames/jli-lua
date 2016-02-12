@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isInside(${1:const btVector3 &},${2:f32})]]></content>
-	<tabTrigger>PhysicsShapeSphere_isInside</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool PhysicsShapeSphere::isInside(const btVector3 & pt,f32 tolerance)</description>
-</snippet>

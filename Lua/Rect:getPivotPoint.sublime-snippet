@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getPivotPoint()]]></content>
-	<tabTrigger>Rect_getPivotPoint</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const  & Rect::getPivotPoint()</description>
-</snippet>

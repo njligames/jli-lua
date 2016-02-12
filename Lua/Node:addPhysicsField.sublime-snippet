@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addPhysicsField(${1: *})]]></content>
-	<tabTrigger>Node_addPhysicsField</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::addPhysicsField( * body)</description>
-</snippet>

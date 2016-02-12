@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setOffset(${1:const  &})]]></content>
-	<tabTrigger>Rect_setOffset</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Rect::setOffset(const  & offset)</description>
-</snippet>

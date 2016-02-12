@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeStaticPlane.clone(${1:const  &})]]></content>
-	<tabTrigger>PhysicsShapeStaticPlane__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsShapeStaticPlane::clone(const  & object)</description>
-</snippet>

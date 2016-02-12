@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsBodySoft.createArray(${1:const u32})]]></content>
-	<tabTrigger>PhysicsBodySoft__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** PhysicsBodySoft::createArray(const u32 size)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[closePath()]]></content>
-	<tabTrigger>WorldHUD_closePath</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::closePath()</description>
-</snippet>

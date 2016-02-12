@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>DropdownHUD_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void DropdownHUD::serialize()</description>
-</snippet>

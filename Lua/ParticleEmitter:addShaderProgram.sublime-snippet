@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addShaderProgram(${1: *})]]></content>
-	<tabTrigger>ParticleEmitter_addShaderProgram</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ParticleEmitter::addShaderProgram( * shaderProgram)</description>
-</snippet>

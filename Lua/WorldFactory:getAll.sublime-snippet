@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getAll()]]></content>
-	<tabTrigger>WorldFactory_getAll</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldFactory::getAll()</description>
-</snippet>

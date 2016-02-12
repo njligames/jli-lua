@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getPhysicsBody()]]></content>
-	<tabTrigger>Node_getPhysicsBody</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * Node::getPhysicsBody()</description>
-</snippet>

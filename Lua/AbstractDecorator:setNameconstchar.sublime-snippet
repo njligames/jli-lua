@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setName(${1:const char *})]]></content>
-	<tabTrigger>AbstractDecorator_setName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void AbstractDecorator::setName(const char * name)</description>
-</snippet>

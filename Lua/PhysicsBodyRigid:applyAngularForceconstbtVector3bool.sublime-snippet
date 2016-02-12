@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[applyAngularForce(${1:const btVector3 &},${2:bool})]]></content>
-	<tabTrigger>PhysicsBodyRigid_applyAngularForce</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsBodyRigid::applyAngularForce(const btVector3 & direction,bool impulse)</description>
-</snippet>

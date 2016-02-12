@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getAabb(${1:btVector3 &},${2:btVector3 &})]]></content>
-	<tabTrigger>Node_getAabb</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Node::getAabb(btVector3 & aabbMin,btVector3 & aabbMax)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isRepeatingForever()]]></content>
-	<tabTrigger>Action_isRepeatingForever</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool Action::isRepeatingForever()</description>
-</snippet>

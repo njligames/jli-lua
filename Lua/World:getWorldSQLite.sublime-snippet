@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getWorldSQLite()]]></content>
-	<tabTrigger>World_getWorldSQLite</tabTrigger>
-	<scope>source.lua</scope>
-	<description> * World::getWorldSQLite()</description>
-</snippet>

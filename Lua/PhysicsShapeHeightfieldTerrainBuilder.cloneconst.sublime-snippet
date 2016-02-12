@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeHeightfieldTerrainBuilder.clone(${1:const  &})]]></content>
-	<tabTrigger>PhysicsShapeHeightfieldTerrainBuilder__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsShapeHeightfieldTerrainBuilder::clone(const  & object)</description>
-</snippet>

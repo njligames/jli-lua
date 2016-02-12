@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[printStack()]]></content>
-	<tabTrigger>WorldLuaVirtualMachine_printStack</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldLuaVirtualMachine::printStack()</description>
-</snippet>

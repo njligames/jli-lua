@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getObjectType()]]></content>
-	<tabTrigger>NodeBuilder_getObjectType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u32 NodeBuilder::getObjectType()</description>
-</snippet>

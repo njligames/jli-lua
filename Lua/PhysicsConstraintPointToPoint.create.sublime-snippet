@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintPointToPoint.create()]]></content>
-	<tabTrigger>PhysicsConstraintPointToPoint__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsConstraintPointToPoint::create()</description>
-</snippet>

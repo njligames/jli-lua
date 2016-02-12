@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.SliderHUDBuilder.clone(${1:const  &})]]></content>
-	<tabTrigger>SliderHUDBuilder__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * SliderHUDBuilder::clone(const  & object)</description>
-</snippet>

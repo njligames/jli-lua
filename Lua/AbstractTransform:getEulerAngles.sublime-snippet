@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getEulerAngles()]]></content>
-	<tabTrigger>AbstractTransform_getEulerAngles</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btVector3 AbstractTransform::getEulerAngles()</description>
-</snippet>

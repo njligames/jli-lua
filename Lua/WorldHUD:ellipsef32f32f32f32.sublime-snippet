@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ellipse(${1:f32},${2:f32},${3:f32},${4:f32})]]></content>
-	<tabTrigger>WorldHUD_ellipse</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::ellipse(f32 centerx,f32 centery,f32 radiusx,f32 radiusy)</description>
-</snippet>

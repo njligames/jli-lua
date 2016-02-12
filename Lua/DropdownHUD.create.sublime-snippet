@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.DropdownHUD.create()]]></content>
-	<tabTrigger>DropdownHUD__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * DropdownHUD::create()</description>
-</snippet>

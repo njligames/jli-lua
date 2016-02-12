@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setPixels(${1:const  &},${2:const  &},${3:const  &},${4:const  &})]]></content>
-	<tabTrigger>Image_setPixels</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool Image::setPixels(const  & position,const  & dimensions,const  & sourceImage,const  & sourceImageOffset)</description>
-</snippet>

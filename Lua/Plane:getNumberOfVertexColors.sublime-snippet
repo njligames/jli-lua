@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getNumberOfVertexColors(${1: *},${2: *})]]></content>
-	<tabTrigger>Plane_getNumberOfVertexColors</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u64 Plane::getNumberOfVertexColors( * geometry, * node)</description>
-</snippet>

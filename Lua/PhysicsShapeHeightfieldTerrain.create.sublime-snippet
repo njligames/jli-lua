@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeHeightfieldTerrain.create()]]></content>
-	<tabTrigger>PhysicsShapeHeightfieldTerrain__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsShapeHeightfieldTerrain::create()</description>
-</snippet>

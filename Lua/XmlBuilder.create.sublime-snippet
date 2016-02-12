@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.XmlBuilder.create()]]></content>
-	<tabTrigger>XmlBuilder__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * XmlBuilder::create()</description>
-</snippet>

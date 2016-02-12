@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.LabelHUDBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>LabelHUDBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** LabelHUDBuilder::createArray(const u32 size)</description>
-</snippet>

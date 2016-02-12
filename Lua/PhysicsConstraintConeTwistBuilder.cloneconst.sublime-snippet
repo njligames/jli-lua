@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintConeTwistBuilder.clone(${1:const  &})]]></content>
-	<tabTrigger>PhysicsConstraintConeTwistBuilder__clone</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsConstraintConeTwistBuilder::clone(const  & object)</description>
-</snippet>

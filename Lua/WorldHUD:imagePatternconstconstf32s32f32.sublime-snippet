@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[imagePattern(${1:const  &},${2:const  &},${3:f32},${4:s32},${5:f32})]]></content>
-	<tabTrigger>WorldHUD_imagePattern</tabTrigger>
-	<scope>source.lua</scope>
-	<description> WorldHUD::imagePattern(const  & startPos,const  & endPos,f32 angle,s32 imageHandle,f32 alpha)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.XmlBuilder.createArray(${1:const u32})]]></content>
-	<tabTrigger>XmlBuilder__createArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  ** XmlBuilder::createArray(const u32 size)</description>
-</snippet>

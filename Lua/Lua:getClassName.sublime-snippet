@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getClassName()]]></content>
-	<tabTrigger>Lua_getClassName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * Lua::getClassName()</description>
-</snippet>

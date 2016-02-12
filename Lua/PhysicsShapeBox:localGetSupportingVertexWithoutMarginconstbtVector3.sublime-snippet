@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[localGetSupportingVertexWithoutMargin(${1:const btVector3 &})]]></content>
-	<tabTrigger>PhysicsShapeBox_localGetSupportingVertexWithoutMargin</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btVector3 PhysicsShapeBox::localGetSupportingVertexWithoutMargin(const btVector3 & vec)</description>
-</snippet>

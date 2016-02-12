@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[textLetterSpacing(${1:f32})]]></content>
-	<tabTrigger>WorldHUD_textLetterSpacing</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::textLetterSpacing(f32 spacing)</description>
-</snippet>

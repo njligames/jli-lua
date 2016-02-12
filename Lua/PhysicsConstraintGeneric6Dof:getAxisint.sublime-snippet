@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getAxis(${1:int})]]></content>
-	<tabTrigger>PhysicsConstraintGeneric6Dof_getAxis</tabTrigger>
-	<scope>source.lua</scope>
-	<description>btVector3 PhysicsConstraintGeneric6Dof::getAxis(int axis_index)</description>
-</snippet>

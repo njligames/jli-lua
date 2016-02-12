@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.ClockBuilder.destroyArray(${1: **})]]></content>
-	<tabTrigger>ClockBuilder__destroyArray</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void ClockBuilder::destroyArray( ** array)</description>
-</snippet>

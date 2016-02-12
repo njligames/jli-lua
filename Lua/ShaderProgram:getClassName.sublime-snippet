@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getClassName()]]></content>
-	<tabTrigger>ShaderProgram_getClassName</tabTrigger>
-	<scope>source.lua</scope>
-	<description>const char * ShaderProgram::getClassName()</description>
-</snippet>

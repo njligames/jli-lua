@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.Image.create(${1:const  &})]]></content>
-	<tabTrigger>Image__create</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * Image::create(const  & builder)</description>
-</snippet>

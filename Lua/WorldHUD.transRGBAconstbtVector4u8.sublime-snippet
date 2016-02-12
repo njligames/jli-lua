@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldHUD.transRGBA(${1:const btVector4 &},${2:u8})]]></content>
-	<tabTrigger>WorldHUD__transRGBA</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static btVector4 WorldHUD::transRGBA(const btVector4 & c0,u8 a)</description>
-</snippet>

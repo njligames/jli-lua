@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[bezierTo(${1:const  &},${2:const  &},${3:const  &})]]></content>
-	<tabTrigger>WorldHUD_bezierTo</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void WorldHUD::bezierTo(const  & controlPoint1,const  & controlPoint2,const  & pos)</description>
-</snippet>

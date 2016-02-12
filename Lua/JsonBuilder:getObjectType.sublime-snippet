@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getObjectType()]]></content>
-	<tabTrigger>JsonBuilder_getObjectType</tabTrigger>
-	<scope>source.lua</scope>
-	<description>u32 JsonBuilder::getObjectType()</description>
-</snippet>

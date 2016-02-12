@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsShapeCapsule.copy(${1:const  &})]]></content>
-	<tabTrigger>PhysicsShapeCapsule__copy</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  * PhysicsShapeCapsule::copy(const  & object)</description>
-</snippet>

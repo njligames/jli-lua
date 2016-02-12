@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[length2()]]></content>
-	<tabTrigger>tVector2_length2</tabTrigger>
-	<scope>source.lua</scope>
-	<description>SIMD_FORCE_INLINE btScalar tVector2::length2()</description>
-</snippet>

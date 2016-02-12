@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[removeShaderProgram()]]></content>
-	<tabTrigger>Geometry_removeShaderProgram</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void Geometry::removeShaderProgram()</description>
-</snippet>

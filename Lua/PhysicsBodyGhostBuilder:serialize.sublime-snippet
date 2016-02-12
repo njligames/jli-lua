@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[serialize()]]></content>
-	<tabTrigger>PhysicsBodyGhostBuilder_serialize</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsBodyGhostBuilder::serialize()</description>
-</snippet>

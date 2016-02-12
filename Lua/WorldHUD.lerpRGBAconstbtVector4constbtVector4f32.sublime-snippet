@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.WorldHUD.lerpRGBA(${1:const btVector4 &},${2:const btVector4 &},${3:f32})]]></content>
-	<tabTrigger>WorldHUD__lerpRGBA</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static btVector4 WorldHUD::lerpRGBA(const btVector4 & c0,const btVector4 & c1,f32 u)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.World.getInstance()]]></content>
-	<tabTrigger>World__getInstance</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static  *const World::getInstance()</description>
-</snippet>

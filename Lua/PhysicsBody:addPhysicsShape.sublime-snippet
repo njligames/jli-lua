@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[addPhysicsShape(${1: *})]]></content>
-	<tabTrigger>PhysicsBody_addPhysicsShape</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void PhysicsBody::addPhysicsShape( * shape)</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hasAlpha()]]></content>
-	<tabTrigger>Image_hasAlpha</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool Image::hasAlpha()</description>
-</snippet>

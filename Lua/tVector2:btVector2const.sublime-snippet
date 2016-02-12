@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[btVector2(${1:const  &})]]></content>
-	<tabTrigger>tVector2_btVector2</tabTrigger>
-	<scope>source.lua</scope>
-	<description>SIMD_FORCE_INLINE tVector2::btVector2(const  & v)</description>
-</snippet>

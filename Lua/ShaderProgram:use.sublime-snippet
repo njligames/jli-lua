@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[use()]]></content>
-	<tabTrigger>ShaderProgram_use</tabTrigger>
-	<scope>source.lua</scope>
-	<description>void ShaderProgram::use()</description>
-</snippet>

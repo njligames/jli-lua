@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[onMessage()]]></content>
-	<tabTrigger>NodeState_onMessage</tabTrigger>
-	<scope>source.lua</scope>
-	<description>bool NodeState::onMessage()</description>
-</snippet>

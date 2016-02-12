@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JLI.PhysicsConstraintFixedBuilder.load(${1: &},${2:lua_State *},${3:int})]]></content>
-	<tabTrigger>PhysicsConstraintFixedBuilder__load</tabTrigger>
-	<scope>source.lua</scope>
-	<description>static void PhysicsConstraintFixedBuilder::load( & object,lua_State * L,int stack_index)</description>
-</snippet>
