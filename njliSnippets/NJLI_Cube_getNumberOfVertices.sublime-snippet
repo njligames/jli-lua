@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getNumberOfVertices(${1:geometry}, ${2:node})
-]]></content>
-<tabTrigger>Cube:getNumberOfVertices</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

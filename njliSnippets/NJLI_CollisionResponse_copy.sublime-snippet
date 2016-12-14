@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.CollisionResponse.copy(${1:object})
-]]></content>
-<tabTrigger>CollisionResponse.copy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.JsonJLIBuilder.clone(${1:object})
-]]></content>
-<tabTrigger>JsonJLIBuilder.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

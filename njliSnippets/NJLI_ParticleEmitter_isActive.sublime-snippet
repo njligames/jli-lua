@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-isActive()
-]]></content>
-<tabTrigger>ParticleEmitter:isActive</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

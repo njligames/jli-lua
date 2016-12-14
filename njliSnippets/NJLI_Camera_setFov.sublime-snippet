@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setFov(${1:val})
-]]></content>
-<tabTrigger>Camera:setFov</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

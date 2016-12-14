@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setTransform(${1:transform})
-]]></content>
-<tabTrigger>Node:setTransform</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

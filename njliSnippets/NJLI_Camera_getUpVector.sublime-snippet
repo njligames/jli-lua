@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getUpVector()
-]]></content>
-<tabTrigger>Camera:getUpVector</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

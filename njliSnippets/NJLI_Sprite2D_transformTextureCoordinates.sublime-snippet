@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-transformTextureCoordinates(${1:node}, ${2:transform})
-]]></content>
-<tabTrigger>Sprite2D:transformTextureCoordinates</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

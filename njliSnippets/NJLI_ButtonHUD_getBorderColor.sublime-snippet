@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getBorderColor()
-]]></content>
-<tabTrigger>ButtonHUD:getBorderColor</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

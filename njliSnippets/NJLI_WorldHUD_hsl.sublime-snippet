@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.WorldHUD.hsl(${1:h}, ${2:s}, ${3:l})
-]]></content>
-<tabTrigger>WorldHUD.hsl</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

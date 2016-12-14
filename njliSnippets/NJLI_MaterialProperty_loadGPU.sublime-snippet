@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-loadGPU(${1:fbo})
-]]></content>
-<tabTrigger>MaterialProperty:loadGPU</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsConstraintHinge.type()
-]]></content>
-<tabTrigger>PhysicsConstraintHinge.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

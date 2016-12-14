@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.StopWatch.type()
-]]></content>
-<tabTrigger>StopWatch.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

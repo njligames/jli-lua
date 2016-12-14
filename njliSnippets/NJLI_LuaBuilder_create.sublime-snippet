@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.LuaBuilder.create()
-]]></content>
-<tabTrigger>LuaBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getStartParticleSizeVariance()
-]]></content>
-<tabTrigger>ParticleEmitter:getStartParticleSizeVariance</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

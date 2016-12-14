@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-fill()
-]]></content>
-<tabTrigger>WorldHUD:fill</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

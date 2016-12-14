@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setCheckboxRadius()
-]]></content>
-<tabTrigger>CheckboxHUD:setCheckboxRadius</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

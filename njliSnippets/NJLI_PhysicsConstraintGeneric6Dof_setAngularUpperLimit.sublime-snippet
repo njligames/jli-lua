@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setAngularUpperLimit(${1:angularUpper})
-]]></content>
-<tabTrigger>PhysicsConstraintGeneric6Dof:setAngularUpperLimit</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

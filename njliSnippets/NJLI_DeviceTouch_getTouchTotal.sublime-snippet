@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getTouchTotal()
-]]></content>
-<tabTrigger>DeviceTouch:getTouchTotal</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

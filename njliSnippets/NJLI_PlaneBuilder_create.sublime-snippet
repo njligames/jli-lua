@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PlaneBuilder.create()
-]]></content>
-<tabTrigger>PlaneBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

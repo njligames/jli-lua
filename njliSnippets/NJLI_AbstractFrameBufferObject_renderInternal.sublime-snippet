@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-renderInternal()
-]]></content>
-<tabTrigger>AbstractFrameBufferObject:renderInternal</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

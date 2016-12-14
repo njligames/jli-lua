@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getTransform(${1:xform})
-]]></content>
-<tabTrigger>WorldHUD:getTransform</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

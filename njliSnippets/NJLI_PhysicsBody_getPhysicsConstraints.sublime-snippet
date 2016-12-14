@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getPhysicsConstraints(${1:physicsConstraints})
-]]></content>
-<tabTrigger>PhysicsBody:getPhysicsConstraints</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

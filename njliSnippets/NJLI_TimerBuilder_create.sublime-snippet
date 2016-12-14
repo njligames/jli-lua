@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.TimerBuilder.create()
-]]></content>
-<tabTrigger>TimerBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-sort()
-]]></content>
-<tabTrigger>Geometry:sort</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

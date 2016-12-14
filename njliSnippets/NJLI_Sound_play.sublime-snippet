@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-play()
-]]></content>
-<tabTrigger>Sound:play</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

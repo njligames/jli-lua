@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-doString(${1:code})
-]]></content>
-<tabTrigger>WorldLuaVirtualMachine:doString</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

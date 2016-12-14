@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.World.operator=()
-]]></content>
-<tabTrigger>World.operator=</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

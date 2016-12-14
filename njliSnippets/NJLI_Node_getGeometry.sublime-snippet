@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getGeometry()
-]]></content>
-<tabTrigger>Node:getGeometry</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

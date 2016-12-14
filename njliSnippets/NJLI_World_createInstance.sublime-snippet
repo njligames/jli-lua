@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.World.createInstance()
-]]></content>
-<tabTrigger>World.createInstance</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

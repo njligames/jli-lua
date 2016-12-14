@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsCloseContactBuilder.type()
-]]></content>
-<tabTrigger>PhysicsCloseContactBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

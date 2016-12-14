@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-calculateSerializeBufferSize()
-]]></content>
-<tabTrigger>PhysicsBody:calculateSerializeBufferSize</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

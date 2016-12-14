@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setStaticPhysics()
-]]></content>
-<tabTrigger>PhysicsBody:setStaticPhysics</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

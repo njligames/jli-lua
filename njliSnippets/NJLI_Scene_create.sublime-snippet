@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Scene.create(${1:builder})
-]]></content>
-<tabTrigger>Scene.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

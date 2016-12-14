@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsConstraintPointToPoint.copy(${1:object})
-]]></content>
-<tabTrigger>PhysicsConstraintPointToPoint.copy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

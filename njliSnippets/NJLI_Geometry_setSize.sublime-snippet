@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setSize()
-]]></content>
-<tabTrigger>Geometry:setSize</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

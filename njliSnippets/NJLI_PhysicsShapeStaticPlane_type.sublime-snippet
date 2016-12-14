@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeStaticPlane.type()
-]]></content>
-<tabTrigger>PhysicsShapeStaticPlane.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

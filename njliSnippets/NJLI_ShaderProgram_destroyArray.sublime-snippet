@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.ShaderProgram.destroyArray(${1:array})
-]]></content>
-<tabTrigger>ShaderProgram.destroyArray</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getScaledPoint(${1:i})
-]]></content>
-<tabTrigger>PhysicsShapeConvexHull:getScaledPoint</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

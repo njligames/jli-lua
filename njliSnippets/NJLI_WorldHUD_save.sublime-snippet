@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-save()
-]]></content>
-<tabTrigger>WorldHUD:save</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

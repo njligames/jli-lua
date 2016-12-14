@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getFontFace()
-]]></content>
-<tabTrigger>LabelHUD:getFontFace</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.CheckboxHUDBuilder.create()
-]]></content>
-<tabTrigger>CheckboxHUDBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

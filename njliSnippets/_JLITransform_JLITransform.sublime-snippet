@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-JLITransform()
-]]></content>
-<tabTrigger>JLITransform:JLITransform</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

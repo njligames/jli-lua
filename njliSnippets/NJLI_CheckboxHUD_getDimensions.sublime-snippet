@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getDimensions()
-]]></content>
-<tabTrigger>CheckboxHUD:getDimensions</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

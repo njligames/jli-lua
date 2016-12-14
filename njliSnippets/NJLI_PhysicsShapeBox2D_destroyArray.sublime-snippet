@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeBox2D.destroyArray(${1:array})
-]]></content>
-<tabTrigger>PhysicsShapeBox2D.destroyArray</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

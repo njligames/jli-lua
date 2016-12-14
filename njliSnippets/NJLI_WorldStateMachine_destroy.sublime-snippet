@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.WorldStateMachine.destroy(${1:object})
-]]></content>
-<tabTrigger>WorldStateMachine.destroy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

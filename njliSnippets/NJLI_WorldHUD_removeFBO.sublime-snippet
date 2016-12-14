@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.WorldHUD.removeFBO()
-]]></content>
-<tabTrigger>WorldHUD.removeFBO</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

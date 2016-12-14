@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-sendMessage()
-]]></content>
-<tabTrigger>WorldSocket:sendMessage</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

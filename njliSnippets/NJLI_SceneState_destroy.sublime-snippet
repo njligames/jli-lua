@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.SceneState.destroy(${1:object})
-]]></content>
-<tabTrigger>SceneState.destroy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

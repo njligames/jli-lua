@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.LevelOfDetailBuilder.create()
-]]></content>
-<tabTrigger>LevelOfDetailBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

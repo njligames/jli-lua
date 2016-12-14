@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getArrayBufferSize()
-]]></content>
-<tabTrigger>Geometry:getArrayBufferSize</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

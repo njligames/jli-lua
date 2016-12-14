@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.ButtonHUDBuilder.create()
-]]></content>
-<tabTrigger>ButtonHUDBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-removeSound(${1:sound})
-]]></content>
-<tabTrigger>Node:removeSound</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-touchDown(${1:m_CurrentTouches})
-]]></content>
-<tabTrigger>WorldState:touchDown</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

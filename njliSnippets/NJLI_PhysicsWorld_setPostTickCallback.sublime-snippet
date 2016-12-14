@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setPostTickCallback(${1:callback})
-]]></content>
-<tabTrigger>PhysicsWorld:setPostTickCallback</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setOrigin(${1:origin})
-]]></content>
-<tabTrigger>Node:setOrigin</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

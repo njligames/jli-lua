@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Skinner.type()
-]]></content>
-<tabTrigger>Skinner.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

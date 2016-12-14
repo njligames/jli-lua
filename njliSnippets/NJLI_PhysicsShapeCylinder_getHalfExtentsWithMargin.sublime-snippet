@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getHalfExtentsWithMargin()
-]]></content>
-<tabTrigger>PhysicsShapeCylinder:getHalfExtentsWithMargin</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

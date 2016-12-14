@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsRayContactBuilder.create()
-]]></content>
-<tabTrigger>PhysicsRayContactBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

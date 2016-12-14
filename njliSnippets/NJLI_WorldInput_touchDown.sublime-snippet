@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-touchDown()
-]]></content>
-<tabTrigger>WorldInput:touchDown</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

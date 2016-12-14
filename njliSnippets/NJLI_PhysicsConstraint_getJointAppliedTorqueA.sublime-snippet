@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getJointAppliedTorqueA()
-]]></content>
-<tabTrigger>PhysicsConstraint:getJointAppliedTorqueA</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

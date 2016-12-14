@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-removeFromParentNode()
-]]></content>
-<tabTrigger>Node:removeFromParentNode</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

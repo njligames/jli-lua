@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.SoundBuilder.type()
-]]></content>
-<tabTrigger>SoundBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

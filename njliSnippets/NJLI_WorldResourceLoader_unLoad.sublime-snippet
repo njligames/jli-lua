@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-unLoad(${1:file})
-]]></content>
-<tabTrigger>WorldResourceLoader:unLoad</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

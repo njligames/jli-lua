@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-normalize()
-]]></content>
-<tabTrigger>btVector2:normalize</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

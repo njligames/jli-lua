@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeHeightfieldTerrain.clone(${1:object})
-]]></content>
-<tabTrigger>PhysicsShapeHeightfieldTerrain.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

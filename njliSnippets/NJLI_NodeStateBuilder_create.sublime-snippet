@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.NodeStateBuilder.create()
-]]></content>
-<tabTrigger>NodeStateBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

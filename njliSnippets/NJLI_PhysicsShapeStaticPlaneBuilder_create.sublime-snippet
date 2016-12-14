@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeStaticPlaneBuilder.create()
-]]></content>
-<tabTrigger>PhysicsShapeStaticPlaneBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

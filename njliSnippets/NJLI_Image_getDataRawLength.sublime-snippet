@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getDataRawLength()
-]]></content>
-<tabTrigger>Image:getDataRawLength</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

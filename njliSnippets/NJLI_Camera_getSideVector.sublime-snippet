@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getSideVector()
-]]></content>
-<tabTrigger>Camera:getSideVector</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

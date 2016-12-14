@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getTextureFilename()
-]]></content>
-<tabTrigger>ParticleEmitter:getTextureFilename</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

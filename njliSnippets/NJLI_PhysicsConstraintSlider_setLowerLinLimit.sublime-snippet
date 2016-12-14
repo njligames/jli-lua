@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setLowerLinLimit(${1:lowerLimit})
-]]></content>
-<tabTrigger>PhysicsConstraintSlider:setLowerLinLimit</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsConstraintBuilder.type()
-]]></content>
-<tabTrigger>PhysicsConstraintBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

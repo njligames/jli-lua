@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.LevelOfDetail.clone(${1:object})
-]]></content>
-<tabTrigger>LevelOfDetail.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

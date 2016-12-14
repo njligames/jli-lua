@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setRawTime(${1:milliseconds})
-]]></content>
-<tabTrigger>AbstractClock:setRawTime</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

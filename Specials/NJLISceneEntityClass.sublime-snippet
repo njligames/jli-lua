@@ -1,0 +1,123 @@
+<snippet>
+  <content><![CDATA[
+local SceneEntity = require "njli.statemachine.sceneentity"
+
+local ${1:NJLISceneEntityClassName} = {}
+${1:NJLISceneEntityClassName}.__index = ${1:NJLISceneEntityClassName}
+
+local json = require('JSON')
+
+setmetatable(${1:NJLISceneEntityClassName}, {
+  __index = SceneEntity,
+  __call = function (cls, ...)
+    local self = setmetatable({}, cls)
+    SceneEntity.create(self, ...)
+    self:create(...)
+    return self
+  end,
+})
+
+function ${1:NJLISceneEntityClassName}:className()
+  return "${1:NJLISceneEntityClassName}"
+end
+
+function ${1:NJLISceneEntityClassName}:class()
+  return self
+end
+
+function ${1:NJLISceneEntityClassName}:superClass()
+  return SceneEntity
+end
+
+function ${1:NJLISceneEntityClassName}:destroy()
+  ${1:NJLISceneEntityClassName}.__gc(self)
+  SceneEntity.destroy(self)
+end
+
+function ${1:NJLISceneEntityClassName}:create(init)
+  --TODO: Create and initialize properties...
+
+  if init then
+    --TODO: Initialize the properties...
+  end
+end
+
+function ${1:NJLISceneEntityClassName}:__gc()
+  --TODO: Destroy properties
+end
+
+function ${1:NJLISceneEntityClassName}:__tostring()
+  --TODO: Represent the class as a string...
+  return json.encode(self)
+end
+
+--TODO: List the Functions for ${1:NJLISceneEntityClassName}
+
+function ${1:NJLISceneEntityClassName}:isLoaded()
+  return SceneEntity.isLoaded(self)
+end
+
+function ${1:NJLISceneEntityClassName}:load()
+  SceneEntity.load(self)
+end
+
+function ${1:NJLISceneEntityClassName}:unLoad()
+  SceneEntity.unLoad(self)
+end
+
+function ${1:NJLISceneEntityClassName}:initialize()
+  SceneEntity.initialize(self)
+end
+
+function ${1:NJLISceneEntityClassName}:enter()
+  SceneEntity.enter(self)
+end
+
+function ${1:NJLISceneEntityClassName}:update(timeStep)
+  SceneEntity.update(self, timeStep)
+end
+
+function ${1:NJLISceneEntityClassName}:exit()
+  SceneEntity.exit(self)
+end
+
+function ${1:NJLISceneEntityClassName}:onMessage(message)
+  SceneEntity.onMessage(self, message)
+end
+
+function ${1:NJLISceneEntityClassName}:touchDown(touches)
+  SceneEntity.touchDown(self, touches)
+end
+
+function ${1:NJLISceneEntityClassName}:touchUp(touches)
+  SceneEntity.touchUp(self, touches)
+end
+
+function ${1:NJLISceneEntityClassName}:touchMove(touches)
+  SceneEntity.touchMove(self, touches)
+end
+
+function ${1:NJLISceneEntityClassName}:touchCancelled(touches)
+  SceneEntity.touchCancelled(self, touches)
+end
+
+function ${1:NJLISceneEntityClassName}:renderHUD()
+  SceneEntity.renderHUD(self)
+end
+
+function ${1:NJLISceneEntityClassName}:pause()
+  SceneEntity.pause(self)
+end
+
+function ${1:NJLISceneEntityClassName}:unPause()
+  SceneEntity.unPause(self)
+end
+
+return ${1:NJLISceneEntityClassName}
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>NJLISceneEntity</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

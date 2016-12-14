@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getHitNormalWorld()
-]]></content>
-<tabTrigger>PhysicsRayContact:getHitNormalWorld</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getSoftnessOrthoLin()
-]]></content>
-<tabTrigger>PhysicsConstraintSlider:getSoftnessOrthoLin</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

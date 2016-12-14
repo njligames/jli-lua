@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-touchCancelled()
-]]></content>
-<tabTrigger>WorldInput:touchCancelled</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

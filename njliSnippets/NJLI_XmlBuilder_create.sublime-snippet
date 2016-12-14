@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.XmlBuilder.create()
-]]></content>
-<tabTrigger>XmlBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

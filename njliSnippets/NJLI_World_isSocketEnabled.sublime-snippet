@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-isSocketEnabled()
-]]></content>
-<tabTrigger>World:isSocketEnabled</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setFixThresh(${1:fixThresh})
-]]></content>
-<tabTrigger>PhysicsConstraintConeTwist:setFixThresh</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

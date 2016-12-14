@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setZFar(${1:val})
-]]></content>
-<tabTrigger>Camera:setZFar</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

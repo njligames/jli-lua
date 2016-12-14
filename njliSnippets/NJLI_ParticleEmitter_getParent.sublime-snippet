@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getParent()
-]]></content>
-<tabTrigger>ParticleEmitter:getParent</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

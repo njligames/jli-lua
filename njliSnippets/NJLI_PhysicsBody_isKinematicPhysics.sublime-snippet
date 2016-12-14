@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-isKinematicPhysics()
-]]></content>
-<tabTrigger>PhysicsBody:isKinematicPhysics</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

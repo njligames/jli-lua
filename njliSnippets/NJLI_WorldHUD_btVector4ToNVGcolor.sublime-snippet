@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.WorldHUD.btVector4ToNVGcolor()
-]]></content>
-<tabTrigger>WorldHUD.btVector4ToNVGcolor</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

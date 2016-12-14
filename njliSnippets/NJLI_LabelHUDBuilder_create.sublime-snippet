@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.LabelHUDBuilder.create()
-]]></content>
-<tabTrigger>LabelHUDBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

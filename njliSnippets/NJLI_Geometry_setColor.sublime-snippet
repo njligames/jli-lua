@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setColor()
-]]></content>
-<tabTrigger>Geometry:setColor</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

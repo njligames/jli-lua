@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsBodyGhostBuilder.create()
-]]></content>
-<tabTrigger>PhysicsBodyGhostBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

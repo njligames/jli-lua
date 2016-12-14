@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Scene.type()
-]]></content>
-<tabTrigger>Scene.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

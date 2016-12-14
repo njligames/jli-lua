@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeConvexTriangleMesh.clone(${1:object})
-]]></content>
-<tabTrigger>PhysicsShapeConvexTriangleMesh.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

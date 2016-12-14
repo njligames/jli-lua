@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.NodeStateMachine.clone(${1:object})
-]]></content>
-<tabTrigger>NodeStateMachine.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

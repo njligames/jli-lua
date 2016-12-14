@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setHalfExtentsY(${1:halfExtents})
-]]></content>
-<tabTrigger>PhysicsShapeCylinder:setHalfExtentsY</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getMilliseconds()
-]]></content>
-<tabTrigger>StopWatch:getMilliseconds</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

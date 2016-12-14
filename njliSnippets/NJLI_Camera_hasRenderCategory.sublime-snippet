@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-hasRenderCategory(${1:category})
-]]></content>
-<tabTrigger>Camera:hasRenderCategory</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

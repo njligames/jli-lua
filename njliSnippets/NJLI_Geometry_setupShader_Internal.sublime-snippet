@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Geometry.setupShader_Internal()
-]]></content>
-<tabTrigger>Geometry.setupShader_Internal</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.NJLIGameEngine.keyboardCancel()
-]]></content>
-<tabTrigger>NJLIGameEngine.keyboardCancel</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

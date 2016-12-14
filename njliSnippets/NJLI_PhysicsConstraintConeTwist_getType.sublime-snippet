@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getType()
-]]></content>
-<tabTrigger>PhysicsConstraintConeTwist:getType</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

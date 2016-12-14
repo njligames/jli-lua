@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setCheckboxFeather()
-]]></content>
-<tabTrigger>CheckboxHUD:setCheckboxFeather</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

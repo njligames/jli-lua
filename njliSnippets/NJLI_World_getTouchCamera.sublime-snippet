@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getTouchCamera()
-]]></content>
-<tabTrigger>World:getTouchCamera</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

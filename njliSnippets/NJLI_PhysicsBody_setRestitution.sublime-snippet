@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setRestitution(${1:restitution})
-]]></content>
-<tabTrigger>PhysicsBody:setRestitution</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

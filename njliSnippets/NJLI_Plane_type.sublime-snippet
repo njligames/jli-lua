@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Plane.type()
-]]></content>
-<tabTrigger>Plane.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

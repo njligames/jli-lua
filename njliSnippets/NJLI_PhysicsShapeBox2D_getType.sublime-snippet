@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getType()
-]]></content>
-<tabTrigger>PhysicsShapeBox2D:getType</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

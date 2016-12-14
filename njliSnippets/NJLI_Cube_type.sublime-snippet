@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Cube.type()
-]]></content>
-<tabTrigger>Cube.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

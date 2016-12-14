@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-createFileData()
-]]></content>
-<tabTrigger>WorldResourceLoader:createFileData</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

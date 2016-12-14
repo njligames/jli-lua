@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setPivotX(${1:x})
-]]></content>
-<tabTrigger>Rect:setPivotX</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Font.type()
-]]></content>
-<tabTrigger>Font.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

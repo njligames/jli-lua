@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-skewY(${1:angle})
-]]></content>
-<tabTrigger>WorldHUD:skewY</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

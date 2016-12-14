@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-numberOfIndices()
-]]></content>
-<tabTrigger>Geometry:numberOfIndices</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

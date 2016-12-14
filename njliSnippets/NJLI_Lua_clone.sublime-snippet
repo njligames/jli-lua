@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Lua.clone(${1:object})
-]]></content>
-<tabTrigger>Lua.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

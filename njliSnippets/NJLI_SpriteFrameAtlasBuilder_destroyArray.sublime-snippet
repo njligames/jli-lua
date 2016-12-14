@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.SpriteFrameAtlasBuilder.destroyArray(${1:array})
-]]></content>
-<tabTrigger>SpriteFrameAtlasBuilder.destroyArray</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

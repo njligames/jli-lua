@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-size()
-]]></content>
-<tabTrigger>WorldFactory:size</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

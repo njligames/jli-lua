@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getClassName()
-]]></content>
-<tabTrigger>CollisionResponseBuilder:getClassName</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-get(${1:u32})
-]]></content>
-<tabTrigger>WorldFactory:get</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

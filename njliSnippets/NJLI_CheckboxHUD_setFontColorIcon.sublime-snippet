@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setFontColorIcon()
-]]></content>
-<tabTrigger>CheckboxHUD:setFontColorIcon</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

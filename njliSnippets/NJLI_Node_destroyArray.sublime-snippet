@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Node.destroyArray(${1:array}, ${2:size})
-]]></content>
-<tabTrigger>Node.destroyArray</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

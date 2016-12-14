@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.ButtonHUD.clone(${1:object})
-]]></content>
-<tabTrigger>ButtonHUD.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

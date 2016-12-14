@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Timer.type()
-]]></content>
-<tabTrigger>Timer.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

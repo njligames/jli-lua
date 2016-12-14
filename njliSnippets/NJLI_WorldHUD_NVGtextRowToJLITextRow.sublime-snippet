@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.WorldHUD.NVGtextRowToJLITextRow()
-]]></content>
-<tabTrigger>WorldHUD.NVGtextRowToJLITextRow</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

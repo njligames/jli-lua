@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getStateMachine()
-]]></content>
-<tabTrigger>Node:getStateMachine</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

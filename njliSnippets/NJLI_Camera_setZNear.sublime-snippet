@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setZNear(${1:val})
-]]></content>
-<tabTrigger>Camera:setZNear</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

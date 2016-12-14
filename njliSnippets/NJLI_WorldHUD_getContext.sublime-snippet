@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.WorldHUD.getContext()
-]]></content>
-<tabTrigger>WorldHUD.getContext</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

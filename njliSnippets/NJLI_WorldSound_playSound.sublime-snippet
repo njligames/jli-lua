@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-playSound()
-]]></content>
-<tabTrigger>WorldSound:playSound</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

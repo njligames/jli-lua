@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-hasChildrenNodes()
-]]></content>
-<tabTrigger>Node:hasChildrenNodes</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

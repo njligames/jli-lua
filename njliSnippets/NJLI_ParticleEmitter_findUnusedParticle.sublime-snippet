@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.ParticleEmitter.findUnusedParticle()
-]]></content>
-<tabTrigger>ParticleEmitter.findUnusedParticle</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

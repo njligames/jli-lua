@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeCone.type()
-]]></content>
-<tabTrigger>PhysicsShapeCone.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

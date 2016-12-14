@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.JsonJLIBuilder.create()
-]]></content>
-<tabTrigger>JsonJLIBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

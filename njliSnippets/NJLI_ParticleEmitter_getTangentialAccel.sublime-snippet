@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getTangentialAccel()
-]]></content>
-<tabTrigger>ParticleEmitter:getTangentialAccel</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

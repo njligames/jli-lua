@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsBody.removePhysicsBody()
-]]></content>
-<tabTrigger>PhysicsBody.removePhysicsBody</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

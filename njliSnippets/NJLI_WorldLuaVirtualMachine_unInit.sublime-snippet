@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-unInit()
-]]></content>
-<tabTrigger>WorldLuaVirtualMachine:unInit</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

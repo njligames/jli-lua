@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getZNear()
-]]></content>
-<tabTrigger>Camera:getZNear</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

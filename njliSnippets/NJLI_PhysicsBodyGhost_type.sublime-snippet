@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsBodyGhost.type()
-]]></content>
-<tabTrigger>PhysicsBodyGhost.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

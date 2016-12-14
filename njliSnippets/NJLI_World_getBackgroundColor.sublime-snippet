@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getBackgroundColor()
-]]></content>
-<tabTrigger>World:getBackgroundColor</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

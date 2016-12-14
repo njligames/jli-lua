@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.DropdownHUD.type()
-]]></content>
-<tabTrigger>DropdownHUD.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

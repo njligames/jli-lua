@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-changeState()
-]]></content>
-<tabTrigger>AbstractStateMachine:changeState</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

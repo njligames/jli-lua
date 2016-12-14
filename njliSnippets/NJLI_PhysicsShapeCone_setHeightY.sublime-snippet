@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setHeightY(${1:height})
-]]></content>
-<tabTrigger>PhysicsShapeCone:setHeightY</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

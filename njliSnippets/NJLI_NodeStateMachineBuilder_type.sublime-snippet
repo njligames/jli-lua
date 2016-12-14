@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.NodeStateMachineBuilder.type()
-]]></content>
-<tabTrigger>NodeStateMachineBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

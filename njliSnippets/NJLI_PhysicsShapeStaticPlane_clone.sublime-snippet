@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeStaticPlane.clone(${1:object})
-]]></content>
-<tabTrigger>PhysicsShapeStaticPlane.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

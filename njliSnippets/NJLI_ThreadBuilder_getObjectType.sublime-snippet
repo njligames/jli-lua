@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getObjectType()
-]]></content>
-<tabTrigger>ThreadBuilder:getObjectType</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

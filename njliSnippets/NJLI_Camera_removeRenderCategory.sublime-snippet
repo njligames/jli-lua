@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-removeRenderCategory(${1:category})
-]]></content>
-<tabTrigger>Camera:removeRenderCategory</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

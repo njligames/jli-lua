@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.ClockBuilder.type()
-]]></content>
-<tabTrigger>ClockBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

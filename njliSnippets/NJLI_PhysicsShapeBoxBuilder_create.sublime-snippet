@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeBoxBuilder.create()
-]]></content>
-<tabTrigger>PhysicsShapeBoxBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

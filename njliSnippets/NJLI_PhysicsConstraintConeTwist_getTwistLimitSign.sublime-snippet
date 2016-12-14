@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getTwistLimitSign()
-]]></content>
-<tabTrigger>PhysicsConstraintConeTwist:getTwistLimitSign</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

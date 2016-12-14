@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-applyForce(${1:direction}, ${2:position}, ${3:impulse})
-]]></content>
-<tabTrigger>PhysicsBodyRigid:applyForce</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.JsonJLI.parse()
-]]></content>
-<tabTrigger>JsonJLI.parse</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

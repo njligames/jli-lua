@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-absolute()
-]]></content>
-<tabTrigger>btVector2:absolute</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

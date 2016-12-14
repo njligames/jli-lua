@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeConvexHullBuilder.destroy(${1:object})
-]]></content>
-<tabTrigger>PhysicsShapeConvexHullBuilder.destroy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

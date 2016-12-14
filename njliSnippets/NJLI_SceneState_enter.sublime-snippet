@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-enter(${1:scene})
-]]></content>
-<tabTrigger>SceneState:enter</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

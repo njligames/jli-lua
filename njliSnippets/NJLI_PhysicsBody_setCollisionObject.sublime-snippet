@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsBody.setCollisionObject()
-]]></content>
-<tabTrigger>PhysicsBody.setCollisionObject</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

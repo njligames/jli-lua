@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getNumPlanes()
-]]></content>
-<tabTrigger>PhysicsShapeConvexTriangleMesh:getNumPlanes</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

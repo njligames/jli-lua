@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getTrimmedName()
-]]></content>
-<tabTrigger>Rect:getTrimmedName</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

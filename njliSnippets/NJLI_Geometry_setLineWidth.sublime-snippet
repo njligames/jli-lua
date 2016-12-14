@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Geometry.setLineWidth()
-]]></content>
-<tabTrigger>Geometry.setLineWidth</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

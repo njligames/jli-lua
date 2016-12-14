@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getNumberOfVertexColors(${1:geometry}, ${2:node})
-]]></content>
-<tabTrigger>WorldDebugDrawer:getNumberOfVertexColors</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

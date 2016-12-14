@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-unCheck()
-]]></content>
-<tabTrigger>CheckboxHUD:unCheck</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

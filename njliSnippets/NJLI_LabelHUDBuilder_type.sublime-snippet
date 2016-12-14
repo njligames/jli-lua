@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.LabelHUDBuilder.type()
-]]></content>
-<tabTrigger>LabelHUDBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

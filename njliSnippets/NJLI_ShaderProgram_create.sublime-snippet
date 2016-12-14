@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.ShaderProgram.create(${1:builder})
-]]></content>
-<tabTrigger>ShaderProgram.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

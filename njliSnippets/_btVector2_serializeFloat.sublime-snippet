@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-serializeFloat(${1:dataOut})
-]]></content>
-<tabTrigger>btVector2:serializeFloat</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

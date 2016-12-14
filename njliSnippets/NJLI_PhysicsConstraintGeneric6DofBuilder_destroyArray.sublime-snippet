@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsConstraintGeneric6DofBuilder.destroyArray(${1:array})
-]]></content>
-<tabTrigger>PhysicsConstraintGeneric6DofBuilder.destroyArray</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

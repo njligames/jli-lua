@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsFieldBuilder.destroyArray(${1:array})
-]]></content>
-<tabTrigger>PhysicsFieldBuilder.destroyArray</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

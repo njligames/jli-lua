@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-enableCanDelete()
-]]></content>
-<tabTrigger>AbstractFactoryObject:enableCanDelete</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

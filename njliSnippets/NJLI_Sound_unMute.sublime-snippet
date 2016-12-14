@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-unMute()
-]]></content>
-<tabTrigger>Sound:unMute</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

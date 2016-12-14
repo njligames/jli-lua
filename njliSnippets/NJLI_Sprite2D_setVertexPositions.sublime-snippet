@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setVertexPositions()
-]]></content>
-<tabTrigger>Sprite2D:setVertexPositions</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

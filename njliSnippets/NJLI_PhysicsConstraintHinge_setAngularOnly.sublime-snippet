@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setAngularOnly(${1:angularOnly})
-]]></content>
-<tabTrigger>PhysicsConstraintHinge:setAngularOnly</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

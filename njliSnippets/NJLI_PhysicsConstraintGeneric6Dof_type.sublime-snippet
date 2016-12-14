@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsConstraintGeneric6Dof.type()
-]]></content>
-<tabTrigger>PhysicsConstraintGeneric6Dof.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

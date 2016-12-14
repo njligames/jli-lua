@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-hide()
-]]></content>
-<tabTrigger>AbstractFrameBufferObject:hide</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.MaterialProperty.initReferences()
-]]></content>
-<tabTrigger>MaterialProperty.initReferences</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

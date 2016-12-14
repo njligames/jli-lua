@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getPhysicsWorld()
-]]></content>
-<tabTrigger>Scene:getPhysicsWorld</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

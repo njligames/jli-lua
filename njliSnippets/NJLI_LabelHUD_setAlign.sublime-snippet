@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setAlign(${1:align})
-]]></content>
-<tabTrigger>LabelHUD:setAlign</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

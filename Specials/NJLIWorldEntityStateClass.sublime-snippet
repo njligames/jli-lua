@@ -1,0 +1,137 @@
+<snippet>
+  <content><![CDATA[
+ local WorldEntityState = require "njli.statemachine.worldentitystate"
+ 
+ local ${1:NJLIWorldEntityStateClassName} = {}
+ ${1:NJLIWorldEntityStateClassName}.__index = ${1:NJLIWorldEntityStateClassName}
+ 
+ local json = require('JSON')
+ 
+ setmetatable(${1:NJLIWorldEntityStateClassName}, {
+   __index = WorldEntityState,
+   __call = function (cls, ...)
+     local self = setmetatable({}, cls)
+     WorldEntityState.create(self, ...)
+     self:create(...)
+     return self
+   end,
+ })
+ 
+ function ${1:NJLIWorldEntityStateClassName}:className()
+   return "${1:NJLIWorldEntityStateClassName}"
+ end
+ 
+ function ${1:NJLIWorldEntityStateClassName}:class()
+   return self
+ end
+ 
+ function ${1:NJLIWorldEntityStateClassName}:superClass()
+   return WorldEntityState
+ end
+ 
+ function ${1:NJLIWorldEntityStateClassName}:destroy()
+   ${1:NJLIWorldEntityStateClassName}.__gc(self)
+   WorldEntityState.destroy(self)
+ end
+ 
+ function ${1:NJLIWorldEntityStateClassName}:create(init)
+    WorldEntityState.create(self, init)
+   --TODO: Create and initialize properties...
+ end
+ 
+ function ${1:NJLIWorldEntityStateClassName}:__gc()
+   --TODO: Destroy properties
+ end
+ 
+ function ${1:NJLIWorldEntityStateClassName}:__tostring()
+   --TODO: Represent the class as a string...
+   return json.encode(self)
+ end
+ 
+ --TODO: List the Functions for ${1:NJLIWorldEntityStateClassName}
+ 
+ --[[
+local init =
+{
+  name = "name",
+  entityOwner = nil
+}
+--]]
+function ${1:NJLIWorldEntityStateClassName}:create(init)
+  WorldEntityState.create(self, init)
+end
+
+function ${1:NJLIWorldEntityStateClassName}:__gc()
+  self:unLoad()
+end
+
+function ${1:NJLIWorldEntityStateClassName}:__tostring()
+  --TODO: Represent the class as a string...
+  return json.encode(self)
+end
+
+function ${1:NJLIWorldEntityStateClassName}:isLoaded()
+  return WorldEntityState.isLoaded(self)
+end
+
+function ${1:NJLIWorldEntityStateClassName}:load()
+  WorldEntityState.load(self)
+end
+
+function ${1:NJLIWorldEntityStateClassName}:unLoad()
+  WorldEntityState.unLoad(self)
+end
+
+function ${1:NJLIWorldEntityStateClassName}:enter()
+end
+
+function ${1:NJLIWorldEntityStateClassName}:update(timeStep)
+end
+
+function ${1:NJLIWorldEntityStateClassName}:exit()                  
+end
+
+function ${1:NJLIWorldEntityStateClassName}:onMessage(message)      
+end
+
+function ${1:NJLIWorldEntityStateClassName}:touchDown(touches)      
+end
+
+function ${1:NJLIWorldEntityStateClassName}:touchUp(touches)        
+end
+
+function ${1:NJLIWorldEntityStateClassName}:touchMove(touches)      
+end
+
+function ${1:NJLIWorldEntityStateClassName}:touchCancelled(touches) 
+end
+
+function ${1:NJLIWorldEntityStateClassName}:renderHUD()             
+end
+
+function ${1:NJLIWorldEntityStateClassName}:keyboardShow()          
+end
+
+function ${1:NJLIWorldEntityStateClassName}:keyboardCancel()        
+end
+
+function ${1:NJLIWorldEntityStateClassName}:keyboardReturn(text)    
+end
+
+function ${1:NJLIWorldEntityStateClassName}:receivedMemoryWarning() 
+end
+
+function ${1:NJLIWorldEntityStateClassName}:pause()                 
+end
+
+function ${1:NJLIWorldEntityStateClassName}:unPause()               
+end
+
+return ${1:NJLIWorldEntityStateClassName}
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>NJLIWorldEntityState</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

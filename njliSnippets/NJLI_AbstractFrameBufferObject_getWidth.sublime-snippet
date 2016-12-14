@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getWidth()
-]]></content>
-<tabTrigger>AbstractFrameBufferObject:getWidth</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

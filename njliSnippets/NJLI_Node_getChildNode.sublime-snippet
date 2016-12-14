@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getChildNode(${1:index})
-]]></content>
-<tabTrigger>Node:getChildNode</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

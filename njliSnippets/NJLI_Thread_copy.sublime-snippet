@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Thread.copy(${1:object})
-]]></content>
-<tabTrigger>Thread.copy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-deleteFile(${1:filename})
-]]></content>
-<tabTrigger>WorldSQLite:deleteFile</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

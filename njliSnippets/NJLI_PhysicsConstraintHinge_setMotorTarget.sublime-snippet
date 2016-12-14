@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setMotorTarget(${1:targetAngle}, ${2:dt})
-]]></content>
-<tabTrigger>PhysicsConstraintHinge:setMotorTarget</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-beginPath()
-]]></content>
-<tabTrigger>WorldHUD:beginPath</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

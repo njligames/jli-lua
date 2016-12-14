@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Geometry.getPointSize()
-]]></content>
-<tabTrigger>Geometry.getPointSize</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

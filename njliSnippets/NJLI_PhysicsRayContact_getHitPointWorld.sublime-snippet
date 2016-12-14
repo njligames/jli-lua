@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getHitPointWorld()
-]]></content>
-<tabTrigger>PhysicsRayContact:getHitPointWorld</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

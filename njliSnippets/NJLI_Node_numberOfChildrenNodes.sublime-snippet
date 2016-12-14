@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-numberOfChildrenNodes()
-]]></content>
-<tabTrigger>Node:numberOfChildrenNodes</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

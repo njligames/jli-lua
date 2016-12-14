@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getText()
-]]></content>
-<tabTrigger>ButtonHUD:getText</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

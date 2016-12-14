@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-createImage(${1:filename}, ${2:imageFlags})
-]]></content>
-<tabTrigger>WorldHUD:createImage</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

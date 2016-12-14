@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getEulerAngles()
-]]></content>
-<tabTrigger>Node:getEulerAngles</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

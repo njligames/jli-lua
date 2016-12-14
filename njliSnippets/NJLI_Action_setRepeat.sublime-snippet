@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setRepeat(${1:count})
-]]></content>
-<tabTrigger>Action:setRepeat</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

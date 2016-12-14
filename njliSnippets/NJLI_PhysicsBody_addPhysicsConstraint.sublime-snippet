@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsBody.addPhysicsConstraint(${1:constraint})
-]]></content>
-<tabTrigger>PhysicsBody.addPhysicsConstraint</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

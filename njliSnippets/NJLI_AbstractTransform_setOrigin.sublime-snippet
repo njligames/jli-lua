@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setOrigin(${1:origin})
-]]></content>
-<tabTrigger>AbstractTransform:setOrigin</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

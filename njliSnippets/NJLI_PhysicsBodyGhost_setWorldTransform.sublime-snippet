@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setWorldTransform(${1:transform})
-]]></content>
-<tabTrigger>PhysicsBodyGhost:setWorldTransform</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

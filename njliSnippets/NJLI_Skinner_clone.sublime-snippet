@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Skinner.clone(${1:object})
-]]></content>
-<tabTrigger>Skinner.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setRestitutionLimAng(${1:restitutionLimAng})
-]]></content>
-<tabTrigger>PhysicsConstraintSlider:setRestitutionLimAng</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

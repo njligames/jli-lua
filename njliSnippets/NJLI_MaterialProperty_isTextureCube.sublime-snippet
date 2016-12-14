@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-isTextureCube()
-]]></content>
-<tabTrigger>MaterialProperty:isTextureCube</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

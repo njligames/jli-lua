@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.WorldHUD.transformTranslate(${1:floats}, ${2:tx}, ${3:ty})
-]]></content>
-<tabTrigger>WorldHUD.transformTranslate</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

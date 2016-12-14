@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getWorldFactory()
-]]></content>
-<tabTrigger>World:getWorldFactory</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

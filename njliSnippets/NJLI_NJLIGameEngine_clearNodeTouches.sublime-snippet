@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.NJLIGameEngine.clearNodeTouches()
-]]></content>
-<tabTrigger>NJLIGameEngine.clearNodeTouches</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

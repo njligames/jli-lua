@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-enableRenderObject()
-]]></content>
-<tabTrigger>AbstractFactoryObject:enableRenderObject</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

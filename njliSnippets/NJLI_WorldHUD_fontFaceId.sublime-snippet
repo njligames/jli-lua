@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-fontFaceId(${1:fontHandle})
-]]></content>
-<tabTrigger>WorldHUD:fontFaceId</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

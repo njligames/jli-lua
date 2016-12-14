@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-loadString(${1:code})
-]]></content>
-<tabTrigger>WorldLuaVirtualMachine:loadString</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

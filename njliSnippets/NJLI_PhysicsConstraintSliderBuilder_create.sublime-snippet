@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsConstraintSliderBuilder.create()
-]]></content>
-<tabTrigger>PhysicsConstraintSliderBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

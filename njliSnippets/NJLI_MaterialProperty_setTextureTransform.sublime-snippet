@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setTextureTransform(${1:transform})
-]]></content>
-<tabTrigger>MaterialProperty:setTextureTransform</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

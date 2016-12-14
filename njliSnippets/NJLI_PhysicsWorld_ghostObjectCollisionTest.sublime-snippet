@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsWorld.ghostObjectCollisionTest()
-]]></content>
-<tabTrigger>PhysicsWorld.ghostObjectCollisionTest</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

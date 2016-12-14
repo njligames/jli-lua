@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-AbstractStateMachine()
-]]></content>
-<tabTrigger>AbstractStateMachine:AbstractStateMachine</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

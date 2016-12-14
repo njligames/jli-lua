@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-convert()
-]]></content>
-<tabTrigger>DeviceTouch:convert</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

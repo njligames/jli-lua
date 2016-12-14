@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Sprite2DBuilder.type()
-]]></content>
-<tabTrigger>Sprite2DBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

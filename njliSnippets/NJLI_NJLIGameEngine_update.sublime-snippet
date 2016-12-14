@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.NJLIGameEngine.update()
-]]></content>
-<tabTrigger>NJLIGameEngine.update</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

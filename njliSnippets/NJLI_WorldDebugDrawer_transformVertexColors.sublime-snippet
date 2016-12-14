@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-transformVertexColors(${1:node}, ${2:transform})
-]]></content>
-<tabTrigger>WorldDebugDrawer:transformVertexColors</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

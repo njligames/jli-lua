@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-lineJoin(${1:join})
-]]></content>
-<tabTrigger>WorldHUD:lineJoin</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

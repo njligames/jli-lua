@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-addParticleEmitter(${1:emitter})
-]]></content>
-<tabTrigger>Node:addParticleEmitter</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

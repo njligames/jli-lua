@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-touchUp()
-]]></content>
-<tabTrigger>WorldInput:touchUp</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getActivationState()
-]]></content>
-<tabTrigger>PhysicsBody:getActivationState</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

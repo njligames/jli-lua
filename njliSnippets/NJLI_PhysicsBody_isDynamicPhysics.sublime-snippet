@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-isDynamicPhysics()
-]]></content>
-<tabTrigger>PhysicsBody:isDynamicPhysics</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

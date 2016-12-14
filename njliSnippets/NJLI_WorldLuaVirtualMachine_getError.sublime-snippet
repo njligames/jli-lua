@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getError()
-]]></content>
-<tabTrigger>WorldLuaVirtualMachine:getError</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

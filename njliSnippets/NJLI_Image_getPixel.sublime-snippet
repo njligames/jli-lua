@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getPixel(${1:position}, ${2:pixel})
-]]></content>
-<tabTrigger>Image:getPixel</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

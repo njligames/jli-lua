@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeMultiSphereBuilder.type()
-]]></content>
-<tabTrigger>PhysicsShapeMultiSphereBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

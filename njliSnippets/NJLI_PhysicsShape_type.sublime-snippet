@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShape.type()
-]]></content>
-<tabTrigger>PhysicsShape.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

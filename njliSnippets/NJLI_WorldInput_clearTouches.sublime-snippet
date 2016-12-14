@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-clearTouches()
-]]></content>
-<tabTrigger>WorldInput:clearTouches</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

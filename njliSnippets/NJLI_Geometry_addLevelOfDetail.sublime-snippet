@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-addLevelOfDetail(${1:geometry})
-]]></content>
-<tabTrigger>Geometry:addLevelOfDetail</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

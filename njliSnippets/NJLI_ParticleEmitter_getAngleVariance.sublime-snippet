@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getAngleVariance()
-]]></content>
-<tabTrigger>ParticleEmitter:getAngleVariance</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getFrameOffsetA()
-]]></content>
-<tabTrigger>PhysicsConstraintHinge:getFrameOffsetA</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

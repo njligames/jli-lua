@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-restore()
-]]></content>
-<tabTrigger>WorldHUD:restore</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

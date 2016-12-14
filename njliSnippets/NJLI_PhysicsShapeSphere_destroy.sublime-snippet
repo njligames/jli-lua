@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeSphere.destroy(${1:object})
-]]></content>
-<tabTrigger>PhysicsShapeSphere.destroy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

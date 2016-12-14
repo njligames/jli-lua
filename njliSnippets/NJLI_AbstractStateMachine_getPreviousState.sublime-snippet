@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getPreviousState()
-]]></content>
-<tabTrigger>AbstractStateMachine:getPreviousState</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.WorldSQLite.WorldSQLite()
-]]></content>
-<tabTrigger>WorldSQLite.WorldSQLite</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

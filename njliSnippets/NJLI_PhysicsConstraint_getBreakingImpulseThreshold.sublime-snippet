@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getBreakingImpulseThreshold()
-]]></content>
-<tabTrigger>PhysicsConstraint:getBreakingImpulseThreshold</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

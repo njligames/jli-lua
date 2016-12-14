@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.CollisionResponse.destroy(${1:object})
-]]></content>
-<tabTrigger>CollisionResponse.destroy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

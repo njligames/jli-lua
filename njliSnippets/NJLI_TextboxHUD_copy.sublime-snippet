@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.TextboxHUD.copy(${1:object})
-]]></content>
-<tabTrigger>TextboxHUD.copy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

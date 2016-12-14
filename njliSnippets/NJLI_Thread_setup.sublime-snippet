@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setup()
-]]></content>
-<tabTrigger>Thread:setup</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-addMaterial(${1:material})
-]]></content>
-<tabTrigger>Geometry:addMaterial</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

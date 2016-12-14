@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Geometry.unLoadGPU_Internal()
-]]></content>
-<tabTrigger>Geometry.unLoadGPU_Internal</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

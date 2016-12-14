@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-isDoubleSided()
-]]></content>
-<tabTrigger>Material:isDoubleSided</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

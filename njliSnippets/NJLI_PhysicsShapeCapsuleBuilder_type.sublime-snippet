@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeCapsuleBuilder.type()
-]]></content>
-<tabTrigger>PhysicsShapeCapsuleBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

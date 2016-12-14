@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-operator=()
-]]></content>
-<tabTrigger>PhysicsBody:operator=</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

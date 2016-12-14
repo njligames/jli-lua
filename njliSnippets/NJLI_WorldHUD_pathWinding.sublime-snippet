@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-pathWinding(${1:dir})
-]]></content>
-<tabTrigger>WorldHUD:pathWinding</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

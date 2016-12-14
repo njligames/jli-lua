@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-numberOfLaps()
-]]></content>
-<tabTrigger>StopWatch:numberOfLaps</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

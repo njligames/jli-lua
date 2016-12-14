@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getParticleEmitterIndex(${1:object})
-]]></content>
-<tabTrigger>Node:getParticleEmitterIndex</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

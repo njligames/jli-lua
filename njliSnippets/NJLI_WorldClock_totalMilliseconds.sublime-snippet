@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-totalMilliseconds()
-]]></content>
-<tabTrigger>WorldClock:totalMilliseconds</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

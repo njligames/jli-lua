@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setDampingDirAng(${1:dampingDirAng})
-]]></content>
-<tabTrigger>PhysicsConstraintSlider:setDampingDirAng</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

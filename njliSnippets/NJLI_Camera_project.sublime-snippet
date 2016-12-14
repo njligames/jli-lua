@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-project(${1:objectPosition})
-]]></content>
-<tabTrigger>Camera:project</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

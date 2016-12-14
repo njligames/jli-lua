@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.CheckboxHUD.type()
-]]></content>
-<tabTrigger>CheckboxHUD.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

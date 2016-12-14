@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.MaterialPropertyBuilder.create()
-]]></content>
-<tabTrigger>MaterialPropertyBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

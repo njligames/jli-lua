@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.ActionBuilder.destroy(${1:object})
-]]></content>
-<tabTrigger>ActionBuilder.destroy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-batchedUnitVectorGetSupportingVertexWithoutMargin(${1:vectors}, ${2:supportVerticesOut}, ${3:numVectors})
-]]></content>
-<tabTrigger>PhysicsShapeBox:batchedUnitVectorGetSupportingVertexWithoutMargin</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

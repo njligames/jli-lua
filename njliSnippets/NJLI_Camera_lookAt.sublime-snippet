@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-lookAt(${1:pos}, ${2:up})
-]]></content>
-<tabTrigger>Camera:lookAt</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

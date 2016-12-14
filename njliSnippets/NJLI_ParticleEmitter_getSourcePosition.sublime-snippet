@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getSourcePosition()
-]]></content>
-<tabTrigger>ParticleEmitter:getSourcePosition</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

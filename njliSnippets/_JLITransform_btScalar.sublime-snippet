@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-btScalar()
-]]></content>
-<tabTrigger>JLITransform:btScalar</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

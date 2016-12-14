@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeBox2DBuilder.clone(${1:object})
-]]></content>
-<tabTrigger>PhysicsShapeBox2DBuilder.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

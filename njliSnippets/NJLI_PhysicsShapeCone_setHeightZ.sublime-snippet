@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setHeightZ(${1:height})
-]]></content>
-<tabTrigger>PhysicsShapeCone:setHeightZ</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

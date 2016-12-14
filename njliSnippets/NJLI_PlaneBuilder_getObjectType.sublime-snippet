@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getObjectType()
-]]></content>
-<tabTrigger>PlaneBuilder:getObjectType</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

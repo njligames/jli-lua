@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.NJLIGameEngine.platformID()
-]]></content>
-<tabTrigger>NJLIGameEngine.platformID</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

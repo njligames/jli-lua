@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setDamping(${1:damping})
-]]></content>
-<tabTrigger>PhysicsConstraintConeTwist:setDamping</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

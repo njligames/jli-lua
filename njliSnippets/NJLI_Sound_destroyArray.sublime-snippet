@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Sound.destroyArray()
-]]></content>
-<tabTrigger>Sound.destroyArray</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

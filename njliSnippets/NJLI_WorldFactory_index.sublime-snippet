@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-index(${1:object})
-]]></content>
-<tabTrigger>WorldFactory:index</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

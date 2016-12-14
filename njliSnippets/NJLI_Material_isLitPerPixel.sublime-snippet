@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-isLitPerPixel()
-]]></content>
-<tabTrigger>Material:isLitPerPixel</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

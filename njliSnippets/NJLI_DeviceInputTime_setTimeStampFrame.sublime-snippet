@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setTimeStampFrame()
-]]></content>
-<tabTrigger>DeviceInputTime:setTimeStampFrame</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

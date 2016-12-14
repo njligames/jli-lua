@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setPivot(${1:pivot})
-]]></content>
-<tabTrigger>Node:setPivot</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

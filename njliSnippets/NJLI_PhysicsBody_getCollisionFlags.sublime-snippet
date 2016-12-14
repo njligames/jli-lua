@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getCollisionFlags()
-]]></content>
-<tabTrigger>PhysicsBody:getCollisionFlags</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

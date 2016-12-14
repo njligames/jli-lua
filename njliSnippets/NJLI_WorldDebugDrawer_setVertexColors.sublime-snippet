@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setVertexColors()
-]]></content>
-<tabTrigger>WorldDebugDrawer:setVertexColors</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

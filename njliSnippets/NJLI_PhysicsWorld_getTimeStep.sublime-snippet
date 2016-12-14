@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getTimeStep()
-]]></content>
-<tabTrigger>PhysicsWorld:getTimeStep</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

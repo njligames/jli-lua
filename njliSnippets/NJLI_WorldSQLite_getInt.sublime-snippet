@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getInt(${1:key})
-]]></content>
-<tabTrigger>WorldSQLite:getInt</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

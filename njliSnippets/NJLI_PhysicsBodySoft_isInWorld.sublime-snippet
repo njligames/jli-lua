@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-isInWorld()
-]]></content>
-<tabTrigger>PhysicsBodySoft:isInWorld</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

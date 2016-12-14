@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsContactBuilder.destroy(${1:object})
-]]></content>
-<tabTrigger>PhysicsContactBuilder.destroy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

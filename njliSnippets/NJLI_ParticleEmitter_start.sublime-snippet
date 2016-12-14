@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-start()
-]]></content>
-<tabTrigger>ParticleEmitter:start</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

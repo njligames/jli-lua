@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setRadiusY(${1:radius})
-]]></content>
-<tabTrigger>PhysicsShapeCapsule:setRadiusY</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

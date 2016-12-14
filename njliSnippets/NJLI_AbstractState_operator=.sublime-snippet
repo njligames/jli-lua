@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-operator=(${1:AbstractState&})
-]]></content>
-<tabTrigger>AbstractState:operator=</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

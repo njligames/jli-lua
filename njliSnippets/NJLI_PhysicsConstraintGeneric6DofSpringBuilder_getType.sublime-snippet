@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getType()
-]]></content>
-<tabTrigger>PhysicsConstraintGeneric6DofSpringBuilder:getType</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setAngularFactor(${1:factor})
-]]></content>
-<tabTrigger>PhysicsBodyRigid:setAngularFactor</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

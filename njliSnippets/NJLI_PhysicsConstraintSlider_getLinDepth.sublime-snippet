@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getLinDepth()
-]]></content>
-<tabTrigger>PhysicsConstraintSlider:getLinDepth</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

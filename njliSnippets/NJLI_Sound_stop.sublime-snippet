@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-stop()
-]]></content>
-<tabTrigger>Sound:stop</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

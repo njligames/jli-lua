@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-update(${1:scene}, ${2:timestep})
-]]></content>
-<tabTrigger>SceneState:update</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

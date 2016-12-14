@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getDuration()
-]]></content>
-<tabTrigger>Action:getDuration</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

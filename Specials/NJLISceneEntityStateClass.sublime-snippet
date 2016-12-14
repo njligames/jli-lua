@@ -1,0 +1,128 @@
+<snippet>
+  <content><![CDATA[
+  local SceneEntityState = require "njli.statemachine.sceneentitystate"
+ 
+ local ${1:NJLISceneEntityStateClassName} = {}
+ ${1:NJLISceneEntityStateClassName}.__index = ${1:NJLISceneEntityStateClassName}
+ 
+ local json = require('JSON')
+ 
+ setmetatable(${1:NJLISceneEntityStateClassName}, {
+   __index = SceneEntityState,
+   __call = function (cls, ...)
+     local self = setmetatable({}, cls)
+     SceneEntityState.create(self, ...)
+     self:create(...)
+     return self
+   end,
+ })
+ 
+ function ${1:NJLISceneEntityStateClassName}:className()
+   return "${1:NJLISceneEntityStateClassName}"
+ end
+ 
+ function ${1:NJLISceneEntityStateClassName}:class()
+   return self
+ end
+ 
+ function ${1:NJLISceneEntityStateClassName}:superClass()
+   return SceneEntityState
+ end
+ 
+ function ${1:NJLISceneEntityStateClassName}:destroy()
+   ${1:NJLISceneEntityStateClassName}.__gc(self)
+   SceneEntityState.destroy(self)
+ end
+ 
+ function ${1:NJLISceneEntityStateClassName}:create(init)
+  print("${1:NJLISceneEntityStateClassName}:create(init)")
+    SceneEntityState.create(self, init)
+   --TODO: Create and initialize properties...
+ end
+ 
+ function ${1:NJLISceneEntityStateClassName}:__gc()
+  self:unLoad()
+   --TODO: Destroy properties
+ end
+ 
+ function ${1:NJLISceneEntityStateClassName}:__tostring()
+   --TODO: Represent the class as a string...
+   return json.encode(self)
+ end
+ 
+ --TODO: List the Functions for ${1:NJLISceneEntityStateClassName}
+ 
+ --[[
+local init =
+{
+  name = "name",
+  entityOwner = nil
+}
+--]]
+
+function ${1:NJLISceneEntityStateClassName}:isLoaded()
+  return SceneEntityState.isLoaded(self)
+end
+
+function ${1:NJLISceneEntityStateClassName}:load()
+  print("${1:NJLISceneEntityStateClassName}:load()")
+  SceneEntityState.load(self)
+end
+
+function ${1:NJLISceneEntityStateClassName}:unLoad()
+  print("${1:NJLISceneEntityStateClassName}:unLoad()")
+  SceneEntityState.unLoad(self)
+end
+
+function ${1:NJLISceneEntityStateClassName}:enter()
+  print("${1:NJLISceneEntityStateClassName}:enter()")
+end
+
+function ${1:NJLISceneEntityStateClassName}:update(timeStep)
+  print("${1:NJLISceneEntityStateClassName}:update("..timeStep..")")
+end
+
+function ${1:NJLISceneEntityStateClassName}:exit()
+  print("${1:NJLISceneEntityStateClassName}:exit()")
+end
+
+function ${1:NJLISceneEntityStateClassName}:onMessage(message)
+  print("${1:NJLISceneEntityStateClassName}:onMessage(message)")
+end
+
+function ${1:NJLISceneEntityStateClassName}:touchDown(touches)
+  print("${1:NJLISceneEntityStateClassName}:touchDown(touches)")
+end
+
+function ${1:NJLISceneEntityStateClassName}:touchUp(touches)
+  print("${1:NJLISceneEntityStateClassName}:touchUp(touches)")
+end
+
+function ${1:NJLISceneEntityStateClassName}:touchMove(touches)
+  print("${1:NJLISceneEntityStateClassName}:touchMove(touches)")
+end
+
+function ${1:NJLISceneEntityStateClassName}:touchCancelled(touches)
+  print("${1:NJLISceneEntityStateClassName}:touchCancelled(touches)")
+end
+
+function ${1:NJLISceneEntityStateClassName}:renderHUD()
+  print("${1:NJLISceneEntityStateClassName}:renderHUD()")
+end
+
+function ${1:NJLISceneEntityStateClassName}:pause()
+  print("${1:NJLISceneEntityStateClassName}:pause()")
+end
+
+function ${1:NJLISceneEntityStateClassName}:unPause()
+  print("${1:NJLISceneEntityStateClassName}:unPause()")
+end
+
+return ${1:NJLISceneEntityStateClassName}
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>NJLISceneEntityState</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

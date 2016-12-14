@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getMass()
-]]></content>
-<tabTrigger>PhysicsBodyRigid:getMass</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

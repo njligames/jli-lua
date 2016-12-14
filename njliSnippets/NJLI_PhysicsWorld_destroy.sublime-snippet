@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsWorld.destroy(${1:physicsWorld})
-]]></content>
-<tabTrigger>PhysicsWorld.destroy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

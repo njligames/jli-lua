@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-numberOfTouches()
-]]></content>
-<tabTrigger>WorldInput:numberOfTouches</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

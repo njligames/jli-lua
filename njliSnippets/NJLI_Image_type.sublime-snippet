@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Image.type()
-]]></content>
-<tabTrigger>Image.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setupOpacity()
-]]></content>
-<tabTrigger>Geometry:setupOpacity</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

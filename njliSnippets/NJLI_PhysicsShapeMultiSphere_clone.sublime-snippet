@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeMultiSphere.clone(${1:object})
-]]></content>
-<tabTrigger>PhysicsShapeMultiSphere.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

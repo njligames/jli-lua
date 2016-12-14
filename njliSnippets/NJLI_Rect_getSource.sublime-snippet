@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getSource()
-]]></content>
-<tabTrigger>Rect:getSource</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

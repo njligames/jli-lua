@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-SceneRenderer()
-]]></content>
-<tabTrigger>SceneRenderer:SceneRenderer</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

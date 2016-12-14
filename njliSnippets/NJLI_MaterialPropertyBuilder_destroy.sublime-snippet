@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.MaterialPropertyBuilder.destroy(${1:object})
-]]></content>
-<tabTrigger>MaterialPropertyBuilder.destroy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

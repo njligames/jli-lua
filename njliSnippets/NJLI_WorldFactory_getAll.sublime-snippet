@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getAll(${1:objects})
-]]></content>
-<tabTrigger>WorldFactory:getAll</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,0 +1,147 @@
+<snippet>
+  <content><![CDATA[
+local ${1:BaseClassName} = require "${1:BaseClassName}"
+
+local ${2:DerivedClassName} = {}
+${2:DerivedClassName}.__index = ${2:DerivedClassName}
+
+local json = require('cjson')
+
+setmetatable(${2:DerivedClassName}, {
+  __index = ${1:BaseClassName},
+  __call = function (cls, ...)
+    local self = setmetatable({}, cls)
+    ${1:BaseClassName}.create(self, init)
+    self:create(...)
+    return self
+  end,
+})
+
+function ${2:DerivedClassName}:className()
+  return "${2:DerivedClassName}"
+end
+
+function ${2:DerivedClassName}:class()
+  return self
+end
+
+function ${2:DerivedClassName}:superClass()
+  return ${1:BaseClassName}
+end
+
+function ${2:DerivedClassName}:destroy()
+  ${2:DerivedClassName}.__gc(self)
+  ${1:BaseClassName}.destroy(self)
+end
+
+function ${2:DerivedClassName}:create(init)
+  --TODO: Create and initialize properties...
+  ---[[
+  --EXAMPLE:
+  self._${3:variable1} = nil
+  self._${4:variable2} = nil
+  self._${5:variable3} = nil
+  self._${6:variable4} = nil
+  self._${7:variable5} = nil
+  self._${8:variable6} = nil
+  self._${9:variable7} = nil
+  --]]
+
+  if init then
+    --TODO: Initialize the properties...
+  end
+end
+
+function ${2:DerivedClassName}:__gc()
+  --TODO: Destroy properties
+end
+
+function ${2:DerivedClassName}:__tostring()
+  --TODO: Represent the class as a string...
+  return json.encode(self)
+end
+
+--TODO: List the Functions for ${2:DerivedClassName}
+
+  ---[[
+  --EXAMPLE:
+
+function ${2:DerivedClassName}:set_${3:variable1}(newval)
+  ${1:BaseClassName}.set_${3:variable1}(self)
+  self._${3:variable1} = newval
+end
+
+function ${2:DerivedClassName}:get_${3:variable1}()
+  local ${3:variable1} = ${1:BaseClassName}.get_${3:variable1}(self)
+  return self._${3:variable1}
+end
+
+function ${2:DerivedClassName}:set_${4:variable2}(newval)
+  ${1:BaseClassName}.set_${4:variable2}(self)
+  self._${4:variable2} = newval
+end
+
+function ${2:DerivedClassName}:get_${4:variable2}()
+  local ${4:variable2} = ${1:BaseClassName}.get_${4:variable2}(self)
+  return self._${4:variable2}
+end
+
+function ${2:DerivedClassName}:set_${5:variable3}(newval)
+  ${1:BaseClassName}.set_${5:variable3}(self)
+  self._${5:variable3} = newval
+end
+
+function ${2:DerivedClassName}:get_${5:variable3}()
+  local ${5:variable3} = ${1:BaseClassName}.get_${5:variable3}(self)
+  return self._${5:variable3}
+end
+
+function ${2:DerivedClassName}:set_${6:variable4}(newval)
+  ${1:BaseClassName}.set_${6:variable4}(self)
+  self._${6:variable4} = newval
+end
+
+function ${2:DerivedClassName}:get_${6:variable4}()
+  local ${6:variable4} = ${1:BaseClassName}.get_${6:variable4}(self)
+  return self._${6:variable4}
+end
+
+function ${2:DerivedClassName}:set_${7:variable5}(newval)
+  ${1:BaseClassName}.set_${7:variable5}(self)
+  self._${7:variable5} = newval
+end
+
+function ${2:DerivedClassName}:get_${7:variable5}()
+  local ${7:variable5} = ${1:BaseClassName}.get_${7:variable5}(self)
+  return self._${7:variable5}
+end
+
+function ${2:DerivedClassName}:set_${8:variable6}(newval)
+  ${1:BaseClassName}.set_${8:variable6}(self)
+  self._${8:variable6} = newval
+end
+
+function ${2:DerivedClassName}:get_${8:variable6}()
+  local ${8:variable6} = ${1:BaseClassName}.get_${8:variable6}(self)
+  return self._${8:variable6}
+end
+
+function ${2:DerivedClassName}:set_${9:variable7}(newval)
+  ${1:BaseClassName}.set_${9:variable7}(self)
+  self._${9:variable7} = newval
+end
+
+function ${2:DerivedClassName}:get_${9:variable7}()
+  local ${9:variable7} = ${1:BaseClassName}.get_${9:variable7}(self)
+  return self._${9:variable7}
+end
+
+  --]]
+
+return ${2:DerivedClassName}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>NJLIDerivedClass</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

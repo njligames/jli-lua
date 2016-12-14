@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-load()
-]]></content>
-<tabTrigger>WorldDebugDrawer:load</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

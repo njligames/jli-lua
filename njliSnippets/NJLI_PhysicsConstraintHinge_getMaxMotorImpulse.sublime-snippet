@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getMaxMotorImpulse()
-]]></content>
-<tabTrigger>PhysicsConstraintHinge:getMaxMotorImpulse</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

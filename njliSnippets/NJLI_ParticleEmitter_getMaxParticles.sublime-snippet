@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getMaxParticles()
-]]></content>
-<tabTrigger>ParticleEmitter:getMaxParticles</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

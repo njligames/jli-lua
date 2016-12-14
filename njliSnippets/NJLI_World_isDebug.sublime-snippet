@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-isDebug()
-]]></content>
-<tabTrigger>World:isDebug</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

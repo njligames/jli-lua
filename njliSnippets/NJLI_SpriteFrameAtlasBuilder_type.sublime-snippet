@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.SpriteFrameAtlasBuilder.type()
-]]></content>
-<tabTrigger>SpriteFrameAtlasBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getType()
-]]></content>
-<tabTrigger>PhysicsBodyRigidBuilder:getType</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

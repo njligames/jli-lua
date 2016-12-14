@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-WorldSocket()
-]]></content>
-<tabTrigger>WorldSocket:WorldSocket</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

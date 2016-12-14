@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getMultiply()
-]]></content>
-<tabTrigger>Material:getMultiply</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

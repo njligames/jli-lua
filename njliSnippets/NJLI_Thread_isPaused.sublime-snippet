@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-isPaused()
-]]></content>
-<tabTrigger>Thread:isPaused</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

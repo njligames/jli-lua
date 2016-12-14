@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setRotationStartVariance(${1:value})
-]]></content>
-<tabTrigger>ParticleEmitter:setRotationStartVariance</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

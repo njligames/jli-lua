@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsBodyRigidBuilder.create()
-]]></content>
-<tabTrigger>PhysicsBodyRigidBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

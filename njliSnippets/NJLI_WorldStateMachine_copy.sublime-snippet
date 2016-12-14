@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.WorldStateMachine.copy(${1:object})
-]]></content>
-<tabTrigger>WorldStateMachine.copy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

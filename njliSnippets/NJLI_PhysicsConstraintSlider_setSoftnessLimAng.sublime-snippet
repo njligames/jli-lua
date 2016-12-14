@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setSoftnessLimAng(${1:softnessLimAng})
-]]></content>
-<tabTrigger>PhysicsConstraintSlider:setSoftnessLimAng</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getTransform()
-]]></content>
-<tabTrigger>AbstractTransform:getTransform</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

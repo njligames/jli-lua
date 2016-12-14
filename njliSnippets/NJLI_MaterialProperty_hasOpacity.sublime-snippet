@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-hasOpacity()
-]]></content>
-<tabTrigger>MaterialProperty:hasOpacity</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

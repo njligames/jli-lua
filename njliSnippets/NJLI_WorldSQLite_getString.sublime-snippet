@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getString(${1:key})
-]]></content>
-<tabTrigger>WorldSQLite:getString</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getStartColorVariance()
-]]></content>
-<tabTrigger>ParticleEmitter:getStartColorVariance</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

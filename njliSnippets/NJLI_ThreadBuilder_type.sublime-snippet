@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.ThreadBuilder.type()
-]]></content>
-<tabTrigger>ThreadBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

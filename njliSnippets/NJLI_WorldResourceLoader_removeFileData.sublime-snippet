@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-removeFileData()
-]]></content>
-<tabTrigger>WorldResourceLoader:removeFileData</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

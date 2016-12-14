@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsFieldBuilder.type()
-]]></content>
-<tabTrigger>PhysicsFieldBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

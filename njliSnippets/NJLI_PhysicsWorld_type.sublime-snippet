@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsWorld.type()
-]]></content>
-<tabTrigger>PhysicsWorld.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

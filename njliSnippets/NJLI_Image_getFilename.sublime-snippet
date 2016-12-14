@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getFilename()
-]]></content>
-<tabTrigger>Image:getFilename</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

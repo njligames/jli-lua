@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getEmission()
-]]></content>
-<tabTrigger>Material:getEmission</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

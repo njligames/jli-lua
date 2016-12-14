@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-fontFace(${1:font})
-]]></content>
-<tabTrigger>WorldHUD:fontFace</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getNumberOfTextureCoordinates(${1:geometry}, ${2:node})
-]]></content>
-<tabTrigger>Sprite2D:getNumberOfTextureCoordinates</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

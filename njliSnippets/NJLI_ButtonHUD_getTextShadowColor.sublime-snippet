@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getTextShadowColor()
-]]></content>
-<tabTrigger>ButtonHUD:getTextShadowColor</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

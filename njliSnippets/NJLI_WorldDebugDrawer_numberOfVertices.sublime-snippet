@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-numberOfVertices()
-]]></content>
-<tabTrigger>WorldDebugDrawer:numberOfVertices</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

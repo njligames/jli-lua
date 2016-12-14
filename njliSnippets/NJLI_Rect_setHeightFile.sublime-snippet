@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setHeightFile(${1:height})
-]]></content>
-<tabTrigger>Rect:setHeightFile</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

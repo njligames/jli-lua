@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-btVector3()
-]]></content>
-<tabTrigger>btVector2:btVector3</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

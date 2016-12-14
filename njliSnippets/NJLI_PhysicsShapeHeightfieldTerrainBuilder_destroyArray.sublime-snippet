@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeHeightfieldTerrainBuilder.destroyArray(${1:array})
-]]></content>
-<tabTrigger>PhysicsShapeHeightfieldTerrainBuilder.destroyArray</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

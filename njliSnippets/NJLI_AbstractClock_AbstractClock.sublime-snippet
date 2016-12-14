@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-AbstractClock(${1:copy})
-]]></content>
-<tabTrigger>AbstractClock:AbstractClock</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

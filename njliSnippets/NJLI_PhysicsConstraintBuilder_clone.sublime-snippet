@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsConstraintBuilder.clone(${1:object})
-]]></content>
-<tabTrigger>PhysicsConstraintBuilder.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

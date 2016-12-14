@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.ShaderProgram.clone(${1:object})
-]]></content>
-<tabTrigger>ShaderProgram.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

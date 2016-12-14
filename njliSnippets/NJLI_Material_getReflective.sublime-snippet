@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getReflective()
-]]></content>
-<tabTrigger>Material:getReflective</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

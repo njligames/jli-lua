@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.FontBuilder.clone(${1:object})
-]]></content>
-<tabTrigger>FontBuilder.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

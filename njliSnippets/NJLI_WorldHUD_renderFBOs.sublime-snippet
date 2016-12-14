@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.WorldHUD.renderFBOs()
-]]></content>
-<tabTrigger>WorldHUD.renderFBOs</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

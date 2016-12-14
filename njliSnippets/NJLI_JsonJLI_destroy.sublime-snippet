@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.JsonJLI.destroy(${1:object})
-]]></content>
-<tabTrigger>JsonJLI.destroy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

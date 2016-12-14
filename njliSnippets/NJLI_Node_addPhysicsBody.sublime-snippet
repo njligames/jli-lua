@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-addPhysicsBody(${1:body})
-]]></content>
-<tabTrigger>Node:addPhysicsBody</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

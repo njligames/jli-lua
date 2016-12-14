@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-serialize(${1:dataBuffer}, ${2:btSerializer})
-]]></content>
-<tabTrigger>NodeStateBuilder:serialize</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

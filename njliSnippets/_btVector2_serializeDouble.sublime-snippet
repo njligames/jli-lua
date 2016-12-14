@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-serializeDouble(${1:dataOut})
-]]></content>
-<tabTrigger>btVector2:serializeDouble</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

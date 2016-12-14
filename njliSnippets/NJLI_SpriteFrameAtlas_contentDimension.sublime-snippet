@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-contentDimension()
-]]></content>
-<tabTrigger>SpriteFrameAtlas:contentDimension</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

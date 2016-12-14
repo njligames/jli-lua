@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsBodyRigid.destroy(${1:object})
-]]></content>
-<tabTrigger>PhysicsBodyRigid.destroy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

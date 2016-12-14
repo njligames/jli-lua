@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getColorBottomLeft()
-]]></content>
-<tabTrigger>Sprite2D:getColorBottomLeft</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

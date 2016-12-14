@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.LevelOfDetail.type()
-]]></content>
-<tabTrigger>LevelOfDetail.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

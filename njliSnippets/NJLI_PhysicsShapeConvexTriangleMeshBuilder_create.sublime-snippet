@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeConvexTriangleMeshBuilder.create()
-]]></content>
-<tabTrigger>PhysicsShapeConvexTriangleMeshBuilder.create</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

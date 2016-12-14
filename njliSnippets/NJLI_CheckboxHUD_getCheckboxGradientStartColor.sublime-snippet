@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getCheckboxGradientStartColor()
-]]></content>
-<tabTrigger>CheckboxHUD:getCheckboxGradientStartColor</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

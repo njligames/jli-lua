@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getVelocity()
-]]></content>
-<tabTrigger>PhysicsBodyGhost:getVelocity</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

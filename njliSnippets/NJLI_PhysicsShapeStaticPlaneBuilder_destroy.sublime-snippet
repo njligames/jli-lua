@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsShapeStaticPlaneBuilder.destroy(${1:object})
-]]></content>
-<tabTrigger>PhysicsShapeStaticPlaneBuilder.destroy</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

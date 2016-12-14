@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getPlaneNormal()
-]]></content>
-<tabTrigger>PhysicsShapeStaticPlane:getPlaneNormal</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

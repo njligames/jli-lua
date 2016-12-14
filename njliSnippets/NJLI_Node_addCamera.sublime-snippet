@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-addCamera(${1:body})
-]]></content>
-<tabTrigger>Node:addCamera</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

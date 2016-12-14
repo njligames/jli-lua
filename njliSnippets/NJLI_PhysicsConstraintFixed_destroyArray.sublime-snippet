@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.PhysicsConstraintFixed.destroyArray(${1:array})
-]]></content>
-<tabTrigger>PhysicsConstraintFixed.destroyArray</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

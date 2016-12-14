@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.Geometry.greaterThan()
-]]></content>
-<tabTrigger>Geometry.greaterThan</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

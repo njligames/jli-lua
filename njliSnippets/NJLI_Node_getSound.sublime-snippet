@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-getSound(${1:index})
-]]></content>
-<tabTrigger>Node:getSound</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

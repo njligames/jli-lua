@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.DropdownHUDBuilder.clone(${1:object})
-]]></content>
-<tabTrigger>DropdownHUDBuilder.clone</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

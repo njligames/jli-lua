@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-setX(${1:x})
-]]></content>
-<tabTrigger>btVector2:setX</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

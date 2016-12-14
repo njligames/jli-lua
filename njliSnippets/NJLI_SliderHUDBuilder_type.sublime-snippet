@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.SliderHUDBuilder.type()
-]]></content>
-<tabTrigger>SliderHUDBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-

@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-NJLI.CollisionResponseBuilder.type()
-]]></content>
-<tabTrigger>CollisionResponseBuilder.type</tabTrigger>
-<scope>source.lua</scope>
-</snippet>
-
